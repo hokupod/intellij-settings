@@ -2,19 +2,106 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" timestamp="1452345355631">
+        <mark key="'" line="197" column="48" />
+        <mark key="[" line="131" column="9" />
+        <mark key="m" line="183" column="11" />
+        <mark key="n" line="183" column="11" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="177" column="24" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="178" column="25" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="180" column="42" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="181" column="42" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="187" column="29" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="190" column="48" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="191" column="48" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
+      <jump line="5" column="30" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/sessions/new.html.erb" />
+    </jumps>
+    <registers>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>new</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPCU9IHRleHRfZmllbGQgOnNlc3Npb24sIDplbWFpbCAlPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDwlPSBmb3JtX3RhZyBhY3Rpb246IDpjcmVhdGUgZG8gJT4KICAgICAgPCU9IGxhYmVsX3RhZyA6c2Vzc2lvbiwgOmVtYWlsICU+CiAgICAgIDwlPSB0ZXh0X2ZpZWxkIDpzZXNzaW9uLCA6ZW1haWwgJT4KCiAgICAgIDwlPSBsYWJlbF90YWcgOnNlc3Npb24sIDpwYXNzd29yZCAlPgogICAgICA8JT0gdGV4dF9maWVsZCA6c2Vzc2lvbiwgOnBhc3N3b3JkICU+CgogICAgICA8JT0gc3VibWl0X3RhZyAnU2lnbiBpbicsIGNsYXNzOiAnYnRuIGJ0bi1sYXJnZSBidG4tcHJpbWFyeScgJT4KICA8JSBlbmQgJT4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS08JT0gZm9ybV9mb3IoOnNlc3Npb24sIHVybDogc2Vzc2lvbnNfcGF0aCkgZG8gfGZ8ICU+LS0+CiAgICAgIDwhLS08JT0gZi5sYWJlbCA6ZW1haWwgJT4tLT4KICAgICAgPCEtLTwlPSBmLnRleHRfZmllbGQgOmVtYWlsICU+LS0+CgogICAgICA8IS0tPCU9IGYubGFiZWwgOnBhc3N3b3JkICU+LS0+CiAgICAgIDwhLS08JT0gZi50ZXh0X2ZpZWxkIDpwYXNzd29yZCAlPi0tPgoKICAgICAgPCEtLTwlPSBmLnN1Ym1pdCAiU2lnbiBpbiIsIGNsYXNzOiAiYnRuIGJ0bi1sYXJnZSBidG4tcHJpbWFyeSIgJT4tLT4KICAgIDwhLS08JSBlbmQgJT4tLT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPCEtLTwlPSB0ZXh0X2ZpZWxkIDpzZXNzaW9uLCA6ZW1haWwgJT4tLT4K</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGVzc2lvbg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>:</text>
+      </register>
+      <register name="7" type="4">
+        <text>'create'</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
+        <text>{</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <last-search>new</last-search>
+      <last-offset />
+      <last-pattern>new</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>new</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nohlsearch</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
