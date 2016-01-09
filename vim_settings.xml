@@ -3,15 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" timestamp="1452348967443">
+      <file name="/fragment.rb" timestamp="1452349723731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" timestamp="1452349960847">
         <mark key="p" line="165" column="37" />
-        <mark key="'" line="201" column="33" />
-        <mark key="[" line="204" column="41" />
+        <mark key="[" line="200" column="0" />
         <mark key="m" line="183" column="11" />
-        <mark key="]" line="204" column="62" />
+        <mark key="]" line="200" column="0" />
         <mark key="n" line="183" column="11" />
-        <mark key="." line="204" column="62" />
-        <mark key="^" line="204" column="62" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1452349663193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
+        <mark key="[" line="65" column="69" />
+        <mark key="]" line="65" column="65" />
+        <mark key="^" line="65" column="65" />
+        <mark key="." line="65" column="65" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -40,7 +50,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>user</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
@@ -49,31 +59,31 @@
         <text encoding="base64">ICAgICAgbGV0KDpuZXdfbmFtZSkgeyAnTmV3IE5hbWUnIH0KICAgICAgbGV0KDpuZXdfZW1haWwpIHsgJ25ld0BleGFtcGxlLmNvbScgfQogICAgICBiZWZvcmUgZG8KICAgICAgICBmaWxsX2luICdOYW1lJywgICAgICAgICAgICAgd2l0aDogbmV3X25hbWUKICAgICAgICBmaWxsX2luICdFbWFpbCcsICAgICAgICAgICAgd2l0aDogbmV3X2VtYWlsCiAgICAgICAgZmlsbF9pbiAnUGFzc3dvcmQnLCAgICAgICAgIHdpdGg6IHVzZXIucGFzc3dvcmQKICAgICAgICBmaWxsX2luICdDb25maXJtIFBhc3N3b3JkJywgd2l0aDogdXNlci5wYXNzd29yZAogICAgICAgIGNsaWNrX2J1dHRvbiAnU2F2ZSBjaGFuZ2VzJwogICAgICBlbmQKCiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfdGl0bGUobmV3X25hbWUpIH0KICAgICAgaXQgeyBzaG91bGQgaGF2ZV9zZWxlY3RvcignZGl2LmFsZXJ0LmFsZXJ0LXN1Y2Nlc3MnKSB9CiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfbGluaygnU2lnbiBvdXQnLCBocmVmOiBzaWdub3V0X3BhdGgpIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZC5uYW1lKS50byAgZXEgbmV3X25hbWUgfQogICAgICBzcGVjaWZ5IHsgZXhwZWN0KHVzZXIucmVsb2FkLmVtYWlsKS50byBlcSBuZXdfZW1haWwgfQo=</text>
       </register>
       <register name="1" type="4">
-        <text>user</text>
+        <text>admin</text>
       </register>
-      <register name="2" type="4">
-        <text>user</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBkZXNjcmliZSAndW5hdmFpbGFibGUgY2hhbmdlIGFkbWluJyBkbwogICAgICBsZXQoOmFkbWluKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6YWRtaW4pIH0KICAgICAgYWRtaW4uYWRtaW4gPSBmYWxzZQogICAgICBiZWZvcmUgeyBwYXRjaCA6dXBkYXRlLCB1c2VyIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZCg6YWRtaW4pKS5ub3RfdG8gZXEgdXNlci50b2dnbGUoOmFkbWluKSB9CiAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAndW5hdmFpbGFibGUgY2hhbmdlIGFkbWluJyBkbwogICAgCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgdXNlci50b2dnbGUoOmFkbWluKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOnVzZXJdWzphZG1pbl0gPSB0cnVlCg==</text>
+      <register name="4" type="4">
+        <text>admin</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>user</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBzaG91bGQgaGF2ZV90aXRsZShuZXdfbmFtZSkgfQogICAgICBpdCB7IHNob3VsZCBoYXZlX3NlbGVjdG9yKCdkaXYuYWxlcnQuYWxlcnQtc3VjY2VzcycpIH0KICAgICAgaXQgeyBzaG91bGQgaGF2ZV9saW5rKCdTaWduIG91dCcsIGhyZWY6IHNpZ25vdXRfcGF0aCkgfQogICAgICBzcGVjaWZ5IHsgZXhwZWN0KHVzZXIucmVsb2FkLm5hbWUpLnRvICBlcSBuZXdfbmFtZSB9CiAgICAgIHNwZWNpZnkgeyBleHBlY3QodXNlci5yZWxvYWQuZW1haWwpLnRvIGVxIG5ld19lbWFpbCB9Cg==</text>
+      <register name="6" type="4">
+        <text>user</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZXNjcmliZSAndW5hdmFpbGFibGUgY2hhbmdlIGFkbWluJyBkbwogICAgCiAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbOnVzZXJdWzphZG1pbl0gPSB0cnVlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yZSBkbwo=</text>
+      <register name="9" type="4">
+        <text>k</text>
       </register>
       <register name=":" type="4">
         <text>204</text>
