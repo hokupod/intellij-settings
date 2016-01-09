@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="SQLite" uuid="0f1c0a22-501d-422b-a26c-b45cd302a7fb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/Nitrous/sonic-boom-55/book_admin/db/development.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</application>
