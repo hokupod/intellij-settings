@@ -94,7 +94,7 @@
       <last-offset />
       <last-pattern>admin</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
