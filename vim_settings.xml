@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452517072817">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+      </file>
       <file name="/fragment.rb" timestamp="1452349723731">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,6 +34,12 @@
         <mark key="]" line="65" column="65" />
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452518290947">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+        <mark key="." line="46" column="9" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -50,7 +68,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
@@ -58,32 +76,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpuZXdfbmFtZSkgeyAnTmV3IE5hbWUnIH0KICAgICAgbGV0KDpuZXdfZW1haWwpIHsgJ25ld0BleGFtcGxlLmNvbScgfQogICAgICBiZWZvcmUgZG8KICAgICAgICBmaWxsX2luICdOYW1lJywgICAgICAgICAgICAgd2l0aDogbmV3X25hbWUKICAgICAgICBmaWxsX2luICdFbWFpbCcsICAgICAgICAgICAgd2l0aDogbmV3X2VtYWlsCiAgICAgICAgZmlsbF9pbiAnUGFzc3dvcmQnLCAgICAgICAgIHdpdGg6IHVzZXIucGFzc3dvcmQKICAgICAgICBmaWxsX2luICdDb25maXJtIFBhc3N3b3JkJywgd2l0aDogdXNlci5wYXNzd29yZAogICAgICAgIGNsaWNrX2J1dHRvbiAnU2F2ZSBjaGFuZ2VzJwogICAgICBlbmQKCiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfdGl0bGUobmV3X25hbWUpIH0KICAgICAgaXQgeyBzaG91bGQgaGF2ZV9zZWxlY3RvcignZGl2LmFsZXJ0LmFsZXJ0LXN1Y2Nlc3MnKSB9CiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfbGluaygnU2lnbiBvdXQnLCBocmVmOiBzaWdub3V0X3BhdGgpIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZC5uYW1lKS50byAgZXEgbmV3X25hbWUgfQogICAgICBzcGVjaWZ5IHsgZXhwZWN0KHVzZXIucmVsb2FkLmVtYWlsKS50byBlcSBuZXdfZW1haWwgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>admin</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZXNjcmliZSAndW5hdmFpbGFibGUgY2hhbmdlIGFkbWluJyBkbwogICAgICBsZXQoOmFkbWluKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6YWRtaW4pIH0KICAgICAgYWRtaW4uYWRtaW4gPSBmYWxzZQogICAgICBiZWZvcmUgeyBwYXRjaCA6dXBkYXRlLCB1c2VyIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZCg6YWRtaW4pKS5ub3RfdG8gZXEgdXNlci50b2dnbGUoOmFkbWluKSB9CiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlci50b2dnbGUoOmFkbWluKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="4">
-        <text>admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAndW5hdmFpbGFibGUgY2hhbmdlIGFkbWluJyBkbwogICAgCiAgZW5kCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOnVzZXJdWzphZG1pbl0gPSB0cnVlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="4">
-        <text>k</text>
+        <text>admin</text>
       </register>
       <register name=":" type="4">
         <text>204</text>
