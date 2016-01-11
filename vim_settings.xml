@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452517072817">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="4" column="44" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452519846616">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
         <mark key="[" line="8" column="35" />
@@ -35,12 +36,11 @@
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452519120241">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="51" column="14" />
-        <mark key="." line="51" column="14" />
-        <mark key="^" line="51" column="14" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452520385797">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -70,54 +70,57 @@
       <jump line="52" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
       <jump line="37" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
       <jump line="53" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
+      <jump line="38" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
+      <jump line="19" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" />
+      <jump line="26" column="2" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>amount_for(element)</text>
       </register>
       <register name="/" type="4">
-        <text>this_amount</text>
+        <text>\vthis_amount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpuZXdfbmFtZSkgeyAnTmV3IE5hbWUnIH0KICAgICAgbGV0KDpuZXdfZW1haWwpIHsgJ25ld0BleGFtcGxlLmNvbScgfQogICAgICBiZWZvcmUgZG8KICAgICAgICBmaWxsX2luICdOYW1lJywgICAgICAgICAgICAgd2l0aDogbmV3X25hbWUKICAgICAgICBmaWxsX2luICdFbWFpbCcsICAgICAgICAgICAgd2l0aDogbmV3X2VtYWlsCiAgICAgICAgZmlsbF9pbiAnUGFzc3dvcmQnLCAgICAgICAgIHdpdGg6IHVzZXIucGFzc3dvcmQKICAgICAgICBmaWxsX2luICdDb25maXJtIFBhc3N3b3JkJywgd2l0aDogdXNlci5wYXNzd29yZAogICAgICAgIGNsaWNrX2J1dHRvbiAnU2F2ZSBjaGFuZ2VzJwogICAgICBlbmQKCiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfdGl0bGUobmV3X25hbWUpIH0KICAgICAgaXQgeyBzaG91bGQgaGF2ZV9zZWxlY3RvcignZGl2LmFsZXJ0LmFsZXJ0LXN1Y2Nlc3MnKSB9CiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfbGluaygnU2lnbiBvdXQnLCBocmVmOiBzaWdub3V0X3BhdGgpIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZC5uYW1lKS50byAgZXEgbmV3X25hbWUgfQogICAgICBzcGVjaWZ5IHsgZXhwZWN0KHVzZXIucmVsb2FkLmVtYWlsKS50byBlcSBuZXdfZW1haWwgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpc19hbW91bnQgPSBlbGVtZW50LmNoYXJnZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXNfYW1vdW50ID0gYW1vdW50X2ZvcihlbGVtZW50KQo=</text>
+      <register name="3" type="4">
+        <text>amount_for(element)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpc19hbW91bnQgPSAwCgogICAgICAjIOWQhOihjOOBrumHkemhjeOCkuioiOeulwogICAgICBjYXNlIGVsZW1lbnQubW92aWUucHJpY2VfY29kZQogICAgICAgIHdoZW4gTW92aWU6OlJFR1VMQVIKICAgICAgICAgIHRoaXNfYW1vdW50ICs9IDIKICAgICAgICAgIHRoaXNfYW1vdW50ICs9IChlbGVtZW50LmRheXNfcmVudGVkIC0yKSAqIDEuNSBpZiBlbGVtZW50LmRheXNfcmVudGVkID4gMgogICAgICAgIHdoZW4gTW92aWU6Ok5FV19SRUxFQVNFCiAgICAgICAgICB0aGlzX2Ftb3VudCArPSBlbGVtZW50LmRheXNfcmVudGVkICogMwogICAgICAgIHdoZW4gTW92aWU6OkNISUxEUkVOUwogICAgICAgICAgdGhpc19hbW91bnQgKz0gMS41CiAgICAgICAgICB0aGlzX2Ftb3VudCArPSAoZWxlbWVudC5kYXlzX3JlbnRlZCAtMykgKiAxLjUgaWYgZWxlbWVudC5kYXlzX3JlbnRlZCA+IDMKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">CiAgZGVmIGFtb3VudF9mb3IocmVudGFsKQogICAgcmVudGFsLmNoYXJnZQogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IDAKCiAgICAjIOWQhOihjOOBrumHkemhjeOCkuioiOeulwogICAgY2FzZSByZW50YWwubW92aWUucHJpY2VfY29kZQogICAgICB3aGVuIE1vdmllOjpSRUdVTEFSCiAgICAgICAgcmVzdWx0ICs9IDIKICAgICAgICByZXN1bHQgKz0gKHJlbnRhbC5kYXlzX3JlbnRlZCAtMikgKiAxLjUgaWYgcmVudGFsLmRheXNfcmVudGVkID4gMgogICAgICB3aGVuIE1vdmllOjpORVdfUkVMRUFTRQogICAgICAgIHJlc3VsdCArPSByZW50YWwuZGF5c19yZW50ZWQgKiAzCiAgICAgIHdoZW4gTW92aWU6OkNISUxEUkVOUwogICAgICAgIHJlc3VsdCArPSAxLjUKICAgICAgICByZXN1bHQgKz0gKHJlbnRhbC5kYXlzX3JlbnRlZCAtMykgKiAxLjUgaWYgcmVudGFsLmRheXNfcmVudGVkID4gMwogICAgZW5kCiAgICByZXN1bHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXNfYW1vdW50ID0gYW1vdW50X2ZvcihlbGVtZW50KQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</text>
+        <text encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</text>
       </register>
     </registers>
     <search>
       <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>this_amount</last-pattern>
-      <last-replace>result</last-replace>
-      <last-substitute>this_amount</last-substitute>
+      <last-pattern>\vthis_amount</last-pattern>
+      <last-replace>element.charge</last-replace>
+      <last-substitute>\vthis_amount</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -128,6 +131,8 @@
         <entry>admin</entry>
         <entry>element</entry>
         <entry>this_amount</entry>
+        <entry>rental\.</entry>
+        <entry>\vthis_amount</entry>
       </history-search>
       <history-cmd>
         <entry>set nohlsearch</entry>
@@ -135,6 +140,8 @@
         <entry>204</entry>
         <entry encoding="base64">JzwsJz5zL2VsZW1lbnQvcmVudGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3JlbnRhbFwuLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
