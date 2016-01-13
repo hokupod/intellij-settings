@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452519846616">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452691886763">
         <mark key="'" line="19" column="9" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+        <mark key="^" line="26" column="69" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
         <mark key="[" line="8" column="35" />
@@ -36,11 +36,12 @@
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452520385797">
-        <mark key="'" line="26" column="2" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452692008952">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -76,40 +77,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>amount_for(element)</text>
+        <text>rental</text>
       </register>
       <register name="/" type="4">
         <text>\vthis_amount</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpuZXdfbmFtZSkgeyAnTmV3IE5hbWUnIH0KICAgICAgbGV0KDpuZXdfZW1haWwpIHsgJ25ld0BleGFtcGxlLmNvbScgfQogICAgICBiZWZvcmUgZG8KICAgICAgICBmaWxsX2luICdOYW1lJywgICAgICAgICAgICAgd2l0aDogbmV3X25hbWUKICAgICAgICBmaWxsX2luICdFbWFpbCcsICAgICAgICAgICAgd2l0aDogbmV3X2VtYWlsCiAgICAgICAgZmlsbF9pbiAnUGFzc3dvcmQnLCAgICAgICAgIHdpdGg6IHVzZXIucGFzc3dvcmQKICAgICAgICBmaWxsX2luICdDb25maXJtIFBhc3N3b3JkJywgd2l0aDogdXNlci5wYXNzd29yZAogICAgICAgIGNsaWNrX2J1dHRvbiAnU2F2ZSBjaGFuZ2VzJwogICAgICBlbmQKCiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfdGl0bGUobmV3X25hbWUpIH0KICAgICAgaXQgeyBzaG91bGQgaGF2ZV9zZWxlY3RvcignZGl2LmFsZXJ0LmFsZXJ0LXN1Y2Nlc3MnKSB9CiAgICAgIGl0IHsgc2hvdWxkIGhhdmVfbGluaygnU2lnbiBvdXQnLCBocmVmOiBzaWdub3V0X3BhdGgpIH0KICAgICAgc3BlY2lmeSB7IGV4cGVjdCh1c2VyLnJlbG9hZC5uYW1lKS50byAgZXEgbmV3X25hbWUgfQogICAgICBzcGVjaWZ5IHsgZXhwZWN0KHVzZXIucmVsb2FkLmVtYWlsKS50byBlcSBuZXdfZW1haWwgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZS5wcmljZV9jb2RlID09IE1vdmllLk5FV19SRUxFQVNFICYm</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>rental</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpc19hbW91bnQgPSBlbGVtZW50LmNoYXJnZQo=</text>
+        <text encoding="base64">ICAgICAgZnJlcXVlbnRfcmVudGVyX3BvaW50cyArPSAxCiAgICAgICMg5paw5L2cMuaXpemWk+ODrOODs+OCv+ODq+OBp+ODnOODvOODiuOCueODneOCpOODs+ODiOOCkuWKoOeulwogICAgICBpZiBlbGVtZW50Lm1vdmllLnByaWNlX2NvZGUgPT0gTW92aWUuTkVXX1JFTEVBU0UgJiYKICAgICAgICAgIGVsZW1lbnQuZGF5c19yZW50ZWQgPiAxCiAgICAgICAgZnJlcXVlbnRfcmVudGVyX3BvaW50cyArPSAxCiAgICAgIGVuZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>amount_for(element)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZyZXF1ZW50X3JlbnRlcl9wb2ludHMgKz0gMQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIGFtb3VudF9mb3IocmVudGFsKQogICAgcmVudGFsLmNoYXJnZQogIGVuZAo=</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IDAKCiAgICAjIOWQhOihjOOBrumHkemhjeOCkuioiOeulwogICAgY2FzZSByZW50YWwubW92aWUucHJpY2VfY29kZQogICAgICB3aGVuIE1vdmllOjpSRUdVTEFSCiAgICAgICAgcmVzdWx0ICs9IDIKICAgICAgICByZXN1bHQgKz0gKHJlbnRhbC5kYXlzX3JlbnRlZCAtMikgKiAxLjUgaWYgcmVudGFsLmRheXNfcmVudGVkID4gMgogICAgICB3aGVuIE1vdmllOjpORVdfUkVMRUFTRQogICAgICAgIHJlc3VsdCArPSByZW50YWwuZGF5c19yZW50ZWQgKiAzCiAgICAgIHdoZW4gTW92aWU6OkNISUxEUkVOUwogICAgICAgIHJlc3VsdCArPSAxLjUKICAgICAgICByZXN1bHQgKz0gKHJlbnRhbC5kYXlzX3JlbnRlZCAtMykgKiAxLjUgaWYgcmVudGFsLmRheXNfcmVudGVkID4gMwogICAgZW5kCiAgICByZXN1bHQK</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>m</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXNfYW1vdW50ID0gYW1vdW50X2ZvcihlbGVtZW50KQo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</text>
