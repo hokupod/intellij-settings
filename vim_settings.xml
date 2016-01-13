@@ -36,11 +36,11 @@
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452694470036">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="33" column="76" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -76,40 +76,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\vthis_amount</text>
       </register>
       <register name="0" type="4">
-        <text>total_frequent_renter_points</text>
+        <text>frequent renter points</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCArPSAiWW91IGVhcm5lZCAje3RvdGFsX2ZyZXF1ZW50X3JlbnRlcl9wb2ludHN9IGZyZXF1ZW50IHJlbnRlciBwb2ludHMiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCArPSAiQW1vdW50IG93ZWQgaXMgI3t0b3RhbF9jaGFyZ2V9XG4iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0ICs9ICJcdCIgKyBlbGVtZW50Lgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRvdGFsX2Ftb3VudCwgZnJlcXVlbnRfcmVudGVyX3BvaW50cyA9IDAsIDAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIyDjg6zjg7Pjgr/jg6vjg53jgqTjg7Pjg4jjgpLliqDnrpcKICAgICAgZnJlcXVlbnRfcmVudGVyX3BvaW50cyArPSBlbGVtZW50LmZyZXF1ZW50X3JlbnRlcl9wb2ludHMK</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>s</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>t</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
-      </register>
-      <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="7" type="4">
-        <text>p</text>
-      </register>
-      <register name="8" type="4">
-        <text>_</text>
-      </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</text>
