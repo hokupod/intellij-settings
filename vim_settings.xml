@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452691886763">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="26" column="69" />
-        <mark key="." line="26" column="69" />
-        <mark key="^" line="26" column="69" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="42" />
@@ -27,14 +20,20 @@
         <mark key="n" line="183" column="11" />
         <mark key="." line="200" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1452865150556">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
       <file name="/Ruby Console" timestamp="1452349663193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
-        <mark key="[" line="65" column="69" />
-        <mark key="]" line="65" column="65" />
-        <mark key="^" line="65" column="65" />
-        <mark key="." line="65" column="65" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452865191649">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
@@ -47,6 +46,38 @@
         <mark key="]" line="13" column="67" />
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1452863859327">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452691886763">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1452863995507">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452865169915">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
+        <mark key="[" line="65" column="69" />
+        <mark key="]" line="65" column="65" />
+        <mark key="^" line="65" column="65" />
+        <mark key="." line="65" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -73,54 +104,55 @@
       <jump line="38" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
       <jump line="19" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" />
       <jump line="26" column="2" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
+      <jump line="24" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Movie</text>
       </register>
       <register name="/" type="4">
-        <text>\vthis_amount</text>
+        <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="4">
-        <text>frequent renter points</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vLi4vMXN0X2NoYXB0ZXIvbW92aWUnCg==</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>Movie</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCArPSAiWW91IGVhcm5lZCAje3RvdGFsX2ZyZXF1ZW50X3JlbnRlcl9wb2ludHN9IGZyZXF1ZW50IHJlbnRlciBwb2ludHMiCg==</text>
+      <register name="2" type="4">
+        <text>Movie</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCArPSAiQW1vdW50IG93ZWQgaXMgI3t0b3RhbF9jaGFyZ2V9XG4iCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IDAKCiAgICAjIOWQhOihjOOBrumHkemhjeOCkuioiOeulwogICAgY2FzZSBtb3ZpZS5wcmljZV9jb2RlCiAgICAgIHdoZW4gTW92aWU6OlJFR1VMQVIKICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgogICAgICB3aGVuIE1vdmllOjpORVdfUkVMRUFTRQogICAgICAgIHJlc3VsdCArPSBkYXlzX3JlbnRlZCAqIDMKICAgICAgd2hlbiBNb3ZpZTo6Q0hJTERSRU5TCiAgICAgICAgcmVzdWx0ICs9IDEuNQogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTMpICogMS41IGlmIGRheXNfcmVudGVkID4gMwogICAgZW5kCiAgICByZXN1bHQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ICs9ICJcdCIgKyBlbGVtZW50Lgo=</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX2Ftb3VudCwgZnJlcXVlbnRfcmVudGVyX3BvaW50cyA9IDAsIDAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCArPSAiWW91IGVhcm5lZCAje3RvdGFsX2ZyZXF1ZW50X3JlbnRlcl9wb2ludHN9IGZyZXF1ZW50IHJlbnRlciBwb2ludHMiCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCArPSAiQW1vdW50IG93ZWQgaXMgI3t0b3RhbF9jaGFyZ2V9XG4iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0ICs9ICJcdCIgKyBlbGVtZW50Lgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRvdGFsX2Ftb3VudCwgZnJlcXVlbnRfcmVudGVyX3BvaW50cyA9IDAsIDAK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIyDjg6zjg7Pjgr/jg6vjg53jgqTjg7Pjg4jjgpLliqDnrpcKICAgICAgZnJlcXVlbnRfcmVudGVyX3BvaW50cyArPSBlbGVtZW50LmZyZXF1ZW50X3JlbnRlcl9wb2ludHMK</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
-      <register name="9" type="4">
-        <text>n</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</text>
+        <text encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</text>
       </register>
     </registers>
     <search>
       <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>\vthis_amount</last-pattern>
-      <last-replace>element.charge</last-replace>
-      <last-substitute>\vthis_amount</last-substitute>
+      <last-pattern>\v(movie\.|Movie\:\:)</last-pattern>
+      <last-replace />
+      <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -133,6 +165,7 @@
         <entry>this_amount</entry>
         <entry>rental\.</entry>
         <entry>\vthis_amount</entry>
+        <entry>\v(movie\.|Movie\:\:)</entry>
       </history-search>
       <history-cmd>
         <entry>set nohlsearch</entry>
@@ -142,6 +175,7 @@
         <entry encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</entry>
         <entry encoding="base64">JzwsJz5zL3JlbnRhbFwuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
