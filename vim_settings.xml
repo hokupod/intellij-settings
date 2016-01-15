@@ -20,16 +20,16 @@
         <mark key="n" line="183" column="11" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1452869154550">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="36" column="44" />
-        <mark key="^" line="36" column="44" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1452872902348">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="/Ruby Console" timestamp="1452349663193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452872076769">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452872507778">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
@@ -67,11 +67,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452871797987">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452872826845">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -108,43 +108,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text>describe</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="4">
-        <text>Rental.new(@movie, 2)</text>
+        <text>context</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>describe</text>
+      </register>
+      <register name="2" type="4">
+        <text>describe</text>
+      </register>
+      <register name="3" type="4">
+        <text>describe</text>
+      </register>
+      <register name="4" type="4">
+        <text>describe</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVzY3JpYmUg</text>
+      </register>
+      <register name="6" type="4">
+        <text>describe</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCg6bW92aWUpICAgIHsgTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkgfQogICAgbGV0KDpyZW50YWwpICAgeyBSZW50YWwubmV3KG1vdmllLCAyKSB9CiAgICBsZXQoOmN1c3RvbWVyKSB7IEN1c3RvbWVyLm5ldyAnSm9obicgfQogICAgCiAgICBjdXN0b21lci5hZGRfcmVudGFsIHJlbnRhbAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbW92aWUgID0gTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkKICAgICAgQHJlbnRhbCA9IFJlbnRhbC5uZXcoQG1vdmllLCAyKQogICAgZW5kCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyLmFkZF9yZW50YWwgQHJlbnRhbF8yCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyLmFkZF9yZW50YWwgQHJlbnRhbF8xCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgCiAgIA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbW92aWUgID0gTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkKICAgICAgQHJlbnRhbCA9IFJlbnRhbC5uZXcoQG1vdmllLCAyKQogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
