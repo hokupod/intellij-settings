@@ -29,11 +29,11 @@
       <file name="/Ruby Console" timestamp="1452349663193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452871078132">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="12" column="43" />
-        <mark key="." line="17" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452872076769">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
@@ -67,7 +67,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452870778302">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452871797987">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="50" />
         <mark key="^" line="21" column="58" />
@@ -108,43 +108,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVudGFsXzEgID0gUmVudGFsLm5ldyhtb3ZpZSwgMikK</text>
+      <register name="0" type="4">
+        <text>Rental.new(@movie, 2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCg6bW92aWUpIHsgTW92aWUubmV3ICdyZWd1bGFyX21vdmllJywgMCB9CiAgICBsZXQoOm5ld19tb3ZpZSkgeyBNb3ZpZS5uZXcgJ25ld19tb3ZpZScsIDEgfQo=</text>
+        <text encoding="base64">ICAgIGxldCg6bW92aWUpICAgIHsgTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkgfQogICAgbGV0KDpyZW50YWwpICAgeyBSZW50YWwubmV3KG1vdmllLCAyKSB9CiAgICBsZXQoOmN1c3RvbWVyKSB7IEN1c3RvbWVyLm5ldyAnSm9obicgfQogICAgCiAgICBjdXN0b21lci5hZGRfcmVudGFsIHJlbnRhbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbW92aWUgID0gTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkKICAgICAgQHJlbnRhbCA9IFJlbnRhbC5uZXcoQG1vdmllLCAyKQogICAgZW5kCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGN1c3RvbWVyLmFkZF9yZW50YWwgQHJlbnRhbF8yCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGN1c3RvbWVyLmFkZF9yZW50YWwgQHJlbnRhbF8xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQG1vdmllICAgICA9IE1vdmllLm5ldygncmVndWxhcl9tb3ZpZScsIDApCiAgICAgIEBuZXdfbW92aWUgPSBNb3ZpZS5uZXcoJ25ld19tb3ZpZScgICAgLCAxKQogICAgICBAcmVudGFsXzEgID0gUmVudGFsLm5ldyhAbW92aWUgICAgLCAyKQogICAgICBAcmVudGFsXzIgID0gUmVudGFsLm5ldyhAbmV3X21vdmllLCAyKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgCiAgIA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8KCiAgZW5kCg==</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>NEW_RELEASE</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
