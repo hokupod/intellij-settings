@@ -20,20 +20,20 @@
         <mark key="n" line="183" column="11" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1452865150556">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1452868191716">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="/Ruby Console" timestamp="1452349663193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452865191649">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="43" />
-        <mark key="^" line="1" column="43" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452867965688">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
@@ -67,11 +67,8 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452865169915">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452868415049">
+        <mark key="[" line="6" column="36" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -108,43 +105,46 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Movie</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vLi4vMXN0X2NoYXB0ZXIvbW92aWUnCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVzY3JpYmUgJ3JlbnQgTkVXX1JFTEVBU0UgTW92aWUnIGRvCiAgICAgIGxldCg6bW92aWUpIHsgTW92aWUubmV3ICduZXdfbW92aWUnLCAxIH0KCiAgICAgIGl0ICdmb3IgMmRheXMnIGRvCiAgICAgICAgaXNfYXNzZXJ0ZWRfYnkgeyBtb3ZpZS5jaGFyZ2UoMikgPT0gMiB9CiAgICAgIGVuZAogICAgICBpdCAnZm9yIDZkYXlzJyBkbwogICAgICAgIGlzX2Fzc2VydGVkX2J5IHsgbW92aWUuY2hhcmdlKDYpID09IDggfQogICAgICBlbmQKICAgIGVuZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Movie</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8KCiAgZW5kCg==</text>
       </register>
       <register name="2" type="4">
-        <text>Movie</text>
+        <text>5</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IDAKCiAgICAjIOWQhOihjOOBrumHkemhjeOCkuioiOeulwogICAgY2FzZSBtb3ZpZS5wcmljZV9jb2RlCiAgICAgIHdoZW4gTW92aWU6OlJFR1VMQVIKICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgogICAgICB3aGVuIE1vdmllOjpORVdfUkVMRUFTRQogICAgICAgIHJlc3VsdCArPSBkYXlzX3JlbnRlZCAqIDMKICAgICAgd2hlbiBNb3ZpZTo6Q0hJTERSRU5TCiAgICAgICAgcmVzdWx0ICs9IDEuNQogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTMpICogMS41IGlmIGRheXNfcmVudGVkID4gMwogICAgZW5kCiAgICByZXN1bHQK</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>4</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCArPSAiWW91IGVhcm5lZCAje3RvdGFsX2ZyZXF1ZW50X3JlbnRlcl9wb2ludHN9IGZyZXF1ZW50IHJlbnRlciBwb2ludHMiCg==</text>
+      <register name="5" type="4">
+        <text>8</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCArPSAiQW1vdW50IG93ZWQgaXMgI3t0b3RhbF9jaGFyZ2V9XG4iCg==</text>
+      <register name="6" type="4">
+        <text>2</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ICs9ICJcdCIgKyBlbGVtZW50Lgo=</text>
+      <register name="7" type="4">
+        <text>2</text>
+      </register>
+      <register name="w" type="4">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX2Ftb3VudCwgZnJlcXVlbnRfcmVudGVyX3BvaW50cyA9IDAsIDAK</text>
+        <text encoding="base64">ICAgIHRydWUuc2hvdWxkID09IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyDjg6zjg7Pjgr/jg6vjg53jgqTjg7Pjg4jjgpLliqDnrpcKICAgICAgZnJlcXVlbnRfcmVudGVyX3BvaW50cyArPSBlbGVtZW50LmZyZXF1ZW50X3JlbnRlcl9wb2ludHMK</text>
+        <text encoding="base64">ICAgIHRydWUuc2hvdWxkID09IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -176,6 +176,7 @@
         <entry encoding="base64">JzwsJz5zL3JlbnRhbFwuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
