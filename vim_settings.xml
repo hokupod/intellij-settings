@@ -29,11 +29,15 @@
       <file name="/Ruby Console" timestamp="1452349663193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1452872507778">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453212935306">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="45" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/customer.rb" timestamp="1453212802522">
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="79" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
@@ -105,46 +109,47 @@
       <jump line="19" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" />
       <jump line="26" column="2" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" />
       <jump line="24" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" />
+      <jump line="26" column="43" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>describe</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="4">
-        <text>context</text>
+        <text>frequent renter points</text>
       </register>
       <register name="1" type="4">
-        <text>describe</text>
+        <text>'</text>
       </register>
-      <register name="2" type="4">
-        <text>describe</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAnMicK</text>
       </register>
       <register name="3" type="4">
-        <text>describe</text>
+        <text encoding="base64">QW1vdW50IG93ZWQgaXMg</text>
       </register>
       <register name="4" type="4">
-        <text>describe</text>
+        <text encoding="base64">IEFtb3VudCBvd2VkIGlz</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZGVzY3JpYmUg</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>describe</text>
+        <text>regular_movie</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCg6bW92aWUpICAgIHsgTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkgfQogICAgbGV0KDpyZW50YWwpICAgeyBSZW50YWwubmV3KG1vdmllLCAyKSB9CiAgICBsZXQoOmN1c3RvbWVyKSB7IEN1c3RvbWVyLm5ldyAnSm9obicgfQogICAgCiAgICBjdXN0b21lci5hZGRfcmVudGFsIHJlbnRhbAo=</text>
+      <register name="7" type="4">
+        <text>Movie Title and Charge</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="8" type="4">
+        <text>111</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAbW92aWUgID0gTW92aWUubmV3KCdyZWd1bGFyX21vdmllJywgMCkKICAgICAgQHJlbnRhbCA9IFJlbnRhbC5uZXcoQG1vdmllLCAyKQogICAgZW5kCg==</text>
+      <register name="9" type="4">
+        <text>regular_movie</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
@@ -199,6 +204,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
