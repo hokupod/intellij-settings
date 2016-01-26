@@ -51,11 +51,11 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1452870304979">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="31" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1453815356649">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/rental.rb" timestamp="1452691886763">
         <mark key="'" line="19" column="9" />
@@ -64,12 +64,12 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1452870248171">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1453815557726">
         <mark key="'" line="24" column="12" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1452872826845">
         <mark key="[" line="16" column="12" />
@@ -113,43 +113,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">KG1vdmllLnByaWNlX2NvZGUgPT0gTW92aWU6Ok5FV19SRUxFQVNFICYmIEBkYXlzX3JlbnRlZCA+IDEpID8gMiA6IDE=</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="4">
-        <text>frequent renter points</text>
+        <text encoding="base64">cHJpY2VfY29kZSA9PSBNb3ZpZTo6TkVXX1JFTEVBU0UgJiYgQGRheXNfcmVudGVkID4gMSkgPyAyIDogMQ==</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text encoding="base64">KG1vdmllLnByaWNlX2NvZGUgPT0gTW92aWU6Ok5FV19SRUxFQVNFICYmIEBkYXlzX3JlbnRlZCA+IDEpID8gMiA6IDE=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAnMicK</text>
+      <register name="2" type="4">
+        <text>@</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">QW1vdW50IG93ZWQgaXMg</text>
+        <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEFtb3VudCBvd2VkIGlz</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSAnMicK</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text encoding="base64">QW1vdW50IG93ZWQgaXMg</text>
       </register>
       <register name="6" type="4">
-        <text>regular_movie</text>
+        <text encoding="base64">IEFtb3VudCBvd2VkIGlz</text>
       </register>
       <register name="7" type="4">
-        <text>Movie Title and Charge</text>
+        <text>2</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>111</text>
+        <text>regular_movie</text>
       </register>
       <register name="9" type="4">
-        <text>regular_movie</text>
+        <text>Movie Title and Charge</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
