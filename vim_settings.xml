@@ -64,11 +64,9 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1453820055745">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1453886774319">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -118,7 +116,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
@@ -127,36 +125,36 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text />
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgZGVmIHByaWNlX2NvZGU9KHZhbHVlKQogICAgQHByaWNlX2NvZGUgPSB2YWx1ZQogICAgQHByaWNlID0gY2FzZSBAcHJpY2VfY29kZQogICAgICAgICAgICAgICB3aGVuIFJFR1VMQVIKICAgICAgICAgICAgICAgICBSZWd1bGFyUHJpY2UubmV3CiAgICAgICAgICAgICAgIHdoZW4gTkVXX1JFTEVBU0UKICAgICAgICAgICAgICAgICBOZXdSZWxlYXNlUHJpY2UubmV3CiAgICAgICAgICAgICAgIHdoZW4gQ0hJTERSRU5TCiAgICAgICAgICAgICAgICAgQ2hpbGRyZW5zUHJpY2UubmV3CiAgICAgICAgICAgICBlbmQKICBlbmQKCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">cmVxdWlyZSAncmVndWxhcl9wcmljZScKcmVxdWlyZSAnbmV3X3JlbGVhc2VfcHJpY2UnCnJlcXVpcmUgJ2NoaWxkcmVuc19wcmljZScKCg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>./
 ./
 ./</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICByZXF1aXJlICdyZWd1bGFyX3ByaWNlJwogIHJlcXVpcmUgJ25ld19yZWxlYXNlX3ByaWNlJwogIHJlcXVpcmUgJ2NoaWxkcmVuc19wcmljZScK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICByZXF1aXJlICcnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>:</text>
-      </register>
-      <register name="7" type="4">
-        <text>:</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>:</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgo=</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
