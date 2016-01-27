@@ -26,10 +26,14 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Ruby Console" timestamp="1452349663193">
+      <file name="/Ruby Console" timestamp="1453887399715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453817922750">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/regular_price.rb" timestamp="1453887317379">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="5" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887496741">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="11" />
@@ -64,9 +68,17 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1453886774319">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" timestamp="1453887058693">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/movie.rb" timestamp="1453887129050">
         <mark key="'" line="29" column="12" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -85,6 +97,11 @@
         <mark key="]" line="65" column="65" />
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/childrens_price.rb" timestamp="1453887075476">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -116,45 +133,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMS41CiAgICAgICAgcmVzdWx0ICs9IChkYXlzX3JlbnRlZCAtMykgKiAxLjUgaWYgZGF5c19yZW50ZWQgPiAzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IDAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIHByaWNlX2NvZGU9KHZhbHVlKQogICAgQHByaWNlX2NvZGUgPSB2YWx1ZQogICAgQHByaWNlID0gY2FzZSBAcHJpY2VfY29kZQogICAgICAgICAgICAgICB3aGVuIFJFR1VMQVIKICAgICAgICAgICAgICAgICBSZWd1bGFyUHJpY2UubmV3CiAgICAgICAgICAgICAgIHdoZW4gTkVXX1JFTEVBU0UKICAgICAgICAgICAgICAgICBOZXdSZWxlYXNlUHJpY2UubmV3CiAgICAgICAgICAgICAgIHdoZW4gQ0hJTERSRU5TCiAgICAgICAgICAgICAgICAgQ2hpbGRyZW5zUHJpY2UubmV3CiAgICAgICAgICAgICBlbmQKICBlbmQKCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmVndWxhcl9wcmljZScKcmVxdWlyZSAnbmV3X3JlbGVhc2VfcHJpY2UnCnJlcXVpcmUgJ2NoaWxkcmVuc19wcmljZScKCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="8">
-        <text>./
-./
-./</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdyZWd1bGFyX3ByaWNlJwogIHJlcXVpcmUgJ25ld19yZWxlYXNlX3ByaWNlJwogIHJlcXVpcmUgJ2NoaWxkcmVuc19wcmljZScK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXF1aXJlICcnCg==</text>
+      <register name="7" type="4">
+        <text>n</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gMgogICAgICAgIHJlc3VsdCArPSAoZGF5c19yZW50ZWQgLTIpICogMS41IGlmIGRheXNfcmVudGVkID4gMgo=</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
