@@ -47,6 +47,12 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457447107056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/customer.rb" timestamp="1453212802522">
         <mark key="[" line="21" column="58" />
         <mark key="]" line="21" column="79" />
@@ -56,6 +62,12 @@
         <mark key="]" line="37" column="9" />
         <mark key="." line="37" column="9" />
         <mark key="^" line="37" column="9" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457447466977">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="62" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -81,11 +93,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457446856376">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" timestamp="1457446730709">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="112" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="267" column="83" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
         <mark key="[" line="0" column="9" />
@@ -136,46 +161,48 @@
       <jump line="3" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" />
       <jump line="4" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" />
+      <jump line="271" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>+</text>
+        <text>Consumer secret</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZnJlcXVlbnRfcmVudGVyX3BvaW50cyhkYXlzX3JlbnRlZCkKICAgIDEKICBlbmQK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgICJib1lrb3F4YTJYNzZzNHc2dUxtOFFKUXBUIiwgIk91RDV2N1Y2UWhUdkRWWE1ja3ZySHZTNEV5WGJhNVQ3SjZsWkt4MVVZTGJYYUNoQmxiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChwcmljZV9jb2RlID09IE1vdmllOjpORVdfUkVMRUFTRSAmJiBkYXlzX3JlbnRlZCA+IDEpID8gMiA6IDEK</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2Vycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDEK</text>
+        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwKICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnbmV3X3JlbGVhc2VfcHJpY2UnCnJlcXVpcmVfcmVsYXRpdmUgJ2NoaWxkcmVuc19wcmljZScK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgICJDb25zdW1lciBrZXkiLCAiQ29uc3VtZXIgc2VjcmV0Igo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTmV3UmVsZWFzZVByaWNlCiAgZGVmIGNoYXJnZShkYXlzX3JlbnRlZCkKICAgIGRheXNfcmVudGVkICogMwogIGVuZAplbmQK</text>
+      <register name="4" type="4">
+        <text>Consumer secret</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQ2hpbGRyZW5zUHJpY2UKICBkZWYgY2hhcmdlKGRheXNfcmVudGVkKQogICAgcmVzdWx0ID0gMS41CiAgICByZXN1bHQgKz0gKGRheXNfcmVudGVkIC0zKSAqIDEuNSBpZiBkYXlzX3JlbnRlZCA+IDMKICAgIHJlc3VsdAogIGVuZAplbmQK</text>
+      <register name="5" type="4">
+        <text>Consumer key</text>
       </register>
-      <register name="6" type="4">
-        <text>+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICJBcHAgSUQiLCAiQXBwIFNlY3JldCIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+      <register name="7" type="4">
+        <text>App Secret</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmVzdWx0ICs9IA==</text>
+        <text>App ID</text>
       </register>
-      <register name="9" type="4">
-        <text>+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIChwcmljZV9jb2RlID09IE1vdmllOjpORVdfUkVMRUFTRSAmJiBkYXlzX3JlbnRlZCA+IDEpID8gMiA6IDEK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
