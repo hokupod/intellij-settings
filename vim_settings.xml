@@ -3,13 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/helpers/application_helper.rb" timestamp="1457515531220">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="52" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1453817932223">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Ruby Console" timestamp="1457508638988">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/sessions_controller.rb" timestamp="1457513976427">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+      </file>
+      <file name="/Ruby Console" timestamp="1457513551420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -69,6 +86,11 @@
       <file name="/fragment.rb" timestamp="1452349723731">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457515285290">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/regular_price.rb" timestamp="1453888367851">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="13" column="0" />
@@ -116,11 +138,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457512549776">
-        <mark key="[" line="18" column="74" />
-        <mark key="]" line="19" column="3" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/application_controller.rb" timestamp="1457514075578">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457514850437">
+        <mark key="[" line="17" column="139" />
+        <mark key="]" line="17" column="147" />
+        <mark key="^" line="17" column="147" />
+        <mark key="." line="17" column="147" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457504271285">
         <mark key="'" line="0" column="0" />
@@ -136,10 +163,12 @@
         <mark key="." line="275" column="24" />
         <mark key="^" line="275" column="24" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457512417138">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457513480739">
+        <mark key="'" line="30" column="10" />
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -196,6 +225,7 @@
       <jump line="11" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
       <jump line="6" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
+      <jump line="30" column="10" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -204,38 +234,38 @@
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMuZmFjZWJvb2tfa2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmFpbHMuYXBwbGljYXRpb24uc2VjcmV0cy5mYWNlYm9va19zZWNyZXQKICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMudHdpdHRlcl9rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSYWlscy5hcHBsaWNhdGlvbi5zZWNyZXRzLnR3aXR0ZXJfc2VjcmV0Cg==</text>
+      <register name="0" type="4">
+        <text>devise_bootstrap_views</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">bW9kdWxlIEFwcGxpY2F0aW9uSGVscGVyCmVuZAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25maWcuaW5mZXJfc3BlY190eXBlX2Zyb21fZmlsZV9sb2NhdGlvbiEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHJlc291cmNlX2NsYXNzLm9tbmlhdXRoX3Byb3ZpZGVycy5lYWNoIGRvIHxwcm92aWRlcnwKICAgID0gbGlua190byAiU2lnbiBpbiB3aXRoICN7T21uaUF1dGg6OlV0aWxzLmNhbWVsaXplKHByb3ZpZGVyKX0iLCBvbW5pYXV0aF9hdXRob3JpemVfcGF0aChyZXNvdXJjZV9uYW1lLCBwcm92aWRlcikKICAgIGJyCg==</text>
+        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBEZXZpc2U6OlRlc3RIZWxwZXJzLCB0eXBlOiA6Y29udHJvbGxlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPSBsaW5rX3RvICdTaWduIGluIHdpdGggRmFjZWJvb2snLCB1c2VyX29tbmlhdXRoX2F1dGhvcml6ZV9wYXRoKDpmYWNlYm9vayksIDpjbGFzcyA9PiAnbmF2YmFyLWxpbmsnCiAgICAgIHwgfAogICAgICA9IGxpbmtfdG8gJ1NpZ24gaW4gd2l0aCBUd2l0dGVyJywgdXNlcl9vbW5pYXV0aF9hdXRob3JpemVfcGF0aCg6dHdpdHRlciksIDpjbGFzcyA9PiAnbmF2YmFyLWxpbmsnCg==</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDphdXRoZW50aWNhdGVfdXNlciEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfCB8Cg==</text>
+        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6ZXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCi5pZGVhX21vZHVsZXMvCgo=</text>
+        <text encoding="base64">ICAgIC0gaWYgbm90aWNlCiAgICAgIHAgY2xhc3M9J2FsZXJ0IGFsZXJ0LW5vdGljZScgPSBub3RpY2UKICAgIC0gaWYgYWxlcnQKICAgICAgcCBjbGFzcz0nYWxlcnQgYWxlcnQtZXJyb3InID0gYWxlcnQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyMjIGh0dHBzOi8vcmF3LmdpdGh1Yi5jb20vZ2l0aHViL2dpdGlnbm9yZS9hMzkyYzQ4Y2NmNDEzNmVmNzVhY2IwNWI3ZWFkNGU5Yzc1MjM1YzE5L0dsb2JhbC9KZXRCcmFpbnMuZ2l0aWdub3JlCgojIENvdmVycyBKZXRCcmFpbnMgSURFczogSW50ZWxsaUosIFJ1YnlNaW5lLCBQaHBTdG9ybSwgQXBwQ29kZSwgUHlDaGFybSwgQ0xpb24sIEFuZHJvaWQgU3R1ZGlvIGFuZCBXZWJzdG9ybQojIFJlZmVyZW5jZTogaHR0cHM6Ly9pbnRlbGxpai1zdXBwb3J0LmpldGJyYWlucy5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMjA2NTQ0ODM5CgojIFVzZXItc3BlY2lmaWMgc3R1ZmY6Ci5pZGVhL3dvcmtzcGFjZS54bWwKLmlkZWEvdGFza3MueG1sCi5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAouaWRlYS9ydW5Db25maWd1cmF0aW9ucwoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcwoKIyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhL21vbmdvU2V0dGluZ3MueG1sCgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICcxMTYyNjAwODQwNDI0MjA5JywgJzk0ZjhjZmMwMmZhYjEwNWVhMDAyYTBlMWRiNTVmOGI0JwogICAgY29uZmlnLm9tbmlhdXRoIDp0d2l0dGVyLCAnYm9Za29xeGEyWDc2czR3NnVMbThRSlFwVCcsICdPdUQ1djdWNlFoVHZEVlhNY2t2ckh2UzRFeVhiYTVUN0o2bFpLeDFVWUxiWGFDaEJsYicK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
       </register>
-      <register name="9" type="4">
-        <text>'OuD5v7V6QhTvDVXMckvrHvS4EyXba5T7J6lZKx1UYLbXaChBlb'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAtIHJlc291cmNlX2NsYXNzLm9tbmlhdXRoX3Byb3ZpZGVycy5lYWNoIGRvIHxwcm92aWRlcnwKICAgID0gbGlua190byAiU2lnbiBpbiB3aXRoICN7T21uaUF1dGg6OlV0aWxzLmNhbWVsaXplKHByb3ZpZGVyKX0iLCBvbW5pYXV0aF9hdXRob3JpemVfcGF0aChyZXNvdXJjZV9uYW1lLCBwcm92aWRlcikKICAgIGJyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
