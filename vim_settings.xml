@@ -85,12 +85,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457502237730">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="3" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457504271285">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+        <mark key="." line="38" column="48" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -110,6 +110,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457503204014">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="102" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -163,48 +169,49 @@
       <jump line="271" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
       <jump line="9" column="5" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
-      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
       <jump line="11" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
+      <jump line="6" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="4">
-        <text>Devise::RegistrationsController</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgfCB8Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlciA8IEFjdGl2ZVJlY29yZDo6QmFzZQogICMgSW5jbHVkZSBkZWZhdWx0IGRldmlzZSBtb2R1bGVzLiBPdGhlcnMgYXZhaWxhYmxlIGFyZToKICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUgYW5kIDpvbW5pYXV0aGFibGUKICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOm9tbmlhdXRoYWJsZSwgOnJlY292ZXJhYmxlLAogICAgICAgICA6cmVnaXN0ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUKCiAgIyDpgJrluLjjgrXjgqTjg7PjgqLjg4Pjg5fmmYLjga51aWTnlKjjgIFUd2l0dGVyIE9BdXRo6KqN6Ki85pmC44GuZW1haWznlKjjgat1dWlk44Gq5paH5a2X5YiX44KS55Sf5oiQCiAgZGVmIHNlbGYuY3JlYXRlX3VuaXF1ZV9zdHJpbmcKICAgIFNlY3VyZVJhbmRvbS51dWlkCiAgZW5kCmVuZAo=</text>
+      <register name="1" type="4">
+        <text>com</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>example</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2Vycwo=</text>
+        <text encoding="base64">ICAjIEluY2x1ZGUgZGVmYXVsdCBkZXZpc2UgbW9kdWxlcy4gT3RoZXJzIGF2YWlsYWJsZSBhcmU6CiAgIyA6Y29uZmlybWFibGUsIDpsb2NrYWJsZSwgOnRpbWVvdXRhYmxlIGFuZCA6b21uaWF1dGhhYmxlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwKICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgICJDb25zdW1lciBrZXkiLCAiQ29uc3VtZXIgc2VjcmV0Igo=</text>
+      <register name="5" type="4">
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>Consumer secret</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>Consumer key</text>
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICJBcHAgSUQiLCAiQXBwIFNlY3JldCIK</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="4">
-        <text>App Secret</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgID0gbGlua190byAnU2lnbiBpbiB3aXRoIEZhY2Vib29rJywgdXNlcl9vbW5pYXV0aF9hdXRob3JpemVfcGF0aCg6ZmFjZWJvb2spLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgPSBsaW5rX3RvICdTaWduIGluIHdpdGggVHdpdHRlcicsIHVzZXJfb21uaWF1dGhfYXV0aG9yaXplX3BhdGgoOnR3aXR0ZXIpLCAgOmNsYXNzID0+ICduYXZiYXItbGluaycK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
