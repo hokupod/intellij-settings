@@ -12,21 +12,13 @@
       <file name="/fragment.rb" timestamp="1452349723731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" timestamp="1452349960847">
-        <mark key="p" line="165" column="37" />
-        <mark key="[" line="200" column="0" />
-        <mark key="m" line="183" column="11" />
-        <mark key="]" line="200" column="0" />
-        <mark key="n" line="183" column="11" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1453817932223">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Ruby Console" timestamp="1453887399715">
+      <file name="/Ruby Console" timestamp="1457501466127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/regular_price.rb" timestamp="1453888367851">
@@ -47,11 +39,11 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457447107056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="2" />
-        <mark key="^" line="26" column="2" />
-        <mark key="." line="26" column="2" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457501810311">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/customer.rb" timestamp="1453212802522">
         <mark key="[" line="21" column="58" />
@@ -63,7 +55,7 @@
         <mark key="." line="37" column="9" />
         <mark key="^" line="37" column="9" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457447466977">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457501821957">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="62" column="2" />
@@ -93,11 +85,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457446856376">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457502237730">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="3" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -123,6 +116,12 @@
         <mark key="]" line="65" column="65" />
         <mark key="^" line="65" column="65" />
         <mark key="." line="65" column="65" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/registrations_controller.rb" timestamp="1457501805721">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/childrens_price.rb" timestamp="1453888342047">
         <mark key="[" line="0" column="0" />
@@ -163,49 +162,52 @@
       <jump line="4" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" />
       <jump line="271" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
+      <jump line="9" column="5" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
+      <jump line="11" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Consumer secret</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgICJib1lrb3F4YTJYNzZzNHc2dUxtOFFKUXBUIiwgIk91RDV2N1Y2UWhUdkRWWE1ja3ZySHZTNEV5WGJhNVQ3SjZsWkt4MVVZTGJYYUNoQmxiIgo=</text>
+      <register name="0" type="4">
+        <text>Devise::RegistrationsController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2Vycwo=</text>
+        <text encoding="base64">Y2xhc3MgVXNlciA8IEFjdGl2ZVJlY29yZDo6QmFzZQogICMgSW5jbHVkZSBkZWZhdWx0IGRldmlzZSBtb2R1bGVzLiBPdGhlcnMgYXZhaWxhYmxlIGFyZToKICAjIDpjb25maXJtYWJsZSwgOmxvY2thYmxlLCA6dGltZW91dGFibGUgYW5kIDpvbW5pYXV0aGFibGUKICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOm9tbmlhdXRoYWJsZSwgOnJlY292ZXJhYmxlLAogICAgICAgICA6cmVnaXN0ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUKCiAgIyDpgJrluLjjgrXjgqTjg7PjgqLjg4Pjg5fmmYLjga51aWTnlKjjgIFUd2l0dGVyIE9BdXRo6KqN6Ki85pmC44GuZW1haWznlKjjgat1dWlk44Gq5paH5a2X5YiX44KS55Sf5oiQCiAgZGVmIHNlbGYuY3JlYXRlX3VuaXF1ZV9zdHJpbmcKICAgIFNlY3VyZVJhbmRvbS51dWlkCiAgZW5kCmVuZAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwKICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUK</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDp1c2Vycwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZXZpc2UgOmRhdGFiYXNlX2F1dGhlbnRpY2F0YWJsZSwgOnJlZ2lzdGVyYWJsZSwKICAgICAgICAgOnJlY292ZXJhYmxlLCA6cmVtZW1iZXJhYmxlLCA6dHJhY2thYmxlLCA6dmFsaWRhdGFibGUK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgICJDb25zdW1lciBrZXkiLCAiQ29uc3VtZXIgc2VjcmV0Igo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Consumer secret</text>
       </register>
-      <register name="5" type="4">
-        <text>Consumer key</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICJBcHAgSUQiLCAiQXBwIFNlY3JldCIK</text>
-      </register>
       <register name="7" type="4">
-        <text>App Secret</text>
+        <text>Consumer key</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>App ID</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICJBcHAgSUQiLCAiQXBwIFNlY3JldCIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIChwcmljZV9jb2RlID09IE1vdmllOjpORVdfUkVMRUFTRSAmJiBkYXlzX3JlbnRlZCA+IDEpID8gMiA6IDEK</text>
+      <register name="9" type="4">
+        <text>App Secret</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -238,6 +240,7 @@
         <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
         <entry>split</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
