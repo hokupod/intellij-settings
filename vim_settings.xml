@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1457506378982">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="42" />
