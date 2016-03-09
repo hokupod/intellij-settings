@@ -143,11 +143,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457514850437">
-        <mark key="[" line="17" column="139" />
-        <mark key="]" line="17" column="147" />
-        <mark key="^" line="17" column="147" />
-        <mark key="." line="17" column="147" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
+        <mark key="[" line="7" column="109" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1457504271285">
         <mark key="'" line="0" column="0" />
@@ -163,12 +160,12 @@
         <mark key="." line="275" column="24" />
         <mark key="^" line="275" column="24" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457513480739">
-        <mark key="'" line="30" column="10" />
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="23" column="1" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457526742269">
+        <mark key="'" line="38" column="10" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="10" column="65" />
+        <mark key="^" line="10" column="65" />
+        <mark key="." line="10" column="65" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -229,43 +226,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="4">
-        <text>devise_bootstrap_views</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSBpZiB1c2VyX3NpZ25lZF9pbj8KICAgICAgICB8IExvZ2dlZCBpbiBhcwogICAgICAgIHN0cm9uZyA9IGN1cnJlbnRfdXNlci5lbWFpbAogICAgICAgID0gbGlua190byAnRWRpdCBwcm9maWxlJywgZWRpdF91c2VyX3JlZ2lzdHJhdGlvbl9wYXRoLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgICAgIHwgJm5ic3A7fCZuYnNwOwogICAgICAgID0gbGlua190byAnTG9nb3V0JywgZGVzdHJveV91c2VyX3Nlc3Npb25fcGF0aCwgbWV0aG9kOiA6ZGVsZXRlLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgICAtIGVsc2UKICAgICAgICA9IGxpbmtfdG8gJ1NpZ24gdXAnLCBuZXdfdXNlcl9yZWdpc3RyYXRpb25fcGF0aCwgOmNsYXNzID0+ICduYXZiYXItbGluaycKICAgICAgICB8ICZuYnNwO3wmbmJzcDsKICAgICAgICA9IGxpbmtfdG8gJ0xvZ2luJywgbmV3X3VzZXJfc2Vzc2lvbl9wYXRoLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgZGV2aXNlX2Jvb3RzdHJhcF92aWV3cwo=</text>
+        <text encoding="base64">ICAgICAgcCBjbGFzcz0nbmF2YmFyLXRleHQgcHVsbC1yaWdodCcKICAgICAgLSBpZiB1c2VyX3NpZ25lZF9pbj8KICAgICAgICB8IExvZ2dlZCBpbiBhcwogICAgICAgIHN0cm9uZyA9IGN1cnJlbnRfdXNlci5lbWFpbAogICAgICAgID0gbGlua190byAnRWRpdCBwcm9maWxlJywgZWRpdF91c2VyX3JlZ2lzdHJhdGlvbl9wYXRoLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgICAgIHwgJm5ic3A7fCZuYnNwOwogICAgICAgID0gbGlua190byAnTG9nb3V0JywgZGVzdHJveV91c2VyX3Nlc3Npb25fcGF0aCwgbWV0aG9kOiA6ZGVsZXRlLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgICAtIGVsc2UKICAgICAgICA9IGxpbmtfdG8gJ1NpZ24gdXAnLCBuZXdfdXNlcl9yZWdpc3RyYXRpb25fcGF0aCwgOmNsYXNzID0+ICduYXZiYXItbGluaycKICAgICAgICB8ICZuYnNwO3wmbmJzcDsKICAgICAgICA9IGxpbmtfdG8gJ0xvZ2luJywgbmV3X3VzZXJfc2Vzc2lvbl9wYXRoLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgZGV2aXNlX2Jvb3RzdHJhcF92aWV3cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgJm5ic3A7fCZuYnNwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kdWxlIEFwcGxpY2F0aW9uSGVscGVyCmVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgJm5ic3A7fCZuYnNwOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5mZXJfc3BlY190eXBlX2Zyb21fZmlsZV9sb2NhdGlvbiEK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBEZXZpc2U6OlRlc3RIZWxwZXJzLCB0eXBlOiA6Y29udHJvbGxlcgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDphdXRoZW50aWNhdGVfdXNlciEK</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgZGV2aXNlX2Jvb3RzdHJhcF92aWV3cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6ZXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgZGV2aXNlX2Jvb3RzdHJhcF92aWV3cwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gaWYgbm90aWNlCiAgICAgIHAgY2xhc3M9J2FsZXJ0IGFsZXJ0LW5vdGljZScgPSBub3RpY2UKICAgIC0gaWYgYWxlcnQKICAgICAgcCBjbGFzcz0nYWxlcnQgYWxlcnQtZXJyb3InID0gYWxlcnQK</text>
+        <text encoding="base64">bW9kdWxlIEFwcGxpY2F0aW9uSGVscGVyCmVuZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25maWcuaW5mZXJfc3BlY190eXBlX2Zyb21fZmlsZV9sb2NhdGlvbiEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
