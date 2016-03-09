@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/helpers/application_helper.rb" timestamp="1457531952416">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/helpers/application_helper.rb" timestamp="1457533677689">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="23" />
         <mark key="^" line="3" column="29" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
@@ -86,6 +86,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/new.html.slim" timestamp="1457533403706">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1457509093342">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,6 +126,27 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/new.html.slim" timestamp="1457533536094">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/confirmations/new.html.slim" timestamp="1457533352908">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/home/index.html.slim" timestamp="1457533596246">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
@@ -173,10 +200,11 @@
         <mark key="." line="275" column="24" />
         <mark key="^" line="275" column="24" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457531983603">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457533070835">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -242,43 +270,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>StoreWatcher</text>
+        <text>Sign in</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPSBmYV9pY29uICdzaWduLW91dCcK</text>
+      <register name="0" type="4">
+        <text>Login</text>
       </register>
       <register name="1" type="4">
-        <text>StoreWatcher</text>
+        <text>Sign in</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;Ruby on Rails Tutorial Sample App&quot;</text>
+        <text>Sign in</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB8IHRlc3QK</text>
+      <register name="3" type="4">
+        <text>Sign in</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sign in</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#{base_title}</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#{page_title}</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">LSBwcm92aWRlKDp0aXRsZSwgJ1NpZ24gaW4nKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAg</text>
+      <register name="8" type="4">
+        <text>Sign in</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBpZiBub3RpY2UucHJlc2VudD8KICAgICAgICAuYWxlcnQuYWxlcnQtZGlzbWlzc2FibGUuYWxlcnQtc3VjY2VzcwogICAgICAgICAgYnV0dG9uLmNsb3NlIGRhdGEtZGlzbWlzcz0iYWxlcnQiIHR5cGU9ImJ1dHRvbiIgIMOXCiAgICAgICAgICBwPSBub3RpY2UKICAgICAgLSBpZiBhbGVydC5wcmVzZW50PwogICAgICAgIC5hbGVydC5hbGVydC1kaXNtaXNzYWJsZS5hbGVydC1kYW5nZXIKICAgICAgICAgIGJ1dHRvbi5jbG9zZSBkYXRhLWRpc21pc3M9ImFsZXJ0IiB0eXBlPSJidXR0b24iICDDlwogICAgICAgIHA9IGFsZXJ0Cg==</text>
+      <register name="9" type="4">
+        <text>up</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
