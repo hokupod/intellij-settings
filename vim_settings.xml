@@ -3,7 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1457506378982">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1453817932223">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="/Ruby Console" timestamp="1457508638988">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1457509093349">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="158" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="1" column="28" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457507094906">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457501821957">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="62" column="2" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/.gitignore" timestamp="1457509342898">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="68" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1457509093342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
@@ -15,26 +69,11 @@
       <file name="/fragment.rb" timestamp="1452349723731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1453817932223">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="/Ruby Console" timestamp="1457501466127">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/regular_price.rb" timestamp="1453888367851">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="158" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="1" column="28" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
         <mark key="[" line="21" column="41" />
@@ -42,27 +81,16 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457501810311">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/customer.rb" timestamp="1453212802522">
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="21" column="79" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" timestamp="1457508096483">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/customer.rb" timestamp="1452695818806">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="37" column="9" />
         <mark key="." line="37" column="9" />
         <mark key="^" line="37" column="9" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457501821957">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="62" column="2" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
@@ -95,24 +123,12 @@
         <mark key="^" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" timestamp="1457446730709">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" timestamp="1457508614654">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="112" />
-        <mark key="." line="271" column="0" />
-        <mark key="^" line="267" column="83" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="9" />
+        <mark key="[" line="275" column="14" />
+        <mark key="]" line="275" column="24" />
+        <mark key="." line="275" column="24" />
+        <mark key="^" line="275" column="24" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457503204014">
         <mark key="[" line="22" column="0" />
@@ -178,46 +194,46 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>com</text>
+        <text>'OuD5v7V6QhTvDVXMckvrHvS4EyXba5T7J6lZKx1UYLbXaChBlb'</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfCB8Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMuZmFjZWJvb2tfa2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmFpbHMuYXBwbGljYXRpb24uc2VjcmV0cy5mYWNlYm9va19zZWNyZXQKICAgIGNvbmZpZy5vbW5pYXV0aCA6dHdpdHRlciwgIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHMudHdpdHRlcl9rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSYWlscy5hcHBsaWNhdGlvbi5zZWNyZXRzLnR3aXR0ZXJfc2VjcmV0Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>com</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCi5pZGVhX21vZHVsZXMvCgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>example</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyMjIGh0dHBzOi8vcmF3LmdpdGh1Yi5jb20vZ2l0aHViL2dpdGlnbm9yZS9hMzkyYzQ4Y2NmNDEzNmVmNzVhY2IwNWI3ZWFkNGU5Yzc1MjM1YzE5L0dsb2JhbC9KZXRCcmFpbnMuZ2l0aWdub3JlCgojIENvdmVycyBKZXRCcmFpbnMgSURFczogSW50ZWxsaUosIFJ1YnlNaW5lLCBQaHBTdG9ybSwgQXBwQ29kZSwgUHlDaGFybSwgQ0xpb24sIEFuZHJvaWQgU3R1ZGlvIGFuZCBXZWJzdG9ybQojIFJlZmVyZW5jZTogaHR0cHM6Ly9pbnRlbGxpai1zdXBwb3J0LmpldGJyYWlucy5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMjA2NTQ0ODM5CgojIFVzZXItc3BlY2lmaWMgc3R1ZmY6Ci5pZGVhL3dvcmtzcGFjZS54bWwKLmlkZWEvdGFza3MueG1sCi5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAouaWRlYS9ydW5Db25maWd1cmF0aW9ucwoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcwoKIyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhL21vbmdvU2V0dGluZ3MueG1sCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIEluY2x1ZGUgZGVmYXVsdCBkZXZpc2UgbW9kdWxlcy4gT3RoZXJzIGF2YWlsYWJsZSBhcmU6CiAgIyA6Y29uZmlybWFibGUsIDpsb2NrYWJsZSwgOnRpbWVvdXRhYmxlIGFuZCA6b21uaWF1dGhhYmxlCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5vbW5pYXV0aCA6ZmFjZWJvb2ssICcxMTYyNjAwODQwNDI0MjA5JywgJzk0ZjhjZmMwMmZhYjEwNWVhMDAyYTBlMWRiNTVmOGI0JwogICAgY29uZmlnLm9tbmlhdXRoIDp0d2l0dGVyLCAnYm9Za29xeGEyWDc2czR3NnVMbThRSlFwVCcsICdPdUQ1djdWNlFoVHZEVlhNY2t2ckh2UzRFeVhiYTVUN0o2bFpLeDFVWUxiWGFDaEJsYicK</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>'OuD5v7V6QhTvDVXMckvrHvS4EyXba5T7J6lZKx1UYLbXaChBlb'</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>'94f8cfc02fab105ea002a0e1db55f8b4'</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>'boYkoqxa2X76s4w6uLm8QJQpT'</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>'94f8cfc02fab105ea002a0e1db55f8b4'</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyBzZWNyZXRzLnltbCDjgpLjgaTjgYvjgYTjgoTjgZnjgY/jgZnjgovjgoTjg7zjgaQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID0gbGlua190byAnU2lnbiBpbiB3aXRoIEZhY2Vib29rJywgdXNlcl9vbW5pYXV0aF9hdXRob3JpemVfcGF0aCg6ZmFjZWJvb2spLCA6Y2xhc3MgPT4gJ25hdmJhci1saW5rJwogICAgPSBsaW5rX3RvICdTaWduIGluIHdpdGggVHdpdHRlcicsIHVzZXJfb21uaWF1dGhfYXV0aG9yaXplX3BhdGgoOnR3aXR0ZXIpLCAgOmNsYXNzID0+ICduYXZiYXItbGluaycK</text>
+        <text encoding="base64">Z2VtICdkb3Rfc2VjcmV0cycsIGdpdGh1YjogJ3Jvbm8yMy9kb3Rfc2VjcmV0cycK</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -242,7 +258,6 @@
       </history-search>
       <history-cmd>
         <entry>set nohlsearch</entry>
-        <entry>w</entry>
         <entry>204</entry>
         <entry encoding="base64">JzwsJz5zL2VsZW1lbnQvcmVudGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</entry>
@@ -251,6 +266,7 @@
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
         <entry>split</entry>
         <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
