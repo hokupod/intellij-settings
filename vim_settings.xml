@@ -27,7 +27,7 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="/Ruby Console" timestamp="1457528651708">
+      <file name="/Ruby Console" timestamp="1457574743869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -218,10 +218,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" timestamp="1457531275005">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" timestamp="1457575021842">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/childrens_price.rb" timestamp="1453888342047">
         <mark key="[" line="0" column="0" />
@@ -270,34 +271,34 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Sign in</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="4">
-        <text>Login</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzcGFuCiAgICAgICAgICAgICAgICA9IGZhX2ljb24gJ3NpZ24taW4nCiAgICAgICAgICAgICAgICB8ICZuYnNwOyBTaWduIGluCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Sign in</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>Sign in</text>
+        <text>O</text>
       </register>
-      <register name="3" type="4">
-        <text>Sign in</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Sign in</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgID0gZmFfaWNvbiAnc2lnbi1pbicK</text>
       </register>
       <register name="5" type="4">
-        <text>#{base_title}</text>
+        <text>Sign in</text>
       </register>
       <register name="6" type="4">
-        <text>#{page_title}</text>
+        <text>Sign in</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LSBwcm92aWRlKDp0aXRsZSwgJ1NpZ24gaW4nKQo=</text>
+      <register name="7" type="4">
+        <text>Sign in</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -306,7 +307,7 @@
         <text>Sign in</text>
       </register>
       <register name="9" type="4">
-        <text>up</text>
+        <text>#{base_title}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
