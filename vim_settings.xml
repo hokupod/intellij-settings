@@ -27,13 +27,13 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/main.rb" timestamp="1458040287206">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="29" column="18" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/main.rb" timestamp="1458045659277">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="45" column="47" />
       </file>
-      <file name="/Ruby Console" timestamp="1458040397877">
+      <file name="/Ruby Console" timestamp="1458045619388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -50,6 +50,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/Gemfile" timestamp="1458042696972">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457501821957">
         <mark key="[" line="3" column="0" />
@@ -98,6 +104,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458044652203">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="73" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/new.html.slim" timestamp="1457533403706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -119,7 +131,7 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
       </file>
-      <file name="/fragment.rb" timestamp="1452349723731">
+      <file name="/fragment.rb" timestamp="1458045547008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457528691190">
@@ -272,46 +284,46 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>format_json res.body</text>
+        <text>category_id</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzLmNhdGVnb3J5X2lkID0gY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10K</text>
       </register>
       <register name="1" type="4">
-        <text>format_json res.body</text>
+        <text>category_id</text>
       </register>
-      <register name="2" type="4">
-        <text>File.open(&quot;foo.json&quot;).read</text>
+      <register name="2" type="2">
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnc2VyaWVzJwo=</text>
       </register>
       <register name="3" type="4">
-        <text>json</text>
+        <text>product_id</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFNlcmllcyA9IFN0cnVjdC5uZXcK</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">c2VyaWVzID0gU3RydWN0Lm5ldwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">c2VyaWVzID0gU2VyaWVzLm5ldwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2VyaWVzID0gU2VyaWVzLm5ldwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwIGhhc2hbJ2xpc3QnXVswXVsncHJvZHVjdElkJ10K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -345,6 +357,7 @@
         <entry>split</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -367,6 +380,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
