@@ -27,13 +27,13 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/main.rb" timestamp="1458045659277">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
-        <mark key="^" line="45" column="47" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/main.rb" timestamp="1458046828568">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+        <mark key="^" line="46" column="23" />
       </file>
-      <file name="/Ruby Console" timestamp="1458045619388">
+      <file name="/Ruby Console" timestamp="1458046215839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -104,11 +104,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458044652203">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="73" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458046034726">
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/new.html.slim" timestamp="1457533403706">
         <mark key="[" line="0" column="0" />
@@ -284,7 +284,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>category_id</text>
+        <text>create_update_string</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
@@ -292,35 +292,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VyaWVzLmNhdGVnb3J5X2lkID0gY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10K</text>
       </register>
-      <register name="1" type="4">
-        <text>category_id</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2VyaWVzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnc2VyaWVzJwo=</text>
+      <register name="2" type="4">
+        <text>create_update_string</text>
       </register>
       <register name="3" type="4">
-        <text>product_id</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcmllcyA9IFN0cnVjdC5uZXcK</text>
+      <register name="4" type="4">
+        <text>create_update_string</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VyaWVzID0gU3RydWN0Lm5ldwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>category_id</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VyaWVzID0gU2VyaWVzLm5ldwo=</text>
+      <register name="7" type="4">
+        <text>category_id</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VyaWVzID0gU2VyaWVzLm5ldwo=</text>
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnc2VyaWVzJwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwIGhhc2hbJ2xpc3QnXVswXVsncHJvZHVjdElkJ10K</text>
+      <register name="9" type="4">
+        <text>product_id</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
