@@ -27,7 +27,13 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="/Ruby Console" timestamp="1457574743869">
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/main.rb" timestamp="1458040287206">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+      </file>
+      <file name="/Ruby Console" timestamp="1458040397877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -266,43 +272,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format_json res.body</text>
       </register>
       <register name="/" type="4">
         <text>\v(movie\.|Movie\:\:)</text>
       </register>
-      <register name="0" type="4">
-        <text>'Change your password'</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format_json res.body</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>File.open(&quot;foo.json&quot;).read</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>json</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>Sign out</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>Edit profile</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>sign-out</text>
+        <text>n</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5uYXZiYXItbGluawo=</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
