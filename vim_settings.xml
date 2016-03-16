@@ -15,11 +15,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str2.rb" timestamp="1458117597699">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="1" />
-        <mark key="^" line="36" column="1" />
-        <mark key="." line="36" column="1" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str2.rb" timestamp="1458119080075">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="29" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="42" column="29" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
         <mark key="[" line="60" column="0" />
@@ -308,7 +308,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
@@ -316,23 +316,23 @@
       <register name="0" type="4">
         <text># csv data</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
+      <register name="1" type="4">
+        <text>S</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdXRzICcicHJvZHVjdF9jb2RlIiwia2F0YXNoaWtpX3NoaXlvIiwib3V0X2RhdGUiLCJzZXJpZXNfaWQiLCJpdGVtX2lkIicK</text>
+        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBwdXRzICcicHJvZHVjdF9jb2RlIiwia2F0YXNoaWtpX3NoaXlvIiwib3V0X2RhdGUiLCJzZXJpZXNfaWQiLCJpdGVtX2lkIicK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEludGVnZXI=</text>
-      </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text encoding="base64">IEludGVnZXI=</text>
       </register>
       <register name="7" type="4">
         <text>)</text>
@@ -341,10 +341,10 @@
         <text />
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>Integer</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
