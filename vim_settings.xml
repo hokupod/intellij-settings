@@ -86,12 +86,8 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458106448720">
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458109932991">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="20" />
-        <mark key="." line="51" column="20" />
-        <mark key="^" line="51" column="20" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -407,6 +403,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed ENTER</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
