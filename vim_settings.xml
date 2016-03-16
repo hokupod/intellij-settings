@@ -86,11 +86,12 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458105831624">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="100" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458106448720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -299,10 +300,12 @@
       <jump line="10" column="10" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="13" column="35" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="17" column="30" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="50" column="19" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
@@ -310,35 +313,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICN1cmkgPSBVUkkoJ2h0dHA6Ly8xOTIuMTY4LjEuMTUwL2NvbW1vbl9hcGkvc2VydmljZXMvaXRlbXM/c2l0ZUlkPTE0JmFwcGxpY2F0aW9uPTImY2F0ZWdvcnlJZD0nKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>$</text>
+        <text encoding="base64">IEludGVnZXI=</text>
       </register>
       <register name="3" type="4">
-        <text>Z</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>Integer</text>
       </register>
-      <register name="7" type="4">
-        <text>'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiBsaXN0X2hhc2hbOnVybF0K</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
