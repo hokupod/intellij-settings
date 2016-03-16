@@ -9,13 +9,9 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458102339817">
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458104895745">
         <mark key="'" line="17" column="30" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="^" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="o" line="47" column="40" />
+        <mark key="[" line="46" column="29" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
         <mark key="[" line="60" column="0" />
@@ -89,11 +85,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458102493269">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="29" column="42" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458104858844">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="27" />
+        <mark key="^" line="44" column="27" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -313,17 +309,17 @@
       <register name="0" type="4">
         <text>json = txt.gsub(/\A.*?\(/, '').gsub(/\)\z/, '')</text>
       </register>
-      <register name="1" type="4">
-        <text>$</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Z</text>
+        <text>$</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>Z</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>#</text>
       </register>
       <register name="5" type="4">
         <text>'</text>

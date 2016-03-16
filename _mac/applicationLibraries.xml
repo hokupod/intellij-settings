@@ -2934,18 +2934,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
     </library>
-    <library name="json2csv (v0.0.4, rbenv: 2.3.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/data" />
-      </SOURCES>
-    </library>
     <library name="knife-solo (v0.4.2, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/knife-solo-0.4.2/lib" />
