@@ -1548,16 +1548,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/debase-0.1.4/lib" />
       </SOURCES>
     </library>
-    <library name="debase (v0.2.1, rbenv: 2.3.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
     <library name="debase (v0.2.2.beta6, rbenv: 2.0.0-p247) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/debase-0.2.2.beta6/ext" />
@@ -2944,6 +2934,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="json2csv (v0.0.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json2csv-0.0.4/data" />
+      </SOURCES>
+    </library>
     <library name="knife-solo (v0.4.2, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/knife-solo-0.4.2/lib" />
@@ -3472,6 +3474,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/multi_json-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.10.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/multi_json-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/multi_json-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.2, rbenv: 2.0.0-p247) [gem]">
@@ -6142,6 +6152,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/systemu-2.6.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/systemu-2.6.4/samples" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.5.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/terminal-table-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/terminal-table-1.5.2/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v2.0.0.0, rbenv: 2.0.0-p247) [gem]">
