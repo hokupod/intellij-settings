@@ -9,9 +9,10 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458104895745">
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458105825095">
         <mark key="'" line="17" column="30" />
-        <mark key="[" line="46" column="29" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="100" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
         <mark key="[" line="60" column="0" />
@@ -85,11 +86,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458104858844">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="27" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="44" column="27" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458105831624">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="100" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="45" column="27" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -306,8 +307,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>json = txt.gsub(/\A.*?\(/, '').gsub(/\)\z/, '')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICN1cmkgPSBVUkkoJ2h0dHA6Ly8xOTIuMTY4LjEuMTUwL2NvbW1vbl9hcGkvc2VydmljZXMvaXRlbXM/c2l0ZUlkPTE0JmFwcGxpY2F0aW9uPTImY2F0ZWdvcnlJZD0nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
