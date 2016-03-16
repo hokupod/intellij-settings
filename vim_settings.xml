@@ -9,12 +9,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458097445879">
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="51" column="37" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" timestamp="1458102339817">
+        <mark key="'" line="17" column="30" />
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
         <mark key="o" line="47" column="40" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
@@ -41,7 +41,7 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="/Ruby Console" timestamp="1458051510088">
+      <file name="/Ruby Console" timestamp="1458101522589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457509093349">
@@ -89,11 +89,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458097687966">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="40" column="13" />
-        <mark key="^" line="40" column="13" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458102493269">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
@@ -297,33 +297,36 @@
       <jump line="36" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" />
       <jump line="53" column="2" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
-      <jump line="13" column="29" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="8" column="15" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="9" column="11" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="10" column="10" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="13" column="35" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
+      <jump line="17" column="30" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3N0XD4=</text>
+        <text encoding="base64">XDx1cmlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>, {symbolize_names: true}</text>
+        <text>json = txt.gsub(/\A.*?\(/, '').gsub(/\)\z/, '')</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>$</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>Z</text>
       </register>
-      <register name="3" type="8">
-        <text>'
-'</text>
+      <register name="3" type="4">
+        <text>#</text>
       </register>
       <register name="4" type="4">
         <text>'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBoYXNoWzpjYXRlZ29yaWVzJ10uZWFjaCBkbyB8Y2F0ZWdvcnl8Cg==</text>
+      <register name="5" type="4">
+        <text>'</text>
       </register>
       <register name="6" type="4">
         <text>'</text>
@@ -341,17 +344,17 @@
         <text>'</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>set nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob3N0XD4=</last-search>
+      <last-search encoding="base64">XDx1cmlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3N0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cmlcPg==</last-pattern>
       <last-replace />
       <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -364,9 +367,10 @@
         <entry>\vthis_amount</entry>
         <entry>\v(movie\.|Movie\:\:)</entry>
         <entry encoding="base64">XDxob3N0XD4=</entry>
+        <entry encoding="base64">XDxVUklcPg==</entry>
+        <entry encoding="base64">XDx1cmlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>set nohlsearch</entry>
         <entry>204</entry>
         <entry encoding="base64">JzwsJz5zL2VsZW1lbnQvcmVudGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</entry>
@@ -377,6 +381,7 @@
         <entry>sp</entry>
         <entry>w</entry>
         <entry>vsp</entry>
+        <entry>set nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
