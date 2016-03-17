@@ -15,10 +15,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str2.rb" timestamp="1458200687999">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str2.rb" timestamp="1458200911671">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="53" column="2" />
+        <mark key="." line="42" column="57" />
         <mark key="^" line="41" column="13" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
@@ -86,6 +86,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str2.rb" timestamp="1458200950926">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
         <mark key="[" line="30" column="0" />
@@ -308,43 +314,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Item = Struct.new(:product_code, :katashiki_shiyo, :out_date, :series_id, :item_id)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIG91dHB1dF9jc3ZfaGVhZGVyX3N0cihzdHJ1Y3QpCiAgYXJyID0gc3RydWN0Lm5ldy5tZW1iZXJzLm1hcHsgfHN5bXwgc3ltLnRvX3MgfQogIHB1dHMgYXJyLmpvaW4oJywnKS5nc3ViKC9cLC8sJyIsIicpLmdzdWIoLyhcQXxceikvLCciJykKZW5kCgpkZWYgb3V0cHV0X2Nzdl9kYXRhX3N0cihoYXNoKQogIGhhc2hbOmxpc3RdLmVhY2ggZG8gfGxpc3R8CiAgICBpdGVtID0gSXRlbS5uZXcKICAgIHNldF9pdGVtIGl0ZW0sIGxpc3QKCiAgICAjIGNzdiBkYXRhCiAgICBwdXRzICJcIiN7aXRlbS5wcm9kdWN0X2NvZGUgfHwgMH1cIixcIiN7aXRlbS5rYXRhc2hpa2lfc2hpeW99XCIsXCIje2l0ZW0ub3V0X2RhdGV9XCIsXCIje2l0ZW0uc2VyaWVzX2lkIHx8IDB9XCIsXCIje2l0ZW0uaXRlbV9pZCB8fCAwfVwiIgogIGVuZAplbmQK</text>
       </register>
-      <register name="1" type="4">
-        <text>#</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjIGNzdiBoZWFkZXIKICBwdXRzICciY2F0ZWdvcnlfaWQiLCJjYXRlZ29yeV9uYW1lIiwic2VyaWVzX2lkIiwiY2xvc2VkX2RhdGUiLCJiNWlkIicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdXRzIHN0cnVjdC5uZXcubWVtYmVycy50b19zLm1hdGNoKC9cWyguKz8pXF0vKVsxXQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>S</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdXRzICcicHJvZHVjdF9jb2RlIiwia2F0YXNoaWtpX3NoaXlvIiwib3V0X2RhdGUiLCJzZXJpZXNfaWQiLCJpdGVtX2lkIicK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgc2VyaWVzID0gU2VyaWVzLm5ldwogICAgc2V0X3NlcmllcyBzZXJpZXMsIGxpc3QKCiAgICAjIGNzdiBkYXRhCiAgICBwdXRzICJcIiN7c2VyaWVzLmNhdGVnb3J5X2lkIHx8IDB9XCIsXCIje3Nlcmllcy5jYXRlZ29yeV9uYW1lfVwiLFwiI3tzZXJpZXMuc2VyaWVzX2lkIHx8IDB9XCIsXCIje3Nlcmllcy5jbG9zZWRfZGF0ZX1cIixcIiN7c2VyaWVzLmI1X2lkIHx8IDB9XCIiCiAgZW5kCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Item</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="5" type="4">
+        <text>'&quot;product_code&quot;,&quot;katashiki_shiyo&quot;,&quot;out_date&quot;,&quot;series_id&quot;,&quot;item_id&quot;'</text>
+      </register>
+      <register name="6" type="4">
+        <text>#</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdXRzIHN0cnVjdC5uZXcubWVtYmVycy50b19zLm1hdGNoKC9cWyguKz8pXF0vKVsxXQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IEludGVnZXI=</text>
+        <text>S</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
