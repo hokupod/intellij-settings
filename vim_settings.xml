@@ -69,11 +69,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1457501821957">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1458484800923">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="63" column="2" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/edit.html.slim" timestamp="1457590955680">
         <mark key="[" line="0" column="18" />
@@ -143,7 +143,7 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458482595870">
+      <file name="/Dummy.txt" timestamp="1458484654472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
@@ -323,34 +323,34 @@
         <text encoding="base64">ZGVmIG91dHB1dF9jc3ZfaGVhZGVyX3N0cihzdHJ1Y3QpCiAgYXJyID0gc3RydWN0Lm5ldy5tZW1iZXJzLm1hcHsgfHN5bXwgc3ltLnRvX3MgfQogIHB1dHMgYXJyLmpvaW4oJywnKS5nc3ViKC9cLC8sJyIsIicpLmdzdWIoLyhcQXxceikvLCciJykKZW5kCgpkZWYgb3V0cHV0X2Nzdl9kYXRhX3N0cihoYXNoKQogIGhhc2hbOmxpc3RdLmVhY2ggZG8gfGxpc3R8CiAgICBpdGVtID0gSXRlbS5uZXcKICAgIHNldF9pdGVtIGl0ZW0sIGxpc3QKCiAgICAjIGNzdiBkYXRhCiAgICBwdXRzICJcIiN7aXRlbS5wcm9kdWN0X2NvZGUgfHwgMH1cIixcIiN7aXRlbS5rYXRhc2hpa2lfc2hpeW99XCIsXCIje2l0ZW0ub3V0X2RhdGV9XCIsXCIje2l0ZW0uc2VyaWVzX2lkIHx8IDB9XCIsXCIje2l0ZW0uaXRlbV9pZCB8fCAwfVwiIgogIGVuZAplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIGNzdiBoZWFkZXIKICBwdXRzICciY2F0ZWdvcnlfaWQiLCJjYXRlZ29yeV9uYW1lIiwic2VyaWVzX2lkIiwiY2xvc2VkX2RhdGUiLCJiNWlkIicK</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmFwcGxlX2FwcGxpY2F0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
+        <text encoding="base64">ICAjIGNzdiBoZWFkZXIKICBwdXRzICciY2F0ZWdvcnlfaWQiLCJjYXRlZ29yeV9uYW1lIiwic2VyaWVzX2lkIiwiY2xvc2VkX2RhdGUiLCJiNWlkIicK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgc2VyaWVzID0gU2VyaWVzLm5ldwogICAgc2V0X3NlcmllcyBzZXJpZXMsIGxpc3QKCiAgICAjIGNzdiBkYXRhCiAgICBwdXRzICJcIiN7c2VyaWVzLmNhdGVnb3J5X2lkIHx8IDB9XCIsXCIje3Nlcmllcy5jYXRlZ29yeV9uYW1lfVwiLFwiI3tzZXJpZXMuc2VyaWVzX2lkIHx8IDB9XCIsXCIje3Nlcmllcy5jbG9zZWRfZGF0ZX1cIixcIiN7c2VyaWVzLmI1X2lkIHx8IDB9XCIiCiAgZW5kCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Item</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'&quot;product_code&quot;,&quot;katashiki_shiyo&quot;,&quot;out_date&quot;,&quot;series_id&quot;,&quot;item_id&quot;'</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>#</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdXRzIHN0cnVjdC5uZXcubWVtYmVycy50b19zLm1hdGNoKC9cWyguKz8pXF0vKVsxXQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>S</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdXRzIHN0cnVjdC5uZXcubWVtYmVycy50b19zLm1hdGNoKC9cWyguKz8pXF0vKVsxXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBoYXNoWzpsaXN0XS5lYWNoIGRvIHxsaXN0fAogICAgaXRlbSA9IEl0ZW0ubmV3CiAgICBzZXRfaXRlbSBpdGVtLCBsaXN0CgogICAgIyBjc3YgZGF0YQogICAgcHV0cyAiXCIje2l0ZW0ucHJvZHVjdF9jb2RlIHx8IDB9XCIsXCIje2l0ZW0ua2F0YXNoaWtpX3NoaXlvfVwiLFwiI3tpdGVtLm91dF9kYXRlfVwiLFwiI3tpdGVtLnNlcmllc19pZCB8fCAwfVwiLFwiI3tpdGVtLml0ZW1faWQgfHwgMH1cIiIKICBlbmQK</text>
+      <register name="9" type="4">
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
