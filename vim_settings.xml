@@ -162,6 +162,12 @@
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322130738_add_country_to_apple_application.rb" timestamp="1458652146166">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.html.slim" timestamp="1458631075766">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -266,7 +272,7 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458631752724">
+      <file name="/Dummy.txt" timestamp="1458652037388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
