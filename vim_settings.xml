@@ -39,14 +39,38 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/sessions_controller.rb" timestamp="1457513976427">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+      </file>
+      <file name="/Ruby Console" timestamp="1458101522589">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1458486468311">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="158" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457507094906">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/Gemfile" timestamp="1458042696972">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="/__dummy.xml" timestamp="1458486145932">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1458484800923">
         <mark key="[" line="1" column="0" />
@@ -75,11 +99,46 @@
       <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458109932991">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="68" column="68" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/user_passwords_controller.rb" timestamp="1457530670534">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/javascripts/application.js" timestamp="1457528701894">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458046034726">
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/new.html.slim" timestamp="1457533403706">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/edit.html.slim" timestamp="1457591103085">
         <mark key="[" line="0" column="9" />
@@ -87,17 +146,45 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1458484654472">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457528691190">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="/fragment.rb" timestamp="1458045547008">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/regular_price.rb" timestamp="1453888367851">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" timestamp="1457508096483">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/new.html.slim" timestamp="1457533536094">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/confirmations/new.html.slim" timestamp="1457533352908">
         <mark key="[" line="0" column="0" />
@@ -127,10 +214,21 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1453815356649">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/application_controller.rb" timestamp="1457514075578">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" timestamp="1453888356191">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
@@ -161,104 +259,6 @@
         <mark key="^" line="11" column="73" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/childrens_price.rb" timestamp="1453888342047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/sessions_controller.rb" timestamp="1457513976427">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="59" />
-      </file>
-      <file name="/Ruby Console" timestamp="1458101522589">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="158" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/Gemfile" timestamp="1458042696972">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-      </file>
-      <file name="/__dummy.xml" timestamp="1458486145932">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="68" column="68" />
-        <mark key="^" line="52" column="11" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/user_passwords_controller.rb" timestamp="1457530670534">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/javascripts/application.js" timestamp="1457528701894">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458046034726">
-        <mark key="[" line="1" column="74" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/registrations/new.html.slim" timestamp="1457533403706">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458484654472">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
-      </file>
-      <file name="/fragment.rb" timestamp="1458045547008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" timestamp="1457508096483">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/new.html.slim" timestamp="1457533536094">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1453815356649">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" timestamp="1453888356191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
