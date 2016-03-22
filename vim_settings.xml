@@ -39,7 +39,7 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1458486468311">
+      <file name="/a.dummy" timestamp="1458653701418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457507094906">
@@ -48,10 +48,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.json.jbuilder" timestamp="1458631051046">
-        <mark key="[" line="1" column="77" />
-        <mark key="]" line="1" column="77" />
-        <mark key="." line="1" column="77" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.json.jbuilder" timestamp="1458653647671">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="93" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1458484800923">
         <mark key="[" line="1" column="0" />
@@ -103,10 +104,10 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.json.jbuilder" timestamp="1458631098644">
-        <mark key="[" line="0" column="77" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.json.jbuilder" timestamp="1458653682645">
+        <mark key="[" line="0" column="76" />
         <mark key="]" line="0" column="77" />
-        <mark key="." line="0" column="77" />
+        <mark key="." line="0" column="86" />
         <mark key="^" line="0" column="77" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457528691190">
@@ -154,19 +155,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1458630928690">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1458653466012">
         <mark key="[" line="71" column="85" />
-        <mark key="]" line="71" column="85" />
-        <mark key="." line="71" column="85" />
+        <mark key="]" line="71" column="99" />
+        <mark key="." line="71" column="99" />
+        <mark key="^" line="71" column="99" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322130738_add_country_to_apple_application.rb" timestamp="1458652146166">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="57" />
-        <mark key="^" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322130738_add_country_to_apple_application.rb" timestamp="1458652496493">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="70" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.html.slim" timestamp="1458631075766">
         <mark key="[" line="14" column="0" />
@@ -179,10 +181,11 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/_form.html.slim" timestamp="1458630979076">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/_form.html.slim" timestamp="1458654363387">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -371,43 +374,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>apple_applications</text>
+        <text>last_price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
+      <register name="0" type="4">
+        <text>country_code</text>
       </register>
       <register name="1" type="4">
+        <text>last_price</text>
+      </register>
+      <register name="2" type="4">
+        <text>last_price</text>
+      </register>
+      <register name="3" type="4">
+        <text>, null: false</text>
+      </register>
+      <register name="4" type="4">
         <text>apple_applications</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6YXBwbGVfYXBwbGljYXRpb25zCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6dXNlcnMK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6dXNlcnMsIHRocm91Z2g6IDphcHBsZV9hcHBsaWNhdGlvbl91c2Vycwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
-      </register>
-      <register name="6" type="4">
-        <text>foreign_key: true</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIAo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6dXNlcnMsIHRocm91Z2g6IDphcHBsZV9hcHBsaWNhdGlvbl91c2Vycwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>foreign_key: true</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIGZvcmVpZ25fa2V5OiB0cnVlCg==</text>
+      <register name="9" type="4">
+        <text>foreign_key: true</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
