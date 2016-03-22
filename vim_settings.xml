@@ -91,11 +91,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1458633457134">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1458634046169">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/edit.html.slim" timestamp="1457591103085">
         <mark key="[" line="0" column="9" />
@@ -305,11 +305,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1458633435392">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-        <mark key="^" line="1" column="44" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1458634106895">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>foreign_key: true</text>
+        <text>apple_applications</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
@@ -373,35 +373,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6dXNlcnMsIHRocm91Z2g6IDphcHBsZV9hcHBsaWNhdGlvbl91c2Vycwo=</text>
+      <register name="1" type="4">
+        <text>apple_applications</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
+        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6YXBwbGVfYXBwbGljYXRpb25zCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>foreign_key: true</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6dXNlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIAo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6dXNlcnMsIHRocm91Z2g6IDphcHBsZV9hcHBsaWNhdGlvbl91c2Vycwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMKICBoYXNfbWFueSA6YXBwbGVfYXBwbGljYXRpb25zLCB0aHJvdWdoOiA6YXBwbGVfYXBwbGljYXRpb25fdXNlcnMK</text>
+      </register>
+      <register name="6" type="4">
         <text>foreign_key: true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIGZvcmVpZ25fa2V5OiB0cnVlCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>apple_applications</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>belongs_to</text>
+        <text>foreign_key: true</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDphcHBsZV9hcHBsaWNhdGlvbiwgaW5kZXg6IHRydWUsIGZvcmVpZ25fa2V5OiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
