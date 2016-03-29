@@ -48,11 +48,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.json.jbuilder" timestamp="1459086389863">
-        <mark key="[" line="1" column="93" />
-        <mark key="]" line="1" column="93" />
-        <mark key="." line="1" column="93" />
-        <mark key="^" line="1" column="93" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.json.jbuilder" timestamp="1459242265782">
+        <mark key="[" line="1" column="81" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/routes.rb" timestamp="1458484800923">
         <mark key="[" line="1" column="0" />
@@ -155,11 +155,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1459086341984">
-        <mark key="[" line="71" column="100" />
-        <mark key="]" line="71" column="130" />
-        <mark key="." line="71" column="130" />
-        <mark key="^" line="71" column="130" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1459242235392">
+        <mark key="[" line="71" column="87" />
+        <mark key="]" line="72" column="47" />
+        <mark key="." line="72" column="47" />
+        <mark key="^" line="72" column="47" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
