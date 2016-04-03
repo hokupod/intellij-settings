@@ -78,9 +78,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458109932991">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -155,11 +152,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1459242235392">
-        <mark key="[" line="71" column="87" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1459693391491">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
@@ -284,7 +280,7 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
       </file>
-      <file name="/fragment.rb" timestamp="1458045547008">
+      <file name="/fragment.rb" timestamp="1459693367489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
@@ -382,11 +378,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAuZmllbGQKICAgID0gZi5sYWJlbCA6dHJhY2tfaWQKICAgID0gZi50ZXh0X2ZpZWxkIDp0cmFja19pZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>track_id</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgQGFwcGxlX2FwcGxpY2F0aW9ucy5jb3VuCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>track_id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRfdXNlcls6aWRdCg==</text>
       </register>
       <register name="3" type="4">
         <text>track_id</text>
@@ -395,22 +391,22 @@
         <text>track_id</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>track_id</text>
       </register>
       <register name="6" type="4">
-        <text>artwork_url</text>
+        <text>track_id</text>
       </register>
       <register name="7" type="4">
-        <text>country_code</text>
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>last_price</text>
+        <text>artwork_url</text>
       </register>
       <register name="9" type="4">
-        <text>last_price</text>
+        <text>country_code</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
