@@ -92,11 +92,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1458634046169">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="51" />
-        <mark key="." line="2" column="51" />
-        <mark key="^" line="2" column="51" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1459686971736">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/edit.html.slim" timestamp="1457591103085">
         <mark key="[" line="0" column="9" />
@@ -131,6 +131,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/models/apple_application_spec.rb" timestamp="1459687226651">
+        <mark key="[" line="2" column="48" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
@@ -380,13 +383,13 @@
         <text encoding="base64">XDx1cmlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuZmllbGQKICAgID0gZi5sYWJlbCA6dHJhY2tfaWQKICAgID0gZi50ZXh0X2ZpZWxkIDp0cmFja19pZAo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRyYWNrX2lkLCBwcmVzZW5jZTogdHJ1ZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>track_id</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
-      <register name="2" type="4">
-        <text>track_id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="4">
         <text>track_id</text>
@@ -395,22 +398,22 @@
         <text>track_id</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>name</text>
       </register>
       <register name="6" type="4">
-        <text>artwork_url</text>
+        <text>track_id</text>
       </register>
       <register name="7" type="4">
-        <text>country_code</text>
+        <text>track_id</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>last_price</text>
+        <text>track_id</text>
       </register>
       <register name="9" type="4">
-        <text>last_price</text>
+        <text>track_id</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
