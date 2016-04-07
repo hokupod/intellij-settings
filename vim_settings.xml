@@ -78,9 +78,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" timestamp="1458109932991">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -92,9 +89,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1458634046169">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="51" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="17" />
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
@@ -246,7 +243,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/javascripts/application.js" timestamp="1457528701894">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/javascripts/application.js" timestamp="1460023830415">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -293,10 +290,11 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" timestamp="1457508096483">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" timestamp="1460024524300">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="50" column="22" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/new.html.slim" timestamp="1457533536094">
         <mark key="[" line="0" column="19" />
@@ -371,28 +369,29 @@
       <jump line="17" column="30" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="50" column="19" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
+      <jump line="6" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmlcPg==</text>
+        <text>cocoon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpzZXRfYXBwbGVfYXBwbGljYXRpb24sIG9ubHk6IFs6c2hvdywgOmVkaXQsIDp1cGRhdGUsIDpkZXN0cm95XQo=</text>
+      <register name="0" type="4">
+        <text>price</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Z2VtICdjb2Nvb24nCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBwcml2YXRlCiAgICBkZWYgdXNlcl9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOnVzZXIpLnBlcm1pdChhcHBsZV9hcHBsaWNhdGlvbl91c2Vyc19hdHRyaWJ1dGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmlkLCA6YXBwbGVfYXBwbGljYXRpb25faWQsIDpfZGVzdHJveV0pCiAgICBlbmQK</text>
       </register>
-      <register name="2" type="4">
-        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
-      </register>
-      <register name="3" type="4">
-        <text>track_id</text>
-      </register>
       <register name="4" type="4">
-        <text>track_id</text>
+        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
       </register>
       <register name="5" type="4">
         <text>track_id</text>
@@ -401,25 +400,25 @@
         <text>track_id</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>track_id</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>artwork_url</text>
+        <text>track_id</text>
       </register>
       <register name="9" type="4">
-        <text>country_code</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmlcPg==</last-search>
+      <last-search>cocoon</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmlcPg==</last-pattern>
+      <last-pattern>cocoon</last-pattern>
       <last-replace />
       <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
@@ -438,6 +437,7 @@
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry encoding="base64">XDxVUklcPg==</entry>
         <entry encoding="base64">XDx1cmlcPg==</entry>
+        <entry>cocoon</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
