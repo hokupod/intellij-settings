@@ -155,11 +155,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1459242235392">
-        <mark key="[" line="71" column="87" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1460022144237">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/shared/_links.html.slim" timestamp="1457524484666">
         <mark key="[" line="7" column="109" />
@@ -210,7 +210,7 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="/Ruby Console" timestamp="1458101522589">
+      <file name="/Ruby Console" timestamp="1460022059108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
@@ -314,10 +314,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1458634106895">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="64" />
-        <mark key="." line="2" column="64" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" timestamp="1460022625312">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
         <mark key="^" line="2" column="64" />
       </file>
     </filemarks>
@@ -374,19 +374,19 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>track_id</text>
+        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuZmllbGQKICAgID0gZi5sYWJlbCA6dHJhY2tfaWQKICAgID0gZi50ZXh0X2ZpZWxkIDp0cmFja19pZAo=</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpzZXRfYXBwbGVfYXBwbGljYXRpb24sIG9ubHk6IFs6c2hvdywgOmVkaXQsIDp1cGRhdGUsIDpkZXN0cm95XQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>track_id</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcml2YXRlCiAgICBkZWYgdXNlcl9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOnVzZXIpLnBlcm1pdChhcHBsZV9hcHBsaWNhdGlvbl91c2Vyc19hdHRyaWJ1dGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmlkLCA6YXBwbGVfYXBwbGljYXRpb25faWQsIDpfZGVzdHJveV0pCiAgICBlbmQK</text>
       </register>
       <register name="2" type="4">
-        <text>track_id</text>
+        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
       </register>
       <register name="3" type="4">
         <text>track_id</text>
@@ -395,22 +395,22 @@
         <text>track_id</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>track_id</text>
       </register>
       <register name="6" type="4">
-        <text>artwork_url</text>
+        <text>track_id</text>
       </register>
       <register name="7" type="4">
-        <text>country_code</text>
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>last_price</text>
+        <text>artwork_url</text>
       </register>
       <register name="9" type="4">
-        <text>last_price</text>
+        <text>country_code</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
