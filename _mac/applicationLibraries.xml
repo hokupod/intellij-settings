@@ -842,12 +842,10 @@
     </library>
     <library name="binding_of_caller (v0.7.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -1092,13 +1090,11 @@
     </library>
     <library name="byebug (v8.2.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-8.2.2/lib" />
@@ -1752,12 +1748,10 @@
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -3184,9 +3178,8 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
-    <library name="json (v1.8.3, rbenv: 2.3.0) [gem]">
+    <library name="json_pure (v1.8.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/data" />
@@ -3196,7 +3189,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/data" />
@@ -3928,7 +3920,6 @@
     </library>
     <library name="nokogiri (v1.6.7.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/lib" />
@@ -3937,7 +3928,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/lib" />
