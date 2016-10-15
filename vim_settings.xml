@@ -36,6 +36,12 @@
       <file name="/a.dummy" timestamp="1459086393238">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/application.rb" timestamp="1476544740130">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1457507094906">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -82,6 +88,10 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/.bundle/config" timestamp="1476545127916">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="25" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
         <mark key="[" line="49" column="34" />
@@ -215,6 +225,9 @@
         <mark key="]" line="1" column="158" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/2.1.0/rake/application.rb" timestamp="1476544257077">
+        <mark key="'" line="311" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/Gemfile" timestamp="1458042696972">
         <mark key="[" line="4" column="0" />
@@ -379,31 +392,33 @@
       <jump line="33" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
       <jump line="35" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
       <jump line="34" column="3" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
+      <jump line="238" column="6" filename="$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/2.1.0/rake/application.rb" />
+      <jump line="311" column="16" filename="$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/2.1.0/rake/application.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>factory_girl_rails</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBnZW0gJ2ZhY3RvcnlfZ2lybF9yYWlscycsICd+PiA0LjQuMScK</text>
+      <register name="0" type="4">
+        <text>BUNDLE_DISABLE_SHARED_GEMS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
+        <text encoding="base64">ICAgICMgU2V0dGluZ3MgaW4gY29uZmlnL2Vudmlyb25tZW50cy8qIHRha2UgcHJlY2VkZW5jZSBvdmVyIHRob3NlIHNwZWNpZmllZCBoZXJlLgogICAgIyBBcHBsaWNhdGlvbiBjb25maWd1cmF0aW9uIHNob3VsZCBnbyBpbnRvIGZpbGVzIGluIGNvbmZpZy9pbml0aWFsaXplcnMKICAgICMgLS0gYWxsIC5yYiBmaWxlcyBpbiB0aGF0IGRpcmVjdG9yeSBhcmUgYXV0b21hdGljYWxseSBsb2FkZWQuCgogICAgIyBTZXQgVGltZS56b25lIGRlZmF1bHQgdG8gdGhlIHNwZWNpZmllZCB6b25lIGFuZCBtYWtlIEFjdGl2ZSBSZWNvcmQgYXV0by1jb252ZXJ0IHRvIHRoaXMgem9uZS4KICAgICMgUnVuICJyYWtlIC1EIHRpbWUiIGZvciBhIGxpc3Qgb2YgdGFza3MgZm9yIGZpbmRpbmcgdGltZSB6b25lIG5hbWVzLiBEZWZhdWx0IGlzIFVUQy4KICAgICMgY29uZmlnLnRpbWVfem9uZSA9ICdDZW50cmFsIFRpbWUgKFVTICYgQ2FuYWRhKScKCiAgICAjIFRoZSBkZWZhdWx0IGxvY2FsZSBpcyA6ZW4gYW5kIGFsbCB0cmFuc2xhdGlvbnMgZnJvbSBjb25maWcvbG9jYWxlcy8qLnJiLHltbCBhcmUgYXV0byBsb2FkZWQuCiAgICAjIGNvbmZpZy5pMThuLmxvYWRfcGF0aCArPSBEaXJbUmFpbHMucm9vdC5qb2luKCdteScsICdsb2NhbGVzJywgJyoue3JiLHltbH0nKS50b19zXQogICAgIyBjb25maWcuaTE4bi5kZWZhdWx0X2xvY2FsZSA9IDpkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdjb2Nvb24nCg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Z2VtICdjb2Nvb24nCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBwcml2YXRlCiAgICBkZWYgdXNlcl9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOnVzZXIpLnBlcm1pdChhcHBsZV9hcHBsaWNhdGlvbl91c2Vyc19hdHRyaWJ1dGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmlkLCA6YXBwbGVfYXBwbGljYXRpb25faWQsIDpfZGVzdHJveV0pCiAgICBlbmQK</text>
       </register>
-      <register name="4" type="4">
-        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
-      </register>
       <register name="5" type="4">
-        <text>track_id</text>
+        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
       </register>
       <register name="6" type="4">
         <text>track_id</text>
@@ -418,16 +433,16 @@
         <text>track_id</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>track_id</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>16</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace />
       <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
@@ -449,6 +464,7 @@
         <entry>cocoon</entry>
         <entry>password</entry>
         <entry>username</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
@@ -462,6 +478,7 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>16</entry>
       </history-cmd>
       <history-expr />
       <history-input />
