@@ -83,6 +83,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="22" />
+        <mark key="." line="49" column="35" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="17" />
@@ -364,13 +370,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
+        <text>factory_girl_rails</text>
       </register>
       <register name="/" type="4">
         <text>cocoon</text>
       </register>
-      <register name="0" type="4">
-        <text>price</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnZW0gJ2ZhY3RvcnlfZ2lybF9yYWlscycsICd+PiA0LjQuMScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
@@ -413,7 +419,7 @@
       <last-replace />
       <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
