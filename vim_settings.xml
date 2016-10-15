@@ -284,6 +284,14 @@
       <file name="/fragment.rb" timestamp="1458045547008">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" timestamp="1476542948825">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="n" line="33" column="8" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="22" column="26" />
@@ -367,13 +375,17 @@
       <jump line="50" column="19" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_series_csv_str.rb" />
       <jump line="6" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/Gemfile" />
+      <jump line="8" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
+      <jump line="33" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
+      <jump line="35" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
+      <jump line="34" column="3" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>factory_girl_rails</text>
       </register>
       <register name="/" type="4">
-        <text>cocoon</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnZW0gJ2ZhY3RvcnlfZ2lybF9yYWlscycsICd+PiA0LjQuMScK</text>
@@ -409,17 +421,17 @@
         <text>e</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cocoon</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>cocoon</last-pattern>
+      <last-pattern>username</last-pattern>
       <last-replace />
       <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -435,6 +447,8 @@
         <entry encoding="base64">XDxVUklcPg==</entry>
         <entry encoding="base64">XDx1cmlcPg==</entry>
         <entry>cocoon</entry>
+        <entry>password</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
@@ -444,10 +458,10 @@
         <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
         <entry>split</entry>
-        <entry>w</entry>
         <entry>set nohlsearch</entry>
         <entry>vsp</entry>
         <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
