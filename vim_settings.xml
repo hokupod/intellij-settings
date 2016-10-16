@@ -312,6 +312,12 @@
       <file name="/Dummy.txt" timestamp="1458652037388">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/top/index.html.erb" timestamp="1476603764644">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/movie.rb" timestamp="1452516909343">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="42" />
@@ -328,6 +334,12 @@
         <mark key="n" line="33" column="8" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476603842088">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
         <mark key="[" line="21" column="41" />
@@ -433,7 +445,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>staff</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
