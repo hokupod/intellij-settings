@@ -94,11 +94,22 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="25" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1476601937940">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
         <mark key="[" line="49" column="34" />
         <mark key="]" line="49" column="35" />
         <mark key="^" line="49" column="22" />
         <mark key="." line="49" column="35" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476601948888">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
         <mark key="[" line="23" column="13" />
@@ -129,6 +140,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" timestamp="1476601215089">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/confirmations/new.html.slim" timestamp="1457533352908">
         <mark key="[" line="0" column="0" />
@@ -274,6 +291,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1476601731064">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322065735_create_apple_applications.rb" timestamp="1458630879291">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -319,6 +342,17 @@
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/customer/top_controller.rb" timestamp="1476601944694">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/spec_helper.rb" timestamp="1476601581813">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1453815356649">
         <mark key="[" line="13" column="4" />
@@ -395,46 +429,47 @@
       <jump line="34" column="3" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" />
       <jump line="238" column="6" filename="$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/2.1.0/rake/application.rb" />
       <jump line="311" column="16" filename="$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/2.1.0/rake/application.rb" />
+      <jump line="2" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>factory_girl_rails</text>
+        <text>staff</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>BUNDLE_DISABLE_SHARED_GEMS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgaW5kZXgKICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgU2V0dGluZ3MgaW4gY29uZmlnL2Vudmlyb25tZW50cy8qIHRha2UgcHJlY2VkZW5jZSBvdmVyIHRob3NlIHNwZWNpZmllZCBoZXJlLgogICAgIyBBcHBsaWNhdGlvbiBjb25maWd1cmF0aW9uIHNob3VsZCBnbyBpbnRvIGZpbGVzIGluIGNvbmZpZy9pbml0aWFsaXplcnMKICAgICMgLS0gYWxsIC5yYiBmaWxlcyBpbiB0aGF0IGRpcmVjdG9yeSBhcmUgYXV0b21hdGljYWxseSBsb2FkZWQuCgogICAgIyBTZXQgVGltZS56b25lIGRlZmF1bHQgdG8gdGhlIHNwZWNpZmllZCB6b25lIGFuZCBtYWtlIEFjdGl2ZSBSZWNvcmQgYXV0by1jb252ZXJ0IHRvIHRoaXMgem9uZS4KICAgICMgUnVuICJyYWtlIC1EIHRpbWUiIGZvciBhIGxpc3Qgb2YgdGFza3MgZm9yIGZpbmRpbmcgdGltZSB6b25lIG5hbWVzLiBEZWZhdWx0IGlzIFVUQy4KICAgICMgY29uZmlnLnRpbWVfem9uZSA9ICdDZW50cmFsIFRpbWUgKFVTICYgQ2FuYWRhKScKCiAgICAjIFRoZSBkZWZhdWx0IGxvY2FsZSBpcyA6ZW4gYW5kIGFsbCB0cmFuc2xhdGlvbnMgZnJvbSBjb25maWcvbG9jYWxlcy8qLnJiLHltbCBhcmUgYXV0byBsb2FkZWQuCiAgICAjIGNvbmZpZy5pMThuLmxvYWRfcGF0aCArPSBEaXJbUmFpbHMucm9vdC5qb2luKCdteScsICdsb2NhbGVzJywgJyoue3JiLHltbH0nKS50b19zXQogICAgIyBjb25maWcuaTE4bi5kZWZhdWx0X2xvY2FsZSA9IDpkZQo=</text>
+        <text encoding="base64">ICBjb25maWcub3JkZXIgPSByYW5kb20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHMuc2l6ZSkudG8gZXEoNCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VtICdjb2Nvb24nCg==</text>
+        <text encoding="base64">ICAgICAgcyA8PCBuaWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlCiAgICBkZWYgdXNlcl9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOnVzZXIpLnBlcm1pdChhcHBsZV9hcHBsaWNhdGlvbl91c2Vyc19hdHRyaWJ1dGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmlkLCA6YXBwbGVfYXBwbGljYXRpb25faWQsIDpfZGVzdHJveV0pCiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:set_apple_application, only: [:show, :edit, :update, :destroy]</text>
+      <register name="5" type="2">
+        <text encoding="base64">TXkgYmVoYXZpb3VyJyBkbwoKICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8KCiAgICB0cnVlLnNob3VsZCA9PSBmYWxzZQogIGVuZAplbmQK</text>
       </register>
-      <register name="6" type="4">
-        <text>track_id</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgU2V0dGluZ3MgaW4gY29uZmlnL2Vudmlyb25tZW50cy8qIHRha2UgcHJlY2VkZW5jZSBvdmVyIHRob3NlIHNwZWNpZmllZCBoZXJlLgogICAgIyBBcHBsaWNhdGlvbiBjb25maWd1cmF0aW9uIHNob3VsZCBnbyBpbnRvIGZpbGVzIGluIGNvbmZpZy9pbml0aWFsaXplcnMKICAgICMgLS0gYWxsIC5yYiBmaWxlcyBpbiB0aGF0IGRpcmVjdG9yeSBhcmUgYXV0b21hdGljYWxseSBsb2FkZWQuCgogICAgIyBTZXQgVGltZS56b25lIGRlZmF1bHQgdG8gdGhlIHNwZWNpZmllZCB6b25lIGFuZCBtYWtlIEFjdGl2ZSBSZWNvcmQgYXV0by1jb252ZXJ0IHRvIHRoaXMgem9uZS4KICAgICMgUnVuICJyYWtlIC1EIHRpbWUiIGZvciBhIGxpc3Qgb2YgdGFza3MgZm9yIGZpbmRpbmcgdGltZSB6b25lIG5hbWVzLiBEZWZhdWx0IGlzIFVUQy4KICAgICMgY29uZmlnLnRpbWVfem9uZSA9ICdDZW50cmFsIFRpbWUgKFVTICYgQ2FuYWRhKScKCiAgICAjIFRoZSBkZWZhdWx0IGxvY2FsZSBpcyA6ZW4gYW5kIGFsbCB0cmFuc2xhdGlvbnMgZnJvbSBjb25maWcvbG9jYWxlcy8qLnJiLHltbCBhcmUgYXV0byBsb2FkZWQuCiAgICAjIGNvbmZpZy5pMThuLmxvYWRfcGF0aCArPSBEaXJbUmFpbHMucm9vdC5qb2luKCdteScsICdsb2NhbGVzJywgJyoue3JiLHltbH0nKS50b19zXQogICAgIyBjb25maWcuaTE4bi5kZWZhdWx0X2xvY2FsZSA9IDpkZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>track_id</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly89IHJlcXVpcmUgY29jb29uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>track_id</text>
+      <register name="8" type="2">
+        <text encoding="base64">Z2VtICdjb2Nvb24nCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>track_id</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlCiAgICBkZWYgdXNlcl9wYXJhbXMKICAgICAgcGFyYW1zLnJlcXVpcmUoOnVzZXIpLnBlcm1pdChhcHBsZV9hcHBsaWNhdGlvbl91c2Vyc19hdHRyaWJ1dGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmlkLCA6YXBwbGVfYXBwbGljYXRpb25faWQsIDpfZGVzdHJveV0pCiAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
