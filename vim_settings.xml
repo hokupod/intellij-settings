@@ -210,6 +210,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/production.rb" timestamp="1476628162618">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322130738_add_country_to_apple_application.rb" timestamp="1459085044350">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="50" />
@@ -351,6 +357,14 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" timestamp="1476628119045">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="84" column="11" />
+        <mark key="]" line="84" column="11" />
+        <mark key="n" line="33" column="8" />
+        <mark key="^" line="83" column="18" />
+        <mark key="." line="84" column="11" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476619310881">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -479,7 +493,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>16px</text>
+        <text encoding="base64">IDwlPSBFTlZbJ0JBVUtJU19EQVRBQkFTRV9QQVNTV09SRCddICU+</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -518,7 +532,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>16</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -561,6 +575,7 @@
         <entry>sp</entry>
         <entry>w</entry>
         <entry>16</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
