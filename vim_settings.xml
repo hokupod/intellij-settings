@@ -103,12 +103,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" timestamp="1476620988494">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" timestamp="1476621964372">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="26" />
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
         <mark key="[" line="49" column="34" />
@@ -384,6 +384,12 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="30" column="64" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/helpers/application_helper.rb" timestamp="1476621870837">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/spec/requests/user_pages_spec.rb" />
@@ -448,7 +454,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>header</text>
+        <text>Baukis</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
