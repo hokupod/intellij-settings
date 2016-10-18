@@ -93,11 +93,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.html.slim" timestamp="1458631000648">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1476601937940">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="4" />
@@ -117,16 +112,17 @@
         <mark key="^" line="49" column="22" />
         <mark key="." line="49" column="35" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer.css" timestamp="1476716710862">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476624871742">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="23" />
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="60" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476601948888">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
         <mark key="[" line="23" column="13" />
@@ -171,16 +167,6 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/confirmations/new.html.slim" timestamp="1457533352908">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/home/index.html.slim" timestamp="1457533596246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="49" />
@@ -199,18 +185,13 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/application_controller.rb" timestamp="1457514075578">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/apple_applications_controller.rb" timestamp="1460022144237">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/production.rb" timestamp="1476628162618">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/production.rb" timestamp="1476716264097">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="34" />
         <mark key="^" line="22" column="34" />
@@ -228,10 +209,8 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.html.slim" timestamp="1458631075766">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/layout.css.scss" timestamp="1476717367031">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" timestamp="1457533070835">
         <mark key="[" line="4" column="7" />
@@ -257,16 +236,18 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/childrens_price.rb" timestamp="1453888342047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/sessions_controller.rb" timestamp="1457513976427">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/_colors.css.scss" timestamp="1476716878253">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
         <mark key="[" line="1" column="28" />
@@ -280,11 +261,20 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin.css" timestamp="1476716719180">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_dimensions.css.scss" timestamp="1476627050547">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="17" column="27" />
         <mark key="^" line="17" column="27" />
         <mark key="." line="17" column="27" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/container.css.scss" timestamp="1476717348884">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
         <mark key="[" line="65" column="0" />
@@ -304,10 +294,8 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/javascripts/application.js" timestamp="1460023830415">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/layout.css.scss" timestamp="1476717403159">
+        <mark key="'" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458046034726">
         <mark key="[" line="1" column="74" />
@@ -327,7 +315,7 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_colors.css.scss" timestamp="1476626622490">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_colors.css.scss" timestamp="1476717310925">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
@@ -371,27 +359,17 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/initializers/assets.rb" timestamp="1476623990766">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="59" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/initializers/assets.rb" timestamp="1476717110420">
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="82" />
+        <mark key="^" line="0" column="82" />
+        <mark key="." line="0" column="82" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/price.rb" timestamp="1453888592538">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="22" column="26" />
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/passwords/new.html.slim" timestamp="1457533536094">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/customer/top_controller.rb" timestamp="1476601944694">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/spec_helper.rb" timestamp="1476601581813">
         <mark key="[" line="23" column="23" />
@@ -404,11 +382,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/new_release_price.rb" timestamp="1453888356191">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff.css" timestamp="1476623871482">
         <mark key="[" line="1" column="18" />
@@ -427,6 +400,31 @@
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/admin.html.erb" timestamp="1476717054542">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/container.css.scss" timestamp="1476717387998">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/_colors.css.scss" timestamp="1476716961449">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/customer.html.erb" timestamp="1476717043774">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -490,13 +488,18 @@
       <jump line="16" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" />
       <jump line="30" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/layout.css.scss" />
+      <jump line="10" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/_colors.css.scss" />
+      <jump line="10" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/_colors.css.scss" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/container.css.scss" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/layout.css.scss" />
+      <jump line="13" column="22" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/layout.css.scss" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IDwlPSBFTlZbJ0JBVUtJU19EQVRBQkFTRV9QQVNTV09SRCddICU+</text>
+        <text>staff</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>cyan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAnZGltZW5zaW9ucyc7Cg==</text>
@@ -532,15 +535,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>%s/cyan/yellow/g</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>cyan</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
-      <last-replace />
-      <last-substitute>\v(movie\.|Movie\:\:)</last-substitute>
+      <last-pattern>cyan</last-pattern>
+      <last-replace>yellow</last-replace>
+      <last-substitute>cyan</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -561,6 +564,7 @@
         <entry>password</entry>
         <entry>username</entry>
         <entry>config</entry>
+        <entry>cyan</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
@@ -576,6 +580,12 @@
         <entry>w</entry>
         <entry>16</entry>
         <entry>23</entry>
+        <entry encoding="base64">JzwsJz5jeWFuL3llbGxvdw==</entry>
+        <entry encoding="base64">JzwsJz5zL2N5YW4veWVsbG93</entry>
+        <entry encoding="base64">JzwsJz5zL2N5YW4vbWFnZW50YS9n</entry>
+        <entry>%s/cyan/magenta/g</entry>
+        <entry>%s/cyan/magenta</entry>
+        <entry>%s/cyan/yellow/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
