@@ -118,17 +118,17 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476800056144">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="4" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476801969230">
+        <mark key="'" line="7" column="32" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="40" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="20" column="53" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476799685146">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476802269209">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
         <mark key="[" line="23" column="13" />
@@ -173,11 +173,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" timestamp="1476601215089">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" timestamp="1476801932936">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
@@ -511,59 +511,62 @@
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/container.css.scss" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/layout.css.scss" />
       <jump line="13" column="22" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/layout.css.scss" />
+      <jump line="15" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" />
+      <jump line="18" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" />
+      <jump line="7" column="32" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>cyan</text>
+        <text>rescue500</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmVfdHJlZSAuL3NoYXJlZAo=</text>
+      <register name="0" type="4">
+        <text>rescue500</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJhaXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmVfc2VsZgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogVGhpcyBpcyBhIG1hbmlmZXN0IGZpbGUgdGhhdCdsbCBiZSBjb21waWxlZCBpbnRvIGFwcGxpY2F0aW9uLmNzcywgd2hpY2ggd2lsbCBpbmNsdWRlIGFsbCB0aGUgZmlsZXMKICogbGlzdGVkIGJlbG93LgogKgogKiBBbnkgQ1NTIGFuZCBTQ1NTIGZpbGUgd2l0aGluIHRoaXMgZGlyZWN0b3J5LCBsaWIvYXNzZXRzL3N0eWxlc2hlZXRzLCB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzLAogKiBvciB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzIG9mIHBsdWdpbnMsIGlmIGFueSwgY2FuIGJlIHJlZmVyZW5jZWQgaGVyZSB1c2luZyBhIHJlbGF0aXZlIHBhdGguCiAqCiAqIFlvdSdyZSBmcmVlIHRvIGFkZCBhcHBsaWNhdGlvbi13aWRlIHN0eWxlcyB0byB0aGlzIGZpbGUgYW5kIHRoZXknbGwgYXBwZWFyIGF0IHRoZSBib3R0b20gb2YgdGhlCiAqIGNvbXBpbGVkIGZpbGUgc28gdGhlIHN0eWxlcyB5b3UgYWRkIGhlcmUgdGFrZSBwcmVjZWRlbmNlIG92ZXIgc3R5bGVzIGRlZmluZWQgaW4gYW55IHN0eWxlcwogKiBkZWZpbmVkIGluIHRoZSBvdGhlciBDU1MvU0NTUyBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcKICogZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICo9IHJlcXVpcmVfc2VsZgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogVGhpcyBpcyBhIG1hbmlmZXN0IGZpbGUgdGhhdCdsbCBiZSBjb21waWxlZCBpbnRvIGFwcGxpY2F0aW9uLmNzcywgd2hpY2ggd2lsbCBpbmNsdWRlIGFsbCB0aGUgZmlsZXMKICogbGlzdGVkIGJlbG93LgogKgogKiBBbnkgQ1NTIGFuZCBTQ1NTIGZpbGUgd2l0aGluIHRoaXMgZGlyZWN0b3J5LCBsaWIvYXNzZXRzL3N0eWxlc2hlZXRzLCB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzLAogKiBvciB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzIG9mIHBsdWdpbnMsIGlmIGFueSwgY2FuIGJlIHJlZmVyZW5jZWQgaGVyZSB1c2luZyBhIHJlbGF0aXZlIHBhdGguCiAqCiAqIFlvdSdyZSBmcmVlIHRvIGFkZCBhcHBsaWNhdGlvbi13aWRlIHN0eWxlcyB0byB0aGlzIGZpbGUgYW5kIHRoZXknbGwgYXBwZWFyIGF0IHRoZSBib3R0b20gb2YgdGhlCiAqIGNvbXBpbGVkIGZpbGUgc28gdGhlIHN0eWxlcyB5b3UgYWRkIGhlcmUgdGFrZSBwcmVjZWRlbmNlIG92ZXIgc3R5bGVzIGRlZmluZWQgaW4gYW55IHN0eWxlcwogKiBkZWZpbmVkIGluIHRoZSBvdGhlciBDU1MvU0NTUyBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcKICogZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCU9IHlpZWxkICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25maWcub3JkZXIgPSByYW5kb20K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHMuc2l6ZSkudG8gZXEoNCkK</text>
+        <text encoding="base64">PCU9IHlpZWxkICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/cyan/yellow/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cyan</last-search>
+      <last-search>rescue500</last-search>
       <last-offset />
-      <last-pattern>cyan</last-pattern>
+      <last-pattern>rescue500</last-pattern>
       <last-replace>yellow</last-replace>
       <last-substitute>cyan</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -583,6 +586,7 @@
         <entry>username</entry>
         <entry>config</entry>
         <entry>cyan</entry>
+        <entry>rescue500</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
