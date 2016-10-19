@@ -197,6 +197,12 @@
         <mark key="." line="37" column="9" />
         <mark key="^" line="37" column="9" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/db/migrate/20161019082727_create_staff_members.rb" timestamp="1476867204427">
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="18" column="67" />
+        <mark key="^" line="18" column="67" />
+        <mark key="." line="18" column="67" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/views/layouts/application.html.erb" timestamp="1452342671480">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="67" />
@@ -539,43 +545,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
       </register>
-      <register name="0" type="4">
-        <text>ApplicationController::</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmdpdmVuX25hbWUsIG51bGw6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXNjdWVfZnJvbSBFeGNlcHRpb24sIHdpdGg6IDpyZXNjdWU1MDAKICByZXNjdWVfZnJvbSBGb3JiaWRkZW4sIHdpdGg6IDpyZXNjdWU0MDMKICByZXNjdWVfZnJvbSBJcEFkZHJlc3NSZWplY3RlZCwgd2l0aDogOnJlc2N1ZTQwMwogIHJlc2N1ZV9mcm9tIEFjdGlvbkNvbnRyb2xsZXI6OlJvdXRpbmdFcnJvciwgd2l0aDogOnJlc2N1ZTQwNAogIHJlc2N1ZV9mcm9tIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQsIHdpdGg6IDpyZXNjdWU0MDQK</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVzY3VlNDAzKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ZvcmJpZGRlbicsIHN0YXR1czogNDAzCiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNDA0KGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL25vdF9mb3VuZCcsIHN0YXR1czogNDA0CiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNTAwKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ludGVybmFsX3NlcnZlcl9lcnJvcicsIHN0YXR1czogNTAwCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXNjdWVfZnJvbSBFeGNlcHRpb24sIHdpdGg6IDpyZXNjdWU1MDAKICByZXNjdWVfZnJvbSBGb3JiaWRkZW4sIHdpdGg6IDpyZXNjdWU0MDMKICByZXNjdWVfZnJvbSBJcEFkZHJlc3NSZWplY3RlZCwgd2l0aDogOnJlc2N1ZTQwMwogIHJlc2N1ZV9mcm9tIEFjdGlvbkNvbnRyb2xsZXI6OlJvdXRpbmdFcnJvciwgd2l0aDogOnJlc2N1ZTQwNAogIHJlc2N1ZV9mcm9tIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQsIHdpdGg6IDpyZXNjdWU0MDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBkZWYgcmVzY3VlNDAzKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ZvcmJpZGRlbicsIHN0YXR1czogNDAzCiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNDA0KGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL25vdF9mb3VuZCcsIHN0YXR1czogNDA0CiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNTAwKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ludGVybmFsX3NlcnZlcl9lcnJvcicsIHN0YXR1czogNTAwCiAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIElwQWRkcmVzc1JlamVjdGVkCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIEZvcmJpZGRlbgo=</text>
+        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
+        <text encoding="base64">ICAgIHJhaXNlIElwQWRkcmVzc1JlamVjdGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/cyan/yellow/g</text>
