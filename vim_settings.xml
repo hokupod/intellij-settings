@@ -288,6 +288,12 @@
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/container.css.scss" timestamp="1476717348884">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/errors/forbidden.html.erb" timestamp="1476859378328">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/secrets.yml" timestamp="1457507975082">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="68" column="68" />
@@ -356,14 +362,6 @@
         <mark key="]" line="9" column="42" />
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/database.yml" timestamp="1476628119045">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="84" column="11" />
-        <mark key="]" line="84" column="11" />
-        <mark key="n" line="33" column="8" />
-        <mark key="^" line="83" column="18" />
-        <mark key="." line="84" column="11" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476619310881">
         <mark key="[" line="0" column="15" />
