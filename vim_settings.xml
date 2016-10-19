@@ -93,18 +93,10 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1476601937940">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" timestamp="1476621964372">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1476861009822">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
         <mark key="[" line="49" column="34" />
@@ -118,14 +110,14 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476859005785">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476862446820">
         <mark key="'" line="8" column="32" />
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="25" column="43" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476802269209">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476861017767">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -141,13 +133,6 @@
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/layout.css.scss" timestamp="1476627205711">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.json.jbuilder" timestamp="1459086257811">
         <mark key="[" line="0" column="91" />
@@ -209,6 +194,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/errors/not_found.html.erb" timestamp="1476862171746">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322130738_add_country_to_apple_application.rb" timestamp="1459085044350">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="50" />
@@ -254,13 +245,6 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/_colors.css.scss" timestamp="1476716878253">
-        <mark key="'" line="10" column="9" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="158" />
@@ -278,6 +262,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/errors_controller.rb" timestamp="1476861577016">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_dimensions.css.scss" timestamp="1476627050547">
         <mark key="[" line="0" column="20" />
@@ -327,11 +317,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1476601731064">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1476861152634">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_colors.css.scss" timestamp="1476717310925">
         <mark key="[" line="10" column="11" />
@@ -381,6 +371,11 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/customer/top_controller.rb" timestamp="1476862510717">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/spec_helper.rb" timestamp="1476601581813">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="24" column="21" />
@@ -428,13 +423,6 @@
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
-      </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/_colors.css.scss" timestamp="1476716961449">
-        <mark key="'" line="10" column="9" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/customer.html.erb" timestamp="1476717043774">
         <mark key="[" line="4" column="27" />
@@ -515,43 +503,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>internal_server_error</text>
+        <text>RoutingError</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNjdWU1MDAoZSkKICAgICAgQGV4Y2VwdGlvbiA9IGUKICAgICAgcmVuZGVyICdlcnJvcnMvaW50ZXJuYWxfc2VydmVyX2Vycm9yJywgc3RhdHVzOiA1MDAKICAgIGVuZAo=</text>
+        <text encoding="base64">ICByZXNjdWVfZnJvbSBBY3Rpb25Db250cm9sbGVyOjpSb3V0aW5nRXJyb3IsIHdpdGg6IDpyZXNjdWU0MDQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIElwQWRkcmVzc1JlamVjdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJhaXNlIEZvcmJpZGRlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmVfc2VsZgo=</text>
+        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVGhpcyBpcyBhIG1hbmlmZXN0IGZpbGUgdGhhdCdsbCBiZSBjb21waWxlZCBpbnRvIGFwcGxpY2F0aW9uLmNzcywgd2hpY2ggd2lsbCBpbmNsdWRlIGFsbCB0aGUgZmlsZXMKICogbGlzdGVkIGJlbG93LgogKgogKiBBbnkgQ1NTIGFuZCBTQ1NTIGZpbGUgd2l0aGluIHRoaXMgZGlyZWN0b3J5LCBsaWIvYXNzZXRzL3N0eWxlc2hlZXRzLCB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzLAogKiBvciB2ZW5kb3IvYXNzZXRzL3N0eWxlc2hlZXRzIG9mIHBsdWdpbnMsIGlmIGFueSwgY2FuIGJlIHJlZmVyZW5jZWQgaGVyZSB1c2luZyBhIHJlbGF0aXZlIHBhdGguCiAqCiAqIFlvdSdyZSBmcmVlIHRvIGFkZCBhcHBsaWNhdGlvbi13aWRlIHN0eWxlcyB0byB0aGlzIGZpbGUgYW5kIHRoZXknbGwgYXBwZWFyIGF0IHRoZSBib3R0b20gb2YgdGhlCiAqIGNvbXBpbGVkIGZpbGUgc28gdGhlIHN0eWxlcyB5b3UgYWRkIGhlcmUgdGFrZSBwcmVjZWRlbmNlIG92ZXIgc3R5bGVzIGRlZmluZWQgaW4gYW55IHN0eWxlcwogKiBkZWZpbmVkIGluIHRoZSBvdGhlciBDU1MvU0NTUyBmaWxlcyBpbiB0aGlzIGRpcmVjdG9yeS4gSXQgaXMgZ2VuZXJhbGx5IGJldHRlciB0byBjcmVhdGUgYSBuZXcKICogZmlsZSBwZXIgc3R5bGUgc2NvcGUuCiAqCg==</text>
+        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJhaXNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCU9IHlpZWxkICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/cyan/yellow/g</text>
