@@ -118,12 +118,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476801969230">
-        <mark key="'" line="7" column="32" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="20" column="53" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476859005785">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="25" column="43" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476802269209">
         <mark key="[" line="2" column="0" />
@@ -517,13 +517,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>o</text>
+        <text>internal_server_error</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
       </register>
-      <register name="0" type="4">
-        <text>rescue500</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXNjdWU1MDAoZSkKICAgICAgQGV4Y2VwdGlvbiA9IGUKICAgICAgcmVuZGVyICdlcnJvcnMvaW50ZXJuYWxfc2VydmVyX2Vycm9yJywgc3RhdHVzOiA1MDAKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJhaXNlCg==</text>
