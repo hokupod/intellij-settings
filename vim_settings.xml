@@ -160,6 +160,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/models/staff_member_spec.rb" timestamp="1476968093415">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457528691190">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -330,11 +336,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/models/staff_member.rb" timestamp="1476966868645">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="49" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/models/staff_member.rb" timestamp="1476967270410">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/user_passwords_controller.rb" timestamp="1457530670534">
         <mark key="[" line="0" column="10" />
@@ -548,10 +554,11 @@
       <jump line="18" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" />
       <jump line="7" column="32" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" />
       <jump line="5" column="17" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/concerns/error_handlers.rb" />
+      <jump line="2" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/models/staff_member_spec.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>email</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
@@ -560,34 +567,34 @@
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmdpdmVuX25hbWUsIG51bGw6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
+        <text encoding="base64">UlNwZWMuZGVzY3JpYmUgU3RhZmZNZW1iZXIsIDp0eXBlID0+IDptb2RlbCBkbwogIHBlbmRpbmcgImFkZCBzb21lIGV4YW1wbGVzIHRvIChvciBkZWxldGUpICN7X19GSUxFX199IgplbmQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNjdWVfZnJvbSBFeGNlcHRpb24sIHdpdGg6IDpyZXNjdWU1MDAKICByZXNjdWVfZnJvbSBGb3JiaWRkZW4sIHdpdGg6IDpyZXNjdWU0MDMKICByZXNjdWVfZnJvbSBJcEFkZHJlc3NSZWplY3RlZCwgd2l0aDogOnJlc2N1ZTQwMwogIHJlc2N1ZV9mcm9tIEFjdGlvbkNvbnRyb2xsZXI6OlJvdXRpbmdFcnJvciwgd2l0aDogOnJlc2N1ZTQwNAogIHJlc2N1ZV9mcm9tIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQsIHdpdGg6IDpyZXNjdWU0MDQK</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVzY3VlNDAzKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ZvcmJpZGRlbicsIHN0YXR1czogNDAzCiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNDA0KGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL25vdF9mb3VuZCcsIHN0YXR1czogNDA0CiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNTAwKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ludGVybmFsX3NlcnZlcl9lcnJvcicsIHN0YXR1czogNTAwCiAgICBlbmQK</text>
+        <text encoding="base64">ICByZXNjdWVfZnJvbSBFeGNlcHRpb24sIHdpdGg6IDpyZXNjdWU1MDAKICByZXNjdWVfZnJvbSBGb3JiaWRkZW4sIHdpdGg6IDpyZXNjdWU0MDMKICByZXNjdWVfZnJvbSBJcEFkZHJlc3NSZWplY3RlZCwgd2l0aDogOnJlc2N1ZTQwMwogIHJlc2N1ZV9mcm9tIEFjdGlvbkNvbnRyb2xsZXI6OlJvdXRpbmdFcnJvciwgd2l0aDogOnJlc2N1ZTQwNAogIHJlc2N1ZV9mcm9tIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQsIHdpdGg6IDpyZXNjdWU0MDQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgICBkZWYgcmVzY3VlNDAzKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ZvcmJpZGRlbicsIHN0YXR1czogNDAzCiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNDA0KGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL25vdF9mb3VuZCcsIHN0YXR1czogNDA0CiAgICBlbmQKCiAgICBkZWYgcmVzY3VlNTAwKGUpCiAgICAgIEBleGNlcHRpb24gPSBlCiAgICAgIHJlbmRlciAnZXJyb3JzL2ludGVybmFsX3NlcnZlcl9lcnJvcicsIHN0YXR1czogNTAwCiAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
+        <text encoding="base64">ICAgIHJhaXNlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIElwQWRkcmVzc1JlamVjdGVkCg==</text>
+        <text encoding="base64">ICAgIHJlbmRlciBhY3Rpb246ICdpbmRleCcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/cyan/yellow/g</text>
