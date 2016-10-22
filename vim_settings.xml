@@ -148,12 +148,12 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/layout.css.scss" timestamp="1476627205711">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/layout.css.scss" timestamp="1477152488737">
+        <mark key="'" line="37" column="12" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/show.json.jbuilder" timestamp="1459086257811">
         <mark key="[" line="0" column="91" />
@@ -408,6 +408,12 @@
         <mark key="]" line="7" column="36" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477152277665">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476619310881">
         <mark key="[" line="0" column="15" />
