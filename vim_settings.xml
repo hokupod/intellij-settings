@@ -33,6 +33,12 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/base.rb" timestamp="1477146508851">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/application.rb" timestamp="1476544740130">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="26" column="23" />
@@ -124,10 +130,11 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1476861017767">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1477146517068">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/apple_application.rb" timestamp="1460024091687">
         <mark key="[" line="23" column="13" />
@@ -562,13 +569,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>f</text>
+        <text>Staff::Base</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZmFtaWx5X25hbWVfa2FuYTogJ+ODpOODnuODgCcsCg==</text>
+      <register name="0" type="4">
+        <text>Staff::Base</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBUaGlzIGZpbGUgc2hvdWxkIGNvbnRhaW4gYWxsIHRoZSByZWNvcmQgY3JlYXRpb24gbmVlZGVkIHRvIHNlZWQgdGhlIGRhdGFiYXNlIHdpdGggaXRzIGRlZmF1bHQgdmFsdWVzLgojIFRoZSBkYXRhIGNhbiB0aGVuIGJlIGxvYWRlZCB3aXRoIHRoZSByYWtlIGRiOnNlZWQgKG9yIGNyZWF0ZWQgYWxvbmdzaWRlIHRoZSBkYiB3aXRoIGRiOnNldHVwKS4KIwojIEV4YW1wbGVzOgojCiMgICBjaXRpZXMgPSBDaXR5LmNyZWF0ZShbeyBuYW1lOiAnQ2hpY2FnbycgfSwgeyBuYW1lOiAnQ29wZW5oYWdlbicgfV0pCiMgICBNYXlvci5jcmVhdGUobmFtZTogJ0VtYW51ZWwnLCBjaXR5OiBjaXRpZXMuZmlyc3QpCg==</text>
