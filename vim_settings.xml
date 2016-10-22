@@ -367,11 +367,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1476861152634">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477147248127">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_colors.css.scss" timestamp="1476717310925">
         <mark key="[" line="10" column="11" />
@@ -462,11 +462,17 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/admin.html.erb" timestamp="1476717054542">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/admin.html.erb" timestamp="1477150164366">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/staff.html.erb" timestamp="1477150140590">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/container.css.scss" timestamp="1476717387998">
         <mark key="[" line="10" column="40" />
@@ -487,11 +493,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/customer.html.erb" timestamp="1476717043774">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/customer.html.erb" timestamp="1477150154037">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -569,13 +575,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Staff::Base</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>rescue500</text>
       </register>
-      <register name="0" type="4">
-        <text>Staff::Base</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBUaGlzIGZpbGUgc2hvdWxkIGNvbnRhaW4gYWxsIHRoZSByZWNvcmQgY3JlYXRpb24gbmVlZGVkIHRvIHNlZWQgdGhlIGRhdGFiYXNlIHdpdGggaXRzIGRlZmF1bHQgdmFsdWVzLgojIFRoZSBkYXRhIGNhbiB0aGVuIGJlIGxvYWRlZCB3aXRoIHRoZSByYWtlIGRiOnNlZWQgKG9yIGNyZWF0ZWQgYWxvbmdzaWRlIHRoZSBkYiB3aXRoIGRiOnNldHVwKS4KIwojIEV4YW1wbGVzOgojCiMgICBjaXRpZXMgPSBDaXR5LmNyZWF0ZShbeyBuYW1lOiAnQ2hpY2FnbycgfSwgeyBuYW1lOiAnQ29wZW5oYWdlbicgfV0pCiMgICBNYXlvci5jcmVhdGUobmFtZTogJ0VtYW51ZWwnLCBjaXR5OiBjaXRpZXMuZmlyc3QpCg==</text>
