@@ -450,8 +450,11 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/sessions/new.html.erb" timestamp="1477228163358">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/sessions/new.html.erb" timestamp="1477230865324">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/spec_helper.rb" timestamp="1476601581813">
         <mark key="[" line="23" column="23" />
@@ -615,13 +618,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>StaffMember</text>
+        <text>text_field</text>
       </register>
       <register name="/" type="4">
         <text>staff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsKICAgIGNvbG9yOiAkdmVyeV9saWdodF9ncmF5Owo=</text>
+        <text encoding="base64">ICA8ZGl2PgogICAgPCU9IGYubGFiZWwgOmVtYWlsLCAn44Oh44O844Or44Ki44OJ44Os44K5JyAlPgogICAgPCU9IGYudGV4dF9maWVsZCA6ZW1haWwgJT4KICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
