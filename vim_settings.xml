@@ -93,11 +93,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" timestamp="1477206384798">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" timestamp="1477232341853">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/rental_spec.rb" timestamp="1453817926358">
         <mark key="[" line="0" column="9" />
@@ -111,6 +112,13 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/application.html.erb" timestamp="1476621964372">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/Gemfile" timestamp="1476540606402">
         <mark key="[" line="49" column="34" />
         <mark key="]" line="49" column="35" />
@@ -122,6 +130,13 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/application_controller.rb" timestamp="1476865524756">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="42" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/top_controller.rb" timestamp="1477146517068">
         <mark key="[" line="0" column="29" />
@@ -293,6 +308,13 @@
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/customer/_colors.css.scss" timestamp="1476716878253">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/customer_spec.rb" timestamp="1453887774474">
         <mark key="[" line="1" column="28" />
@@ -530,6 +552,13 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/_colors.css.scss" timestamp="1476716961449">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/layouts/customer.html.erb" timestamp="1477150154037">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="22" />
@@ -615,13 +644,16 @@
       <jump line="14" column="27" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/models/administrator_spec.rb" />
       <jump line="9" column="11" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/base.rb" />
       <jump line="7" column="2" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/shared/_header.html.erb" />
+      <jump line="13" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" />
+      <jump line="15" column="7" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" />
+      <jump line="16" column="34" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>text_field</text>
       </register>
       <register name="/" type="4">
-        <text>staff</text>
+        <text encoding="base64">XDxzdGFmZl9tZW1iZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8ZGl2PgogICAgPCU9IGYubGFiZWwgOmVtYWlsLCAn44Oh44O844Or44Ki44OJ44Os44K5JyAlPgogICAgPCU9IGYudGV4dF9maWVsZCA6ZW1haWwgJT4KICA8L2Rpdj4K</text>
@@ -661,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>staff</last-search>
+      <last-search encoding="base64">XDxzdGFmZl9tZW1iZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>staff</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFmZl9tZW1iZXJcPg==</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>staff</last-substitute>
       <last-dir>1</last-dir>
@@ -690,6 +722,7 @@
         <entry>rescue500</entry>
         <entry>member</entry>
         <entry>staff</entry>
+        <entry encoding="base64">XDxzdGFmZl9tZW1iZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VsZW1lbnQvcmVudGFsL2c=</entry>
