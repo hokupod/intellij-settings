@@ -325,12 +325,12 @@
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" timestamp="1477317917569">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/sessions_controller.rb" timestamp="1477319792343">
         <mark key="'" line="16" column="34" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="72" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="72" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1477156494398">
         <mark key="[" line="0" column="42" />
@@ -491,6 +491,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/services/staff/authenticator.rb" timestamp="1477319767441">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/series.rb" timestamp="1458046034726">
         <mark key="[" line="1" column="74" />
