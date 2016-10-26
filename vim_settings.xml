@@ -363,6 +363,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="39" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/factories/staff_members.rb" timestamp="1477489141789">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/layout.css.scss" timestamp="1477156220696">
         <mark key="'" line="37" column="12" />
         <mark key="[" line="24" column="0" />
@@ -701,7 +707,7 @@
         <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmVtYWlsLCBudWxsOiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0YWZmL2FkbWluL2c=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -711,7 +717,7 @@
       <last-replace>admin</last-replace>
       <last-substitute>staff</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -737,13 +743,11 @@
         <entry encoding="base64">XDxzdGFmZl9tZW1iZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2VsZW1lbnQvcmVudGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNfYW1vdW50L3Jlc3VsdC9n</entry>
         <entry encoding="base64">JzwsJz5zL3JlbnRhbFwuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x2dGhpc19hbW91bnQvZWxlbWVudC5jaGFyZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
         <entry>split</entry>
-        <entry>set nohlsearch</entry>
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>w</entry>
@@ -757,6 +761,8 @@
         <entry>%s/cyan/yellow/g</entry>
         <entry encoding="base64">JzwsJz5zL21lbWJlci9hZG1pbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0YWZmL2FkbWluL2c=</entry>
+        <entry>set nohlsearch</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
