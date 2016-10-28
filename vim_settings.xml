@@ -330,6 +330,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/.gitignore" timestamp="1477670646858">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/sessions.css.scss" timestamp="1477318753104">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="32" column="35" />
@@ -746,34 +751,34 @@
         <text encoding="base64">Ci8qIOi1pOezuyAqLwokcmVkOiAjY2MwMDAwOwoKLyog57eR57O7ICovCiRncmVlbjogIzAwY2MwMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBleGFtcGxlICfplovlp4vliY3jgarjgolmYWxzZeOCkui/lOOBmScgZG8KICAgICAgbSA9IGJ1aWxkKDpzdGFmZl9tZW1iZXIsIHN0YXJ0X2RhdGU6IERhdGUudG9tb3Jyb3cpCiAgICAgIGV4cGVjdChTdGFmZjo6QXV0aGVudGljYXRvci5uZXcobSkuYXV0aGVudGljYXRlKCdwdycpKS50byBiZV9mYWxzZXkKICAgIGVuZAoKICAgIGV4YW1wbGUgJ+e1guS6huW+jOOBquOCiWZhbHNl44KS6L+U44GZJyBkbwogICAgICBtID0gYnVpbGQoOnN0YWZmX21lbWJlciwgZW5kX2RhdGU6IERhdGUudG9kYXkpCiAgICAgIGV4cGVjdChTdGFmZjo6QXV0aGVudGljYXRvci5uZXcobSkuYXV0aGVudGljYXRlKCdwdycpKS50byBiZV9mYWxzZXkKICAgIGVuZAo=</text>
+        <text encoding="base64">ZGIvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAhQHN0YWZmX21lbWJlci5zdXNwZW5kZWQ/ICYmCg==</text>
+        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAc3RhZmZfbWVtYmVyLgo=</text>
+        <text encoding="base64">R2VtZmlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbls6c3RhZmZfbWVtYmVyX2lkXSA9IHN0YWZmX21lbWJlci5pZAogICAgICBmbGFzaC5ub3RpY2UgPSAn44Ot44Kw44Kk44Oz44GX44G+44GX44Gf44CCJwogICAgICByZWRpcmVjdF90byA6c3RhZmZfcm9vdAo=</text>
+        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byA6c3RhZmZfcm9vdAo=</text>
+        <text encoding="base64">UmFrZWZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YmluLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLnJ1Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uZmlnLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bGliLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Staff/Admin/gc</text>
