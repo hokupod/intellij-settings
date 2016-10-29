@@ -197,11 +197,11 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477755617916">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477762026038">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322075210_create_apple_applications_users.rb" timestamp="1458633365034">
         <mark key="[" line="4" column="26" />
@@ -227,11 +227,11 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477569603775">
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="3" column="68" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477761787522">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/db/seeds/development/administrators.rb" timestamp="1477154181034">
         <mark key="[" line="1" column="44" />
@@ -280,11 +280,11 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/base.rb" timestamp="1477577221427">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/base.rb" timestamp="1477761929250">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="43" />
         <mark key="^" line="0" column="10" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/_colors.css.scss" timestamp="1477581413080">
@@ -429,7 +429,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/shared/_header.html.erb" timestamp="1477581327199">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/shared/_header.html.erb" timestamp="1477761735069">
         <mark key="'" line="9" column="2" />
         <mark key="[" line="3" column="53" />
         <mark key="]" line="3" column="67" />
@@ -490,11 +490,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/sessions_controller.rb" timestamp="1477581139772">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/sessions_controller.rb" timestamp="1477761908806">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/controllers/users/sessions_controller.rb" timestamp="1457513976427">
         <mark key="[" line="0" column="31" />
@@ -745,63 +746,63 @@
       <jump line="0" column="10" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/base.rb" />
       <jump line="15" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/services/admin/authenticator_spec.rb" />
       <jump line="2" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/services/admin/authenticator_spec.rb" />
+      <jump line="17" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/sessions_controller.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>admin_member_id</text>
       </register>
       <register name="/" type="4">
-        <text>Staff</text>
+        <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ci8qIOi1pOezuyAqLwokcmVkOiAjY2MwMDAwOwoKLyog57eR57O7ICovCiRncmVlbjogIzAwY2MwMDsK</text>
+      <register name="0" type="4">
+        <text>administrator_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIvCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
+        <text encoding="base64">ZGIvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R2VtZmlsZQo=</text>
+        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
+        <text encoding="base64">R2VtZmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmFrZWZpbGUK</text>
+        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmluLwo=</text>
+        <text encoding="base64">UmFrZWZpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnLnJ1Cg==</text>
+        <text encoding="base64">YmluLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnLwo=</text>
+        <text encoding="base64">Y29uZmlnLnJ1Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGliLwo=</text>
+        <text encoding="base64">Y29uZmlnLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Staff/Admin/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>Staff</last-search>
+      <last-search encoding="base64">XDxmbGFzaFw+</last-search>
       <last-offset />
-      <last-pattern>Staff</last-pattern>
+      <last-pattern encoding="base64">XDxmbGFzaFw+</last-pattern>
       <last-replace>Admin</last-replace>
       <last-substitute>Staff</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>admin</entry>
         <entry>element</entry>
         <entry>this_amount</entry>
         <entry>rental\.</entry>
@@ -821,6 +822,7 @@
         <entry>staff</entry>
         <entry>staff_member</entry>
         <entry>Staff</entry>
+        <entry encoding="base64">XDxmbGFzaFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1x2KG1vdmllXC58TW92aWVcOlw6KS8vZw==</entry>
