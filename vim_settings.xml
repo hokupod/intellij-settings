@@ -107,6 +107,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/routing/hostname_constrains_spec.rb" timestamp="1477834933867">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="27" column="45" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="49" />
@@ -764,43 +770,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>staff</text>
+        <text>jp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdHJhaW50cyBob3N0OiBjb25maWdbOnN0YWZmXVs6aG9zdF0gZG8KICAgIG5hbWVzcGFjZSA6c3RhZmYsIHBhdGg6IGNvbmZpZ1s6c3RhZmZdWzpwYXRoXSBkbwo=</text>
+        <text encoding="base64">CiAgZXhhbXBsZSAn44Ob44K544OI5ZCN44GM5a++6LGh5aSW44Gq44KJZXJyb3JzL25vdF9mb3VuZOOBuCcgZG8KICAgIGV4cGVjdChnZXQ6ICdodHRwOi8vZm9vLmV4YW1wbGUuanAnKS50byByb3V0ZV90bygKICAgICAgICBjb250cm9sbGVyOiAnZXJyb3JzJywKICAgICAgICBhY3Rpb246ICdyb3V0aW5nX2Vycm9yJwogICAgKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2UgOmFkbWluIGRvCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFueXRoaW5nOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvc3Q6ICdiYXVraXMuZXhhbXBsZS5jb20nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R2VtZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
+        <text encoding="base64">ICBuYW1lc3BhY2UgOmFkbWluIGRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmFrZWZpbGUK</text>
+        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Staff/Admin/gc</text>
