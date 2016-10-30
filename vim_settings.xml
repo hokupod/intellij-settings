@@ -125,11 +125,11 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/production.rb" timestamp="1476865565883">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="28" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/production.rb" timestamp="1477832638271">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="87" column="3" />
         <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/shared/application.html.erb" timestamp="1476621188326">
         <mark key="[" line="0" column="0" />
@@ -185,6 +185,12 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/development.rb" timestamp="1477832626503">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="2" />
+        <mark key="^" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/models/staff_member.rb" timestamp="1476967270410">
         <mark key="[" line="7" column="66" />
         <mark key="]" line="9" column="31" />
@@ -197,11 +203,12 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477829843965">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="4" column="48" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477833239950">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322075210_create_apple_applications_users.rb" timestamp="1458633365034">
         <mark key="[" line="4" column="26" />
@@ -593,6 +600,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/initializers/assets.rb" timestamp="1476717110420">
         <mark key="[" line="0" column="60" />
         <mark key="]" line="0" column="82" />
@@ -747,46 +759,48 @@
       <jump line="15" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/services/admin/authenticator_spec.rb" />
       <jump line="2" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/services/admin/authenticator_spec.rb" />
       <jump line="17" column="8" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/sessions_controller.rb" />
+      <jump line="19" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" />
+      <jump line="20" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>admin_member_id</text>
+        <text>staff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlIDpzZXNzaW9uLCBvbmx5OiBbIDpjcmVhdGUsIDpkZXN0cm95IF0K</text>
+        <text encoding="base64">ICBjb25zdHJhaW50cyBob3N0OiBjb25maWdbOnN0YWZmXVs6aG9zdF0gZG8KICAgIG5hbWVzcGFjZSA6c3RhZmYsIHBhdGg6IGNvbmZpZ1s6c3RhZmZdWzpwYXRoXSBkbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2UgOmFkbWluIGRvCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
+        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGIvCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
+        <text encoding="base64">ZGIvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R2VtZmlsZQo=</text>
+        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
+        <text encoding="base64">R2VtZmlsZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UmFrZWZpbGUK</text>
+        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmluLwo=</text>
+        <text encoding="base64">UmFrZWZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Staff/Admin/gc</text>
