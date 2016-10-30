@@ -197,11 +197,11 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477829599975">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/routes.rb" timestamp="1477829843965">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/db/migrate/20160322075210_create_apple_applications_users.rb" timestamp="1458633365034">
         <mark key="[" line="4" column="26" />
@@ -755,38 +755,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>administrator_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlc291cmNlIDpzZXNzaW9uLCBvbmx5OiBbIDpjcmVhdGUsIDpkZXN0cm95IF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
+        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIvCg==</text>
+        <text encoding="base64">ICAgIHBvc3QgJ3Nlc3Npb24nID0+ICdzZXNzaW9ucyNjcmVhdGUnLCBhczogOnNlc3Npb24KICAgIGRlbGV0ZSAnc2Vzc2lvbicgPT4gJ3Nlc3Npb25zI2Rlc3Ryb3knCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6c3RhZmZfbWVtYmVycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R2VtZmlsZQo=</text>
+        <text encoding="base64">ZGIvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
+        <text encoding="base64">R2VtZmlsZS5sb2NrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmFrZWZpbGUK</text>
+        <text encoding="base64">R2VtZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmluLwo=</text>
+        <text encoding="base64">UkVBRE1FLnJkb2MK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnLnJ1Cg==</text>
+        <text encoding="base64">UmFrZWZpbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZmlnLwo=</text>
+        <text encoding="base64">YmluLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Staff/Admin/gc</text>
