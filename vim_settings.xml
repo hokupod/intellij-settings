@@ -541,11 +541,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/staff_members/index.html.erb" timestamp="1479045162067">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/staff_members/index.html.erb" timestamp="1479046064372">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+        <mark key="." line="35" column="46" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_dimensions.css.scss" timestamp="1476627050547">
         <mark key="[" line="0" column="20" />
@@ -782,7 +782,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>family_names</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
