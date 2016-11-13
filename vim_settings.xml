@@ -234,11 +234,11 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/db/seeds/development/staff_members.rb" timestamp="1479043121204">
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-        <mark key="." line="38" column="31" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/db/seeds/development/staff_members.rb" timestamp="1479044179701">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="25" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477761787522">
         <mark key="[" line="3" column="31" />
@@ -442,6 +442,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/staff_members_controller.rb" timestamp="1479044397535">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="2" column="73" />
+        <mark key="." line="2" column="73" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/shared/_header.html.erb" timestamp="1477761735069">
         <mark key="'" line="9" column="2" />
         <mark key="[" line="3" column="53" />
@@ -534,6 +540,12 @@
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/staff_members/index.html.erb" timestamp="1479045162067">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_dimensions.css.scss" timestamp="1476627050547">
         <mark key="[" line="0" column="20" />
@@ -809,7 +821,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Staff/Admin/gc</text>
+        <text>set nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -860,11 +872,11 @@
         <entry>%s/cyan/yellow/g</entry>
         <entry encoding="base64">JzwsJz5zL21lbWJlci9hZG1pbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0YWZmL2FkbWluL2c=</entry>
-        <entry>set nohlsearch</entry>
         <entry>noh</entry>
         <entry>%s/staff/admin/gc</entry>
         <entry>%s/staff_member/administrator/gc</entry>
         <entry>%s/Staff/Admin/gc</entry>
+        <entry>set nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
