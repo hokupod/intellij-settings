@@ -535,6 +535,9 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
+      <file name="/Ruby Console" timestamp="1519571088453">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/sessions/new.html.erb" timestamp="1477577615425">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="32" />
@@ -640,6 +643,12 @@
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/.gitignore" timestamp="1519570775774">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/spec_helper.rb" timestamp="1476601581813">
         <mark key="[" line="23" column="23" />
@@ -790,35 +799,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICBmbiA9IGZhbWlseV9uYW1lc1tuICUgNF0uc3BsaXQoJzonKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">LmlkZWEvdGFza3MueG1sIC5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhL2R5bmFtaWMueG1sCi5pZGVhL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvZ3JhZGxlLnhtbAouaWRlYS9saWJyYXJpZXMKCiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbAoK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmlkZWEvCi5pZGVhLwouaWRlYS8KLmlkZWEvCi5pZGVhLwouaWRlYS8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2UgOmN1c3RvbWVyIGRvCiAgICByb290ICd0b3AjaW5kZXgnCiAgZW5kCg==</text>
+      <register name="4" type="8">
+        <text>.generators
+.rakeTasks
+encodings.xml
+inspectionProfiles/
+misc.xml
+modules.xml
+rails_tutorial_5_sample_app.iml</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">YXBwL2Fzc2V0cy9qYXZhc2NyaXB0cy9zdGF0aWNfcGFnZXMuY29mZmVlIGFwcC9hc3NldHMvc3R5bGVzaGVldHMvc3RhdGljX3BhZ2VzLnNjc3MKYXBwL2NvbnRyb2xsZXJzL3N0YXRpY19wYWdlc19jb250cm9sbGVyLnJiCmFwcC9oZWxwZXJzL3N0YXRpY19wYWdlc19oZWxwZXIucmIKYXBwL3ZpZXdzL3N0YXRpY19wYWdlcy8KdGVzdC9jb250cm9sbGVycy9zdGF0aWNfcGFnZXNfY29udHJvbGxlcl90ZXN0LnJiCg==</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFueXRoaW5nOiAK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvc3Q6ICdiYXVraXMuZXhhbXBsZS5jb20nLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2UgOmN1c3RvbWVyIGRvCiAgICByb290ICd0b3AjaW5kZXgnCiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
@@ -908,6 +923,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
