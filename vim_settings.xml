@@ -131,6 +131,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/config/routes.rb" timestamp="1519650608725">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/shared/application.html.erb" timestamp="1476621188326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
@@ -148,6 +154,11 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="27" />
         <mark key="^" line="15" column="28" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/help.html.erb" timestamp="1519650387138">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/railstutorial/sample_app/app/controllers/users_controller.rb" timestamp="1452349978393">
         <mark key="[" line="65" column="69" />
@@ -234,6 +245,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/home.html.erb" timestamp="1519649880346">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477761787522">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="35" />
@@ -245,6 +262,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1519650563713">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476619310881">
         <mark key="[" line="0" column="15" />
@@ -647,6 +670,12 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/controllers/static_pages_controller.rb" timestamp="1519650662613">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/1st_chapter/rental.rb" timestamp="1453815356649">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="44" />
@@ -782,24 +811,27 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>help</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmbiA9IGZhbWlseV9uYW1lc1tuICUgNF0uc3BsaXQoJzonKQo=</text>
+        <text encoding="base64">ICBkZWYgaGVscAogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvdGFza3MueG1sIC5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhL2R5bmFtaWMueG1sCi5pZGVhL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvZ3JhZGxlLnhtbAouaWRlYS9saWJyYXJpZXMKCiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbAoK</text>
+        <text encoding="base64">ICBib29rPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">LmlkZWEvdGFza3MueG1sIC5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhL2R5bmFtaWMueG1sCi5pZGVhL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvZ3JhZGxlLnhtbAouaWRlYS9saWJyYXJpZXMKCiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbAoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">LmlkZWEK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">LmlkZWEvCi5pZGVhLwouaWRlYS8KLmlkZWEvCi5pZGVhLwouaWRlYS8K</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>.generators
 .rakeTasks
 encodings.xml
@@ -808,26 +840,23 @@ misc.xml
 modules.xml
 rails_tutorial_5_sample_app.iml</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YXBwL2Fzc2V0cy9qYXZhc2NyaXB0cy9zdGF0aWNfcGFnZXMuY29mZmVlIGFwcC9hc3NldHMvc3R5bGVzaGVldHMvc3RhdGljX3BhZ2VzLnNjc3MKYXBwL2NvbnRyb2xsZXJzL3N0YXRpY19wYWdlc19jb250cm9sbGVyLnJiCmFwcC9oZWxwZXJzL3N0YXRpY19wYWdlc19oZWxwZXIucmIKYXBwL3ZpZXdzL3N0YXRpY19wYWdlcy8KdGVzdC9jb250cm9sbGVycy9zdGF0aWNfcGFnZXNfY29udHJvbGxlcl90ZXN0LnJiCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
-      </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2UgOmN1c3RvbWVyIGRvCiAgICByb290ICd0b3AjaW5kZXgnCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -867,7 +896,6 @@ rails_tutorial_5_sample_app.iml</text>
         <entry>split</entry>
         <entry>vsp</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>16</entry>
         <entry>23</entry>
         <entry encoding="base64">JzwsJz5jeWFuL3llbGxvdw==</entry>
@@ -883,6 +911,7 @@ rails_tutorial_5_sample_app.iml</text>
         <entry>%s/staff_member/administrator/gc</entry>
         <entry>%s/Staff/Admin/gc</entry>
         <entry>set nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -917,6 +946,9 @@ rails_tutorial_5_sample_app.iml</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
