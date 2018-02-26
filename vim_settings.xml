@@ -95,12 +95,6 @@
         <mark key="." line="14" column="45" />
         <mark key="^" line="14" column="45" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/services/admin/authenticator_spec.rb" timestamp="1477580858577">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" timestamp="1476801932936">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -485,12 +479,6 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/admin/layout.css.scss" timestamp="1477156234380">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/services/admin/authenticator.rb" timestamp="1477580418319">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="75" />
@@ -535,7 +523,7 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
-      <file name="/Ruby Console" timestamp="1519571088453">
+      <file name="/Ruby Console" timestamp="1519649138041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/sessions/new.html.erb" timestamp="1477577615425">
@@ -620,6 +608,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519648814868">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
         <mark key="[" line="38" column="0" />
