@@ -263,11 +263,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1519650563713">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1519651527286">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/top/index.html.erb" timestamp="1476619310881">
         <mark key="[" line="0" column="15" />
@@ -811,13 +811,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>help</text>
+        <text>Homwe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgaGVscAogIGVuZAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgInRpdGxlIiwgIkhvbWUgfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHAiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBib29rPC9hPgo=</text>
