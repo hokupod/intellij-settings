@@ -95,6 +95,13 @@
         <mark key="." line="14" column="45" />
         <mark key="^" line="14" column="45" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/assets/stylesheets/custom.scss" timestamp="1519742604227">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="99" column="1" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/experiments/string_spec.rb" timestamp="1476801932936">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -245,11 +252,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/home.html.erb" timestamp="1519739667743">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/home.html.erb" timestamp="1519741291342">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="5" column="2" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477761787522">
         <mark key="[" line="3" column="31" />
@@ -359,11 +367,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/layouts/application.html.erb" timestamp="1519739241514">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/layouts/application.html.erb" timestamp="1519742697610">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/application.rb" timestamp="1476544740130">
         <mark key="[" line="21" column="28" />
@@ -537,6 +545,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/Gemfile" timestamp="1519741615543">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/sessions_controller.rb" timestamp="1477761908806">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="20" column="17" />
@@ -563,8 +577,11 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
-      <file name="/Ruby Console" timestamp="1519739442760">
+      <file name="/Ruby Console" timestamp="1519741909821">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/admin/sessions/new.html.erb" timestamp="1477577615425">
         <mark key="[" line="5" column="33" />
@@ -654,7 +671,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519740093130">
+      <file name="/Dummy.txt" timestamp="1519742809047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
@@ -837,46 +854,49 @@
       <jump line="3" column="12" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/help.html.erb" />
       <jump line="4" column="24" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/help.html.erb" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/Guardfile" />
+      <jump line="6" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/views/static_pages/home.html.erb" />
+      <jump line="32" column="16" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/assets/stylesheets/custom.scss" />
+      <jump line="63" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/app/assets/stylesheets/custom.scss" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmFpbHMvdGVzdF9oZWxwJwo=</text>
+        <text encoding="base64">Z2VtICdyYWlscycsICAgICAgICAnNS4xLjQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICJIb21lIikgJT4K</text>
+        <text encoding="base64">PGgxPlNhbXBsZSBBcHA8L2gxPgo8cD4KICBUaGlzIGlzIHRoZSBob21lIHBhZ2UgZm9yIHRoZQogIDxhIGhyZWY9Imh0dHBzOi8vcmFpbHN0dXRvcmlhbC5qcC8iPlJ1Ynkgb24gUmFpbHMgVHV0b3JpYWw8L2E+CiAgc2FtcGxlIGFwcGxpY2F0aW9uLgo8L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBIHNhbXBsZSBHdWFyZGZpbGUKIyBNb3JlIGluZm8gYXQgaHR0cHM6Ly9naXRodWIuY29tL2d1YXJkL2d1YXJkI3JlYWRtZQoKIyMgVW5jb21tZW50IGFuZCBzZXQgdGhpcyB0byBvbmx5IGluY2x1ZGUgZGlyZWN0b3JpZXMgeW91IHdhbnQgdG8gd2F0Y2gKIyBkaXJlY3RvcmllcyAldyhhcHAgbGliIGNvbmZpZyB0ZXN0IHNwZWMgZmVhdHVyZXMpIFwKIyAgLnNlbGVjdHt8ZHwgRGlyLmV4aXN0cz8oZCkgPyBkIDogVUkud2FybmluZygiRGlyZWN0b3J5ICN7ZH0gZG9lcyBub3QgZXhpc3QiKX0KCiMjIE5vdGU6IGlmIHlvdSBhcmUgdXNpbmcgdGhlIGBkaXJlY3Rvcmllc2AgY2xhdXNlIGFib3ZlIGFuZCB5b3UgYXJlIG5vdAojIyB3YXRjaGluZyB0aGUgcHJvamVjdCBkaXJlY3RvcnkgKCcuJyksIHRoZW4geW91IHdpbGwgd2FudCB0byBtb3ZlCiMjIHRoZSBHdWFyZGZpbGUgdG8gYSB3YXRjaGVkIGRpciBhbmQgc3ltbGluayBpdCBiYWNrLCBlLmcuCiMKIyAgJCBta2RpciBjb25maWcKIyAgJCBtdiBHdWFyZGZpbGUgY29uZmlnLwojICAkIGxuIC1zIGNvbmZpZy9HdWFyZGZpbGUgLgojCiMgYW5kLCB5b3UnbGwgaGF2ZSB0byB3YXRjaCAiY29uZmlnL0d1YXJkZmlsZSIgaW5zdGVhZCBvZiAiR3VhcmRmaWxlIgoKZ3VhcmQgOm1pbml0ZXN0IGRvCiAgIyB3aXRoIE1pbml0ZXN0OjpVbml0CiAgd2F0Y2goJXJ7XnRlc3QvKC4qKVwvP3Rlc3RfKC4qKVwucmIkfSkKICB3YXRjaCglcntebGliLyguKi8pPyhbXi9dKylcLnJiJH0pICAgICB7IHxtfCAidGVzdC8je21bMV19dGVzdF8je21bMl19LnJiIiB9CiAgd2F0Y2goJXJ7XnRlc3QvdGVzdF9oZWxwZXJcLnJiJH0pICAgICAgeyAndGVzdCcgfQoKICAjIHdpdGggTWluaXRlc3Q6OlNwZWMKICAjIHdhdGNoKCVye15zcGVjLyguKilfc3BlY1wucmIkfSkKICAjIHdhdGNoKCVye15saWIvKC4rKVwucmIkfSkgICAgICAgICB7IHxtfCAic3BlYy8je21bMV19X3NwZWMucmIiIH0KICAjIHdhdGNoKCVye15zcGVjL3NwZWNfaGVscGVyXC5yYiR9KSB7ICdzcGVjJyB9CgogICMgUmFpbHMgNAogICMgd2F0Y2goJXJ7XmFwcC8oLispXC5yYiR9KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHxtfCAidGVzdC8je21bMV19X3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15hcHAvY29udHJvbGxlcnMvYXBwbGljYXRpb25fY29udHJvbGxlclwucmIkfSkgeyAndGVzdC9jb250cm9sbGVycycgfQogICMgd2F0Y2goJXJ7XmFwcC9jb250cm9sbGVycy8oLispX2NvbnRyb2xsZXJcLnJiJH0pICAgICAgICB7IHxtfCAidGVzdC9pbnRlZ3JhdGlvbi8je21bMV19X3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15hcHAvdmlld3MvKC4rKV9tYWlsZXIvLit9KSAgICAgICAgICAgICAgICAgICB7IHxtfCAidGVzdC9tYWlsZXJzLyN7bVsxXX1fbWFpbGVyX3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15saWIvKC4rKVwucmIkfSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyB8bXwgInRlc3QvbGliLyN7bVsxXX1fdGVzdC5yYiIgfQogICMgd2F0Y2goJXJ7XnRlc3QvLitfdGVzdFwucmIkfSkKICAjIHdhdGNoKCVye150ZXN0L3Rlc3RfaGVscGVyXC5yYiR9KSB7ICd0ZXN0JyB9CgogICMgUmFpbHMgPCA0CiAgIyB3YXRjaCglcnteYXBwL2NvbnRyb2xsZXJzLyguKilcLnJiJH0pIHsgfG18ICJ0ZXN0L2Z1bmN0aW9uYWwvI3ttWzFdfV90ZXN0LnJiIiB9CiAgIyB3YXRjaCglcnteYXBwL2hlbHBlcnMvKC4qKVwucmIkfSkgICAgIHsgfG18ICJ0ZXN0L2hlbHBlcnMvI3ttWzFdfV90ZXN0LnJiIiB9CiAgIyB3YXRjaCglcnteYXBwL21vZGVscy8oLiopXC5yYiR9KSAgICAgIHsgfG18ICJ0ZXN0L3VuaXQvI3ttWzFdfV90ZXN0LnJiIiB9CmVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwlPSB5aWVsZCAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICJIb21lIikgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBBIHNhbXBsZSBHdWFyZGZpbGUKIyBNb3JlIGluZm8gYXQgaHR0cHM6Ly9naXRodWIuY29tL2d1YXJkL2d1YXJkI3JlYWRtZQoKIyMgVW5jb21tZW50IGFuZCBzZXQgdGhpcyB0byBvbmx5IGluY2x1ZGUgZGlyZWN0b3JpZXMgeW91IHdhbnQgdG8gd2F0Y2gKIyBkaXJlY3RvcmllcyAldyhhcHAgbGliIGNvbmZpZyB0ZXN0IHNwZWMgZmVhdHVyZXMpIFwKIyAgLnNlbGVjdHt8ZHwgRGlyLmV4aXN0cz8oZCkgPyBkIDogVUkud2FybmluZygiRGlyZWN0b3J5ICN7ZH0gZG9lcyBub3QgZXhpc3QiKX0KCiMjIE5vdGU6IGlmIHlvdSBhcmUgdXNpbmcgdGhlIGBkaXJlY3Rvcmllc2AgY2xhdXNlIGFib3ZlIGFuZCB5b3UgYXJlIG5vdAojIyB3YXRjaGluZyB0aGUgcHJvamVjdCBkaXJlY3RvcnkgKCcuJyksIHRoZW4geW91IHdpbGwgd2FudCB0byBtb3ZlCiMjIHRoZSBHdWFyZGZpbGUgdG8gYSB3YXRjaGVkIGRpciBhbmQgc3ltbGluayBpdCBiYWNrLCBlLmcuCiMKIyAgJCBta2RpciBjb25maWcKIyAgJCBtdiBHdWFyZGZpbGUgY29uZmlnLwojICAkIGxuIC1zIGNvbmZpZy9HdWFyZGZpbGUgLgojCiMgYW5kLCB5b3UnbGwgaGF2ZSB0byB3YXRjaCAiY29uZmlnL0d1YXJkZmlsZSIgaW5zdGVhZCBvZiAiR3VhcmRmaWxlIgoKZ3VhcmQgOm1pbml0ZXN0IGRvCiAgIyB3aXRoIE1pbml0ZXN0OjpVbml0CiAgd2F0Y2goJXJ7XnRlc3QvKC4qKVwvP3Rlc3RfKC4qKVwucmIkfSkKICB3YXRjaCglcntebGliLyguKi8pPyhbXi9dKylcLnJiJH0pICAgICB7IHxtfCAidGVzdC8je21bMV19dGVzdF8je21bMl19LnJiIiB9CiAgd2F0Y2goJXJ7XnRlc3QvdGVzdF9oZWxwZXJcLnJiJH0pICAgICAgeyAndGVzdCcgfQoKICAjIHdpdGggTWluaXRlc3Q6OlNwZWMKICAjIHdhdGNoKCVye15zcGVjLyguKilfc3BlY1wucmIkfSkKICAjIHdhdGNoKCVye15saWIvKC4rKVwucmIkfSkgICAgICAgICB7IHxtfCAic3BlYy8je21bMV19X3NwZWMucmIiIH0KICAjIHdhdGNoKCVye15zcGVjL3NwZWNfaGVscGVyXC5yYiR9KSB7ICdzcGVjJyB9CgogICMgUmFpbHMgNAogICMgd2F0Y2goJXJ7XmFwcC8oLispXC5yYiR9KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHxtfCAidGVzdC8je21bMV19X3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15hcHAvY29udHJvbGxlcnMvYXBwbGljYXRpb25fY29udHJvbGxlclwucmIkfSkgeyAndGVzdC9jb250cm9sbGVycycgfQogICMgd2F0Y2goJXJ7XmFwcC9jb250cm9sbGVycy8oLispX2NvbnRyb2xsZXJcLnJiJH0pICAgICAgICB7IHxtfCAidGVzdC9pbnRlZ3JhdGlvbi8je21bMV19X3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15hcHAvdmlld3MvKC4rKV9tYWlsZXIvLit9KSAgICAgICAgICAgICAgICAgICB7IHxtfCAidGVzdC9tYWlsZXJzLyN7bVsxXX1fbWFpbGVyX3Rlc3QucmIiIH0KICAjIHdhdGNoKCVye15saWIvKC4rKVwucmIkfSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyB8bXwgInRlc3QvbGliLyN7bVsxXX1fdGVzdC5yYiIgfQogICMgd2F0Y2goJXJ7XnRlc3QvLitfdGVzdFwucmIkfSkKICAjIHdhdGNoKCVye150ZXN0L3Rlc3RfaGVscGVyXC5yYiR9KSB7ICd0ZXN0JyB9CgogICMgUmFpbHMgPCA0CiAgIyB3YXRjaCglcnteYXBwL2NvbnRyb2xsZXJzLyguKilcLnJiJH0pIHsgfG18ICJ0ZXN0L2Z1bmN0aW9uYWwvI3ttWzFdfV90ZXN0LnJiIiB9CiAgIyB3YXRjaCglcnteYXBwL2hlbHBlcnMvKC4qKVwucmIkfSkgICAgIHsgfG18ICJ0ZXN0L2hlbHBlcnMvI3ttWzFdfV90ZXN0LnJiIiB9CiAgIyB3YXRjaCglcnteYXBwL21vZGVscy8oLiopXC5yYiR9KSAgICAgIHsgfG18ICJ0ZXN0L3VuaXQvI3ttWzFdfV90ZXN0LnJiIiB9CmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9ib2R5PiA8L2h0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
