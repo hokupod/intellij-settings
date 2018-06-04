@@ -124,11 +124,11 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="23" column="77" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/triangle.rb" timestamp="1528122973519">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="28" column="44" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/triangle.rb" timestamp="1528126639671">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
@@ -281,7 +281,7 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1528122115977">
+      <file name="/fragment.rb" timestamp="1528125260253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/staff/shared/_header.html.erb" timestamp="1477761787522">
@@ -456,11 +456,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/spec/triangle_spec.rb" timestamp="1528123107624">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="21" column="41" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/spec/triangle_spec.rb" timestamp="1528126573451">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1477755795295">
         <mark key="[" line="3" column="32" />
@@ -624,7 +624,7 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
-      <file name="/Ruby Console" timestamp="1528122016014">
+      <file name="/Ruby Console" timestamp="1528126425902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -724,7 +724,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528123339810">
+      <file name="/Dummy.txt" timestamp="1528126664359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -919,43 +919,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>_url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgJ1JlZ3VsYXIgdHJpYW5nbGUnIGRvCiAgICAgIGxldCg6c2lkZXMpIHsgWzEsIDEsIDFdIH0KICAgICAgaXQgeyBpc19leHBlY3RlZC50byBlcSAn5q2j5LiJ6KeS5b2i44Gn44GZ44Gt77yBJyB9CiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgW3NpZGVfYSwgc2lkZV9iLCBzaWRlX2NdLnVuaXEuY291bnQgPT0gMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgJ0lzb3NjZWxlcyB0cmlhbmdsZXMyJyBkbwogICAgICBsZXQoOnNpZGVzKSB7IFsyLCAyLCAzXSB9CiAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S6jOetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJpID0gVHJpYW5nbGUubmV3IDIsIDMsIDQKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDIsIDIsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDEsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDIsIDMKcCB0cmkuc2hhcGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgW3NpZGVfYSwgc2lkZV9iLCBzaWRlX2NdLnVuaXEuY291bnQgPT0gMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGR1cGxpY2F0ZV9zaWRlICogMiA9PSBzaWRlcy5maWx0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S4jeetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQo=</text>
+        <text encoding="base64">cCBpbnB1dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCg6ZWRnZXMpIHsgWzEsIDEsIDFdIH0K</text>
+        <text encoding="base64">cCBpbnB1dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyB0cmlhbmdsZS5zaGFwZSB9Cg==</text>
+        <text encoding="base64">dHJpID0gVHJpYW5nbGUubmV3IDIsIDMsIDQKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDIsIDIsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDEsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDIsIDMKcCB0cmkuc2hhcGUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Jwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgCg==</text>
+        <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S4jeetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL191cmwvX3BhdGgv</text>
