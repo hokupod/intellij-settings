@@ -456,11 +456,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/spec/triangle_spec.rb" timestamp="1528126573451">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="15" column="0" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/spec/triangle_spec.rb" timestamp="1528209511951">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/admin/top_controller.rb" timestamp="1477755795295">
         <mark key="[" line="3" column="32" />
@@ -919,46 +919,46 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>3</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>_url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgW3NpZGVfYSwgc2lkZV9iLCBzaWRlX2NdLnVuaXEuY291bnQgPT0gMwo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgJ1VuZXF1YWwgdHJpYW5nbGVzJyBkbwogICAgICBsZXQoOnNpZGVzKSB7IFsyLCAzLCA0XSB9CiAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S4jeetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgJ0lzb3NjZWxlcyB0cmlhbmdsZXMyJyBkbwogICAgICBsZXQoOnNpZGVzKSB7IFsyLCAyLCAzXSB9CiAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S6jOetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgW3NpZGVfYSwgc2lkZV9iLCBzaWRlX2NdLnVuaXEuY291bnQgPT0gMgo=</text>
+        <text encoding="base64">ICAgICAgbGV0KDpzaWRlcykgeyBbMiwgMywgNF0gfQogICAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIGVxICfkuI3nrYnovrrkuInop5LlvaLjgafjgZnjga3vvIEnIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGR1cGxpY2F0ZV9zaWRlICogMiA9PSBzaWRlcy5maWx0ZXIK</text>
+        <text encoding="base64">ICAgICAgbGV0KDpzaWRlcykgeyBbMywgMywgNF0gfQogICAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIGVxICfkuI3nrYnovrrkuInop5LlvaLjgafjgZnjga3vvIEnIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cCBpbnB1dAo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgJ0lzb3NjZWxlcyB0cmlhbmdsZXMyJyBkbwogICAgICBsZXQoOnNpZGVzKSB7IFsyLCAyLCAzXSB9CiAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S6jOetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cCBpbnB1dAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgW3NpZGVfYSwgc2lkZV9iLCBzaWRlX2NdLnVuaXEuY291bnQgPT0gMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR1cGxpY2F0ZV9zaWRlICogMiA9PSBzaWRlcy5maWx0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJpID0gVHJpYW5nbGUubmV3IDIsIDMsIDQKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDIsIDIsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDEsIDEKcCB0cmkuc2hhcGUKdHJpID0gVHJpYW5nbGUubmV3IDEsIDIsIDMKcCB0cmkuc2hhcGUK</text>
+        <text encoding="base64">cCBpbnB1dAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cCBpbnB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S4jeetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL191cmwvX3BhdGgv</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -995,7 +995,6 @@
       </history-search>
       <history-cmd>
         <entry>split</entry>
-        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>16</entry>
         <entry>23</entry>
@@ -1014,6 +1013,7 @@
         <entry>set nohlsearch</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL191cmwvX3BhdGgv</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
