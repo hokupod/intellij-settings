@@ -15,11 +15,11 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/models/entry.rb" timestamp="1531579601262">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/models/entry.rb" timestamp="1531837024340">
         <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/spec/rails_helper.rb" timestamp="1457514327512">
         <mark key="[" line="60" column="0" />
@@ -227,6 +227,12 @@
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
+      </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/models/blog.rb" timestamp="1531837001085">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/db/seeds.rb" timestamp="1477156602730">
         <mark key="[" line="0" column="30" />
@@ -538,6 +544,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/db/migrate/20180717141348_add_blog_id_to_entry.rb" timestamp="1531836858351">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="16" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/Gemfile" timestamp="1519741615543">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -669,7 +679,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531739947799">
+      <file name="/Dummy.txt" timestamp="1531836756056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -863,7 +873,7 @@
         <text>_url</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCU9IEVOVlsnTVlTUUxfSE9TVCddICU+</text>
+        <text>add_reference</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LmVudnJjCg==</text>
