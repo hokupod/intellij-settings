@@ -483,6 +483,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/routes.rb" timestamp="1532615322614">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="57" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/errors/internal_server_error.html.erb" timestamp="1476800203315">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="2" column="31" />
@@ -693,7 +699,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532533089774">
+      <file name="/Dummy.txt" timestamp="1532614929212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
@@ -898,54 +904,54 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHRoaXMK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXNvdXJjZXMgOmVudHJpZXMgZG8KICBlbmQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc291cmNlcyAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IHRoaXMK</text>
+      </register>
+      <register name="7" type="8">
         <text>//
 //
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2VtICdlcmIyaGFtbCcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBnZW0gJ2hpcmInCiAgZ2VtICdoaXJiLXVuaWNvZGUnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LmVudnJjCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogcm9vdAogIHBhc3N3b3JkOiBDUkVhdGl2ZTExOTIhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ICflkIzjgZjplbfjgZXjga4y6L6644KS6Laz44GX44Gf5YCk44KI44KK44Gd44Gu5LuW44GuMei+uuOBruWApOOBjOWkp+OBjeOBhCcgZG8KICAgICAgICAgIGxldCg6c2lkZXMpIHsgWzIsIDIsIDVdIH0KICAgICAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gZXEgJ+S6jOetiei+uuS4ieinkuW9ouOBp+OBmeOBre+8gScgfQogICAgICAgIGVuZAo=</text>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
