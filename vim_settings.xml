@@ -483,11 +483,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/routes.rb" timestamp="1532615322614">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-        <mark key="^" line="2" column="57" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/routes.rb" timestamp="1532615524033">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/views/errors/internal_server_error.html.erb" timestamp="1476800203315">
         <mark key="[" line="1" column="36" />
@@ -658,6 +658,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/blog_controller.rb" timestamp="1532615748607">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/forms/admin/login_form.rb" timestamp="1477576876496">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="1" />
@@ -699,7 +705,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532614929212">
+      <file name="/Dummy.txt" timestamp="1532615539272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
@@ -895,7 +901,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(this)</text>
+        <text>, only: [:new, :show, :edit, :update]</text>
       </register>
       <register name="/" type="4">
         <text>_url</text>
@@ -904,54 +910,39 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOmVudHJpZXMgZG8KICBlbmQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IHRoaXMK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXNvdXJjZXMgOmVudHJpZXMgZG8KICBlbmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc291cmNlcyAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IHRoaXMK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
+      <register name="8" type="8">
         <text>//
 //
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
