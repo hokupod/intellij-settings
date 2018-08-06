@@ -156,6 +156,12 @@
         <mark key="]" line="39" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comment_notice_mailer/sendmail.text.haml" timestamp="1533560401850">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="49" />
@@ -635,11 +641,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/environments/development.rb" timestamp="1533558574647">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="1" />
-        <mark key="." line="35" column="1" />
-        <mark key="^" line="35" column="1" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/environments/development.rb" timestamp="1533558821126">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/assets/stylesheets/application.css" timestamp="1457528691190">
         <mark key="[" line="17" column="0" />
@@ -951,6 +957,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/mailers/comment_notice_mailer.rb" timestamp="1533559852068">
+        <mark key="'" line="1" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/shared/errors.css.scss" timestamp="1476800540470">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="12" column="25" />
@@ -970,7 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/config/initializers/devise.rb" />
       <jump line="9" column="5" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
       <jump line="11" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
       <jump line="6" column="6" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/models/user.rb" />
@@ -1070,10 +1081,11 @@
       <jump line="4" column="51" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/comments_controller.rb" />
       <jump line="11" column="7" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comments/_index.html.haml" />
       <jump line="13" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comments/_index.html.haml" />
+      <jump line="1" column="37" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/mailers/comment_notice_mailer.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>hirb-unicode</text>
+        <text>entry.</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
@@ -1082,34 +1094,34 @@
         <text encoding="base64">ICBnZW0gJ2hpcmItdW5pY29kZScK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAjCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEBjb21tZW50LmFwcHJvdmVkIQo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAg</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">cmVtb3RlOiB0cnVlLCAKcmVtb3RlOiB0cnVlLCA=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19lbnRyeV9wYXRoKGJsb2dfaWQ6IEBjb21tZW50LmVudHJ5LmJsb2csIGlkOiBAY29tbWVudC5lbnRyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjb21tZW50Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">cmVtb3RlOiB0cnVlLCAKcmVtb3RlOiB0cnVlLCA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjb21tZW50LnN0YXR1cyA9IENvbW1lbnQuc3RhdHVzWzphcHByb3ZlZF0K</text>
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19lbnRyeV9wYXRoKGJsb2dfaWQ6IEBjb21tZW50LmVudHJ5LmJsb2csIGlkOiBAY29tbWVudC5lbnRyeSkK</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
