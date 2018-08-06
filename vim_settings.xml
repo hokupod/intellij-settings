@@ -693,12 +693,12 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1533207536916">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1533557503696">
         <mark key="'" line="23" column="23" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="21" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="19" />
+        <mark key="^" line="59" column="19" />
+        <mark key="." line="59" column="19" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/services/admin/authenticator.rb" timestamp="1477580418319">
         <mark key="[" line="8" column="60" />
@@ -1067,13 +1067,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>hirb-unicode</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
       </register>
-      <register name="0" type="4">
-        <text>comment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnZW0gJ2hpcmItdW5pY29kZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBjb21tZW50LmFwcHJvdmVkIQo=</text>
