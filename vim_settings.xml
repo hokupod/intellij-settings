@@ -711,10 +711,10 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1533565305502">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1533648234511">
         <mark key="'" line="23" column="23" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="30" />
         <mark key="." line="65" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/services/admin/authenticator.rb" timestamp="1477580418319">
@@ -1090,8 +1090,8 @@
       <register name="/" type="4">
         <text>entry</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsb2cudGl0bGUgPSAidGl0bGUiCiAgICBleHBlY3QoYmxvZy52YWxpZD8pLnRvIGJlX3RydXRoeQo=</text>
+      <register name="0" type="4">
+        <text>rails-controller-testing</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
