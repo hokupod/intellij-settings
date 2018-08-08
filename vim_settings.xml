@@ -9,6 +9,13 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" timestamp="1533652833572">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str2.rb" timestamp="1458200911671">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="53" column="2" />
@@ -569,6 +576,12 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="12" column="8" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/factories/blogs.rb" timestamp="1533651786875">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/spec/factories/administrators.rb" timestamp="1477580618557">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="15" />
@@ -826,11 +839,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/rails_helper.rb" timestamp="1533649137487">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="1" />
-        <mark key="." line="64" column="1" />
-        <mark key="^" line="64" column="1" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/rails_helper.rb" timestamp="1533652631630">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+        <mark key="^" line="62" column="13" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/forms/admin/login_form.rb" timestamp="1477576876496">
         <mark key="[" line="1" column="2" />
@@ -988,8 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/application.html.slim" />
-      <jump line="28" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" />
       <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" />
       <jump line="36" column="4" filename="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/layouts/_header.html.slim" />
       <jump line="53" column="2" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
@@ -1088,46 +1099,48 @@
       <jump line="5" column="31" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comment_notice_mailer/sendmail.text.haml" />
       <jump line="6" column="26" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comment_notice_mailer/sendmail.text.haml" />
       <jump line="2" column="9" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/comment_notice_mailer/sendmail.text.haml" />
+      <jump line="0" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" />
+      <jump line="6" column="23" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>truthy</text>
+        <text>new_blog</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
       </register>
       <register name="0" type="4">
-        <text>rails-controller-testing</text>
+        <text>attributes_for</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGxldCg6bmV3X2Jsb2cpIHsgYnVpbGQgOmJsb2cgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+        <text encoding="base64">ICAgIGxldCg6bmV3X2Jsb2cpIHsgYnVpbGQgOmJsb2cgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zdCA6Y3JlYXRlLCB7IHRpdGxlOiAndGl0bGVfbmFtZScgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JvdXAgOnRlc3QgZG8KZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZW0gJ3JzcGVjLXJhaWxzJwogIGdlbSAnZmFjdG9yeV9ib3RfcmFpbHMnCiAgZ2VtICdyYWlscy1jb250cm9sbGVyLXRlc3RpbmcnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zCg==</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QmxvZzogCiAgPSBAY29tbWVudC5lbnRyeS5ibG9nLnRpdGxlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9ICN7QGNvbW1lbnQuZW50cnkudGl0bGV9Cg==</text>
+        <text encoding="base64">Z3JvdXAgOnRlc3QgZG8KZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QmxvZzogPSAje0Bjb21tZW50LmVudHJ5LmJsb2cudGl0bGV9Cg==</text>
+        <text encoding="base64">ICBnZW0gJ3JzcGVjLXJhaWxzJwogIGdlbSAnZmFjdG9yeV9ib3RfcmFpbHMnCiAgZ2VtICdyYWlscy1jb250cm9sbGVyLXRlc3RpbmcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
