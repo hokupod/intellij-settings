@@ -166,11 +166,10 @@
         <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="70" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" timestamp="1533826117485">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" timestamp="1534074941432">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
@@ -890,7 +889,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533823618988">
+      <file name="/Dummy.txt" timestamp="1534074953702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -1114,34 +1113,34 @@
         <text>'Blog管理'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ2NhcHliYXJhJwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBnZW0gJ2NhcHliYXJhJwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGRvCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmVhdHVyZSAnQmxvZ+euoeeQhicgZG8K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRvCiAgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlKSB7IHJlZGlyZWN0X3RvIGJsb2dfcGF0aChhc3NpZ25zKDpibG9nKSkgfQo=</text>
+        <text encoding="base64">ICAgIHZpc2l0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAYmxvZyA9IGF0dHJpYnV0ZXNfZm9yKDpibG9nKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICBnZW0gJ2NhcHliYXJhJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCg6bmV3X2Jsb2cpIHsgYnVpbGQgOmJsb2cgfQo=</text>
+        <text encoding="base64">ICBnZW0gJ2NhcHliYXJhJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCg6bmV3X2Jsb2cpIHsgYnVpbGQgOmJsb2cgfQo=</text>
+        <text encoding="base64">ZmVhdHVyZSAnQmxvZ+euoeeQhicgZG8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9zdCA6Y3JlYXRlLCB7IHRpdGxlOiAndGl0bGVfbmFtZScgfQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlKSB7IHJlZGlyZWN0X3RvIGJsb2dfcGF0aChhc3NpZ25zKDpibG9nKSkgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgICBAYmxvZyA9IGF0dHJpYnV0ZXNfZm9yKDpibG9nKQogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
