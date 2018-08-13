@@ -729,8 +729,12 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1534033865472">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/Gemfile" timestamp="1534164537077">
         <mark key="'" line="23" column="23" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="38" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/services/admin/authenticator.rb" timestamp="1477580418319">
         <mark key="[" line="8" column="60" />
@@ -817,6 +821,12 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/environments/production.rb" timestamp="1534164994954">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="97" column="26" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/regular_price.rb" timestamp="1453818829406">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="23" />
@@ -896,11 +906,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534159907843">
+      <file name="/Dummy.txt" timestamp="1534165063596">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/config/environments/test.rb" timestamp="1477832643220">
         <mark key="[" line="38" column="0" />
@@ -1111,7 +1121,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(last_blog)</text>
+        <text>ENV['SENDGRID_USERNAME']</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
@@ -1120,34 +1130,34 @@
         <text>utf8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhc3RfYmxvZyA9IEJsb2cuYWxsLmxhc3QK</text>
+        <text encoding="base64">ICAgICAgOmVuYWJsZV9zdGFydHRsc19hdXRvID0+IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhc3RfYmxvZyA9IEJsb2cuYWxsLmxhc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZpc2l0IGJsb2dzX3BhdGgKICAgIGNsaWNrX2xpbmsgJ05ldyBCbG9nJwogICAgZmlsbF9pbiAnVGl0bGUnLCB3aXRoOiAndGl0bGUnCgogICAgZXhwZWN0IHsKICAgICAgY2xpY2tfYnV0dG9uICdTYXZlJwogICAgfS50byBjaGFuZ2UoQmxvZywgOmNvdW50KS5ieSgxKQogICAgZXhwZWN0KGN1cnJlbnRfcGF0aCkudG8gZXEgYmxvZ3NfcGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIHZpc2l0IGJsb2dzX3BhdGgKICAgIGNsaWNrX2xpbmsgJ05ldyBCbG9nJwogICAgZmlsbF9pbiAnVGl0bGUnLCB3aXRoOiAndGl0bGUnCgogICAgZXhwZWN0IHsKICAgICAgY2xpY2tfYnV0dG9uICdTYXZlJwogICAgfS50byBjaGFuZ2UoQmxvZywgOmNvdW50KS5ieSgxKQogICAgZXhwZWN0KGN1cnJlbnRfcGF0aCkudG8gZXEgYmxvZ3NfcGF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgY3JlYXRlZC4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgdXBkYXRlZC4nCg==</text>
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgY3JlYXRlZC4nCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
