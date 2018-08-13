@@ -500,6 +500,9 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/log/development.log" timestamp="1534135909274">
+        <mark key="'" line="151" column="24" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/refactoring_ruby/spec/1st_chapter/movie_spec.rb" timestamp="1453817932223">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -765,7 +768,7 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
-      <file name="/Ruby Console" timestamp="1534122891396">
+      <file name="/Ruby Console" timestamp="1534136142955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -1005,7 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="15" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="9" column="11" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="10" column="10" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="13" column="35" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
@@ -1105,6 +1107,7 @@
       <jump line="16" column="64" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" />
       <jump line="19" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/blogs_controller.rb" />
       <jump line="13" column="61" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" />
+      <jump line="151" column="24" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/log/development.log" />
     </jumps>
     <registers>
       <register name="-" type="4">
