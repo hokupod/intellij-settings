@@ -786,12 +786,12 @@
         <mark key="^" line="35" column="46" />
         <mark key="." line="35" column="46" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/database.yml" timestamp="1531577060623">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/config/database.yml" timestamp="1534159887924">
         <mark key="'" line="4" column="32" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="10" column="26" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/assets/stylesheets/staff/_dimensions.css.scss" timestamp="1476627050547">
         <mark key="[" line="0" column="20" />
@@ -896,7 +896,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534125386701">
+      <file name="/Dummy.txt" timestamp="1534159907843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -1116,8 +1116,8 @@
       <register name="/" type="4">
         <text>entry</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQgJ0Jsb2cgd2FzIHN1Y2Nlc3NmdWxseSBjcmVhdGVkLicK</text>
+      <register name="0" type="4">
+        <text>utf8</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxhc3RfYmxvZyA9IEJsb2cuYWxsLmxhc3QK</text>
