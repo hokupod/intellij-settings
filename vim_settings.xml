@@ -34,11 +34,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="52" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/blogs/show.html.haml" timestamp="1533046257092">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="9" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/blogs/show.html.haml" timestamp="1534122789045">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/blogs/new.html.haml" timestamp="1532617811319">
         <mark key="[" line="2" column="22" />
@@ -46,11 +46,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/blogs_controller.rb" timestamp="1534077030496">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/blogs_controller.rb" timestamp="1534124777049">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/apple_applications/index.json.jbuilder" timestamp="1459242265782">
         <mark key="[" line="1" column="81" />
@@ -100,8 +100,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/entries_controller.rb" timestamp="1534077906333">
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/entries_controller.rb" timestamp="1534124403095">
         <mark key="'" line="2" column="0" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="37" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="37" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/triangle/.gitignore" timestamp="1528118919704">
         <mark key="[" line="6" column="6" />
@@ -162,11 +166,12 @@
         <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="70" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" timestamp="1534080661465">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" timestamp="1534125245782">
+        <mark key="'" line="22" column="61" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/StoreWatcher/app/views/devise/sessions/new.html.slim" timestamp="1457533816838">
         <mark key="[" line="18" column="45" />
@@ -514,11 +519,11 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/blogs/index.html.haml" timestamp="1532617393529">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="11" />
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/views/blogs/index.html.haml" timestamp="1534122932467">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
         <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/Baukis/app/controllers/staff/base.rb" timestamp="1477155992400">
         <mark key="[" line="1" column="0" />
@@ -760,7 +765,7 @@
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
       </file>
-      <file name="/Ruby Console" timestamp="1534077301734">
+      <file name="/Ruby Console" timestamp="1534122891396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -888,7 +893,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534077988852">
+      <file name="/Dummy.txt" timestamp="1534125386701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -1000,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="8" column="15" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="9" column="11" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
       <jump line="10" column="10" filename="$USER_HOME$/Dropbox/Work/Draft/paw_json/get_item_csv_str.rb" />
@@ -1100,46 +1104,47 @@
       <jump line="18" column="41" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" />
       <jump line="16" column="64" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/controllers/blogs_controller_spec.rb" />
       <jump line="19" column="0" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/app/controllers/blogs_controller.rb" />
+      <jump line="13" column="61" filename="/Volumes/JetDrive/GitHub/hokupod/hello_rails/spec/features/blogs_spec.rb" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>attributes_for(:blog)</text>
+        <text>(last_blog)</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
       </register>
-      <register name="0" type="4">
-        <text>Entry was successfully created.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQgJ0Jsb2cgd2FzIHN1Y2Nlc3NmdWxseSBjcmVhdGVkLicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgY3JlYXRlZC4nCg==</text>
+        <text encoding="base64">ICAgIGxhc3RfYmxvZyA9IEJsb2cuYWxsLmxhc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgdXBkYXRlZC4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGJsb2dfcGF0aChpZDogQGVudHJ5LmJsb2cpLCBub3RpY2U6ICdFbnRyeSB3YXMgc3VjY2Vzc2Z1bGx5IGRlc3Ryb3llZC4nCg==</text>
+        <text encoding="base64">ICAgIHZpc2l0IGJsb2dzX3BhdGgKICAgIGNsaWNrX2xpbmsgJ05ldyBCbG9nJwogICAgZmlsbF9pbiAnVGl0bGUnLCB3aXRoOiAndGl0bGUnCgogICAgZXhwZWN0IHsKICAgICAgY2xpY2tfYnV0dG9uICdTYXZlJwogICAgfS50byBjaGFuZ2UoQmxvZywgOmNvdW50KS5ieSgxKQogICAgZXhwZWN0KGN1cnJlbnRfcGF0aCkudG8gZXEgYmxvZ3NfcGF0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JXAjbm90aWNlPSBub3RpY2UK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXgKICAgIEBlbnRyaWVzID0gRW50cnkuYWxsCiAgZW5kCgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGRvCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGRvCiAgZW5k</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgY3JlYXRlZC4nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZpc2l0Cg==</text>
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYmxvZ19wYXRoKGlkOiBAZW50cnkuYmxvZyksIG5vdGljZTogJ0VudHJ5IHdhcyBzdWNjZXNzZnVsbHkgdXBkYXRlZC4nCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nohlsearch</text>
