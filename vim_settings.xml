@@ -754,6 +754,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/Volumes/JetDrive/GitHub/hokupod/hello_rails/db/migrate/20180717141348_add_blog_id_to_entry.rb" timestamp="1534253008443">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
       <file name="/Volumes/JetDrive/GitHub/hokupod/rails_tutorial_5_sample_app/Gemfile" timestamp="1519741615543">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -906,7 +912,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534171942426">
+      <file name="/Dummy.txt" timestamp="1534252430539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -1127,7 +1133,7 @@
         <text>entry</text>
       </register>
       <register name="0" type="4">
-        <text>.find(params[:id])</text>
+        <text>add_reference</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBlbnRyeSA9IEJsb2cuZmluZChwYXJhbXNbOmJsb2dfaWRdKS5lbnRyaWVzLmZpbmQocGFyYW1zWzppZF0pCg==</text>
